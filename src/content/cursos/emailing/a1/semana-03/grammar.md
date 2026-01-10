@@ -1,45 +1,64 @@
-# Emailing A1 — Semana 03 — Grammar
-**Tema:** Preposiciones de tiempo: on / at  
-**Duración:** 10–15 min
+# Semana 03 — Grammar (A1): Roles & departments
 
-## Micro‑lección (A1)
-Usa:
-- **on** + day (Monday, Tuesday)
-  - on Monday
-  - on Tuesday
-- **at** + time (10:00, 2 pm)
-  - at 10:00
-  - at 14:00
+## Objetivo (ES)
+Escribir emails cortos para decir tu **rol** y **departamento** y preguntar el rol de otra persona.
+Punto clave A1: **a/an** + profesiones.
 
-Estructuras útiles:
-- **Can we meet on Monday at 10:00?**
-- **Are you available on Tuesday at 14:00?**
+---
 
-## Ejercicios
+## 1) A / AN (A1) — job titles
 
-### A) Completa con on / at
-1) ___ Monday  
-2) ___ 10:00  
-3) ___ Tuesday  
-4) ___ 14:00  
-5) Can we meet ___ Wednesday ___ 09:00?
+Use:
+- **a** + consonant sound: a manager, a receptionist, a project assistant
+- **an** + vowel sound: an assistant, an intern
 
-### B) Ordena las palabras
-6) meet / we / can / on / Monday  
-7) at / 10:00 / Monday / on / meet / we / can
+✅ Examples:
+- I am **a** manager.
+- I am **an** assistant.
+- She is **an** intern. (solo como ejemplo, tú usarás I am / You are)
 
-### C) Elige la opción correcta (A o B)
-8) A) Can we meet **on** Monday?  B) Can we meet **at** Monday?  
-9) A) Can we meet **at** 14:00?   B) Can we meet **on** 14:00?
+---
 
-## Soluciones
-1) on  
-2) at  
-3) on  
-4) at  
-5) on / at  
-6) Can we meet on Monday?  
-7) Can we meet on Monday at 10:00?  
-8) A  
-9) A
+## 2) “I am…” + role / department (A1)
 
+- I am a manager.
+- I am an assistant.
+- I am in Sales.
+- I am in the Sales department.
+
+✅ Tip: 1 idea por frase.
+- I am an assistant. I am in HR.
+
+---
+
+## 3) Asking (A1)
+
+- What is your role?
+- Are you in Sales?
+- What department are you in? (opcional, si lo quieres más simple: “Are you in Sales?”)
+
+Polite close:
+- Thank you.
+- Please confirm.
+
+---
+
+## 4) Mini practice (A1)
+
+### A) Choose a / an
+1) I am __ assistant.  
+2) I am __ manager.  
+3) I am __ intern.  
+4) I am __ receptionist.
+
+**Answers:** 1) an  2) a  3) an  4) a
+
+### B) Make it correct (error correction)
+1) I am a assistant.  
+2) I am an manager.  
+3) I am in the Sales team department.  
+
+**Possible answers**
+1) I am an assistant.  
+2) I am a manager.  
+3) I am in the Sales department. / I am in the Sales team.

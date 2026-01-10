@@ -1,42 +1,67 @@
-# Emailing A1 — Semana 03 — Reading
-**Tema:** Fechas y horas (availability)  
-**Duración:** 10–15 min
+# Semana 03 — Reading (A1): Roles & departments
 
-## Texto (A1)
-**Subject:** Meeting time
+## Reading 1
 
-Hi Jordan,  
-Can we meet on Monday at 10:00?  
-Or on Tuesday at 14:00?  
-Please confirm the time.  
-Thank you.  
+**Subject:** Introduction – role
+
+Hello Tom,  
+My name is Ana.  
+I am **an assistant**.  
+I am in the **Support** department.  
+Nice to meet you.  
+
+Kind regards,  
+Ana
+
+### Comprehension (A1)
+1) Ana is…  
+a) a manager  b) an assistant  c) an intern  
+
+2) Ana is in…  
+a) Sales  b) Support  c) Finance  
+
+3) The email is…  
+a) an introduction  b) a complaint  c) a reminder  
+
+4) Ana says…  
+a) Please pay  b) Nice to meet you  c) I can’t open the file  
+
+**Answers:** 1) b  2) b  3) a  4) b
+
+---
+
+## Reading 2
+
+**Subject:** Quick question
+
+Hi Ana,  
+Thank you for your email.  
+What is your role?  
+Are you in the Support department?  
+Please confirm.  
+
 Best regards,  
-Alex
+Tom
 
-## Preguntas
-1) What is the subject?  
-A) Price list  B) Meeting time  C) New contact
+### Comprehension (A1)
+1) Tom asks…  
+a) for money  b) two questions  c) for an invoice  
 
-2) Alex предлагает 2 opciones:  
-A) Monday 10:00 and Tuesday 14:00  
-B) Wednesday 10:00 and Friday 14:00  
-C) Monday 14:00 and Tuesday 10:00
+2) Tom asks about Ana’s…  
+a) role and department  b) phone number  c) address  
 
-3) “Please confirm the time” means:  
-A) Por favor confirma la hora  
-B) Por favor envía el precio  
-C) Por favor cancela la reunión
+3) Tom says…  
+a) Please confirm  b) Please resend  c) Please cancel  
 
-4) The email is polite because it uses:  
-A) please  B) emojis  C) slang
+4) The tone is…  
+a) polite  b) angry  c) funny  
 
-5) The closing is:  
-A) Hi Jordan  B) Thank you  C) Best regards
+**Answers:** 1) b  2) a  3) a  4) a
 
-## Soluciones
-1) B  
-2) A  
-3) A  
-4) A  
-5) C
+---
 
+## Extra task (10 min)
+Underline:
+- all job titles
+- all departments
+- all a/an words

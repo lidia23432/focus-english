@@ -1,14 +1,27 @@
 {
-  "course": "emailing",
+  "title": "Semana 03 — Roles & departments (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 3,
-  "title": "Fechas y horas (proponer disponibilidad)",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": {
-    "reading": 15,
-    "grammar": 15,
-    "writing": 25,
-    "review": 5
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "job titles and departments",
+    "introducing your role at work",
+    "asking someone’s role",
+    "short polite work emails"
+  ],
+  "outcomes": [
+    "I can say my job and department in a short email.",
+    "I can ask someone about their role and department.",
+    "I can use a/an correctly with job titles."
+  ],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
   }
 }
-
