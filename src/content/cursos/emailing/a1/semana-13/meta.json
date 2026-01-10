@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 13,
+  "title": "Updates simples (Present Simple: I/you)",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": { "reading": 25, "grammar": 30, "writing": 35, "review": 5 }
+}
+
