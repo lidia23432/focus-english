@@ -1,0 +1,20 @@
+{
+  "title": "Week 27 — 3-stage chasing pack (soft → normal → urgent) (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 27,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "polite chasing in 3 stages (soft / normal / urgent)",
+    "tone control (not rude)",
+    "timeframes (by EOD / by Friday) + ETA",
+    "project impact (blocked / timeline)"
+  ],
+  "outcomes": [
+    "I can write a soft follow-up email.",
+    "I can write a second follow-up (normal) with a clear timeframe.",
+    "I can write an urgent follow-up with impact + deadline, still polite."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

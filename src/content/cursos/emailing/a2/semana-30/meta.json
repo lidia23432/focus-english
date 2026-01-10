@@ -1,0 +1,20 @@
+{
+  "title": "Week 30 — Meeting pack: propose/confirm/remind/reschedule (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 30,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "proposing a meeting with 2 options",
+    "confirming meeting + agenda + link/materials",
+    "sending a reminder + checklist",
+    "rescheduling politely (apology + new options)"
+  ],
+  "outcomes": [
+    "I can write a meeting proposal with options.",
+    "I can confirm a meeting with agenda and link.",
+    "I can write a reminder and a reschedule email politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

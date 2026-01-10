@@ -1,0 +1,20 @@
+{
+  "title": "Week 28 — Delivery pack: v1/v2/final + changes + request review (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 28,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "delivering versions (v1/v2/final) clearly",
+    "change summary (2–4 bullets)",
+    "request review/sign-off (Could you review...?)",
+    "confirm receipt + deadlines"
+  ],
+  "outcomes": [
+    "I can deliver a version with a clear filename and label.",
+    "I can summarize changes in short bullets.",
+    "I can ask for review and confirmation with a deadline."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
