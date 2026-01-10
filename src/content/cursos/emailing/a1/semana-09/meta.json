@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 9,
+  "title": "Preguntas en email (Do you…? / Do you have…?)",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": { "reading": 20, "grammar": 20, "writing": 30, "review": 5 }
+}
+
