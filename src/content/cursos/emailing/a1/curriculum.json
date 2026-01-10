@@ -1,0 +1,58 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "duration_weeks": 36,
+  "duration_months": 9,
+  "tracks": ["writing", "reading", "grammar"],
+  "notes": {
+    "listening_speaking": "Planned for later (placeholders).",
+    "cycle_pattern": "3 build weeks + 1 consolidation week"
+  },
+  "weeks": [
+    { "week": 1, "title": "Presentarte por email + saludos y despedidas", "focus": ["reading", "grammar", "writing"] },
+    { "week": 2, "title": "Pedir información (requests) + cortesía básica", "focus": ["reading", "grammar", "writing"] },
+    { "week": 3, "title": "Fechas y horas (proponer disponibilidad)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 4, "title": "Consolidación 1 (email completo A1: presentación + petición + cierre)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 5, "title": "Roles y departamentos + datos básicos", "focus": ["reading", "grammar", "writing"] },
+    { "week": 6, "title": "Confirmar (Yes/No) + detalles simples", "focus": ["reading", "grammar", "writing"] },
+    { "week": 7, "title": "Adjuntos y archivos (Please find attached…)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 8, "title": "Consolidación 2 (adjunto + confirmación)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 9, "title": "Preguntas en email (Do/Does) — información simple", "focus": ["reading", "grammar", "writing"] },
+    { "week": 10, "title": "Can/Can’t — disponibilidad y capacidad", "focus": ["reading", "grammar", "writing"] },
+    { "week": 11, "title": "Follow‑up simple + because (razón corta)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 12, "title": "Consolidación 3 (follow‑up)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 13, "title": "Rutinas de trabajo (Present Simple I/you)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 14, "title": "Rutinas 3ª persona (he/she) en contexto laboral", "focus": ["reading", "grammar", "writing"] },
+    { "week": 15, "title": "Frecuencia (always/usually/sometimes) en updates", "focus": ["reading", "grammar", "writing"] },
+    { "week": 16, "title": "Consolidación 4 (update semanal)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 17, "title": "Ubicación y logística (there is/are)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 18, "title": "Peticiones más educadas (Could you…?)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 19, "title": "Secuenciación básica (first/then/after)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 20, "title": "Consolidación 5 (email con 3 pasos)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 21, "title": "Incidencias simples + pasado de to be (was/were)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 22, "title": "Disculpas (sorry) + frases cortas", "focus": ["reading", "grammar", "writing"] },
+    { "week": 23, "title": "Soluciones simples (Let’s…) + propuesta", "focus": ["reading", "grammar", "writing"] },
+    { "week": 24, "title": "Consolidación 6 (disculpa + solución + nueva hora)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 25, "title": "Confirmar detalles (fecha/hora/lugar) — repaso preguntas", "focus": ["reading", "grammar", "writing"] },
+    { "week": 26, "title": "Resumir con listas y bullets (puntuación)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 27, "title": "Next steps con futuro básico (will)", "focus": ["reading", "grammar", "writing"] },
+    { "week": 28, "title": "Consolidación 7 (confirmación + próximos pasos)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 29, "title": "Plantilla A1: email de introducción", "focus": ["reading", "grammar", "writing"] },
+    { "week": 30, "title": "Plantilla A1: pedir información", "focus": ["reading", "grammar", "writing"] },
+    { "week": 31, "title": "Plantilla A1: follow‑up", "focus": ["reading", "grammar", "writing"] },
+    { "week": 32, "title": "Consolidación 8 (elegir plantilla según caso)", "focus": ["reading", "grammar", "writing", "review"] },
+
+    { "week": 33, "title": "Caso 1: coordinar una reunión por email", "focus": ["reading", "grammar", "writing"] },
+    { "week": 34, "title": "Caso 2: enviar adjunto + confirmar recepción", "focus": ["reading", "grammar", "writing"] },
+    { "week": 35, "title": "Caso 3: disculpa + reagendar", "focus": ["reading", "grammar", "writing"] },
+    { "week": 36, "title": "Final A1 (portfolio: 3 emails + checklist)", "focus": ["reading", "grammar", "writing", "review"] }
+  ]
+}
+
