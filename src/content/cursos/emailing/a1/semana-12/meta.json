@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 12,
+  "title": "Consolidación 3 (follow-up completo + preguntas + because)",
+  "focus": ["reading", "grammar", "writing", "review"],
+  "duration_minutes": { "reading": 25, "grammar": 25, "writing": 35, "review": 10 }
+}
+
