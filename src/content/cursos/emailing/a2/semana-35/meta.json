@@ -1,0 +1,20 @@
+{
+  "title": "Week 35 — Final simulation: 8 scenarios (mixed internal/external, project-style)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 35,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "final simulation (8 real work scenarios)",
+    "tone control (internal vs external)",
+    "deadlines/ETAs (by EOD/by Friday)",
+    "requests ladder + summaries + action items"
+  ],
+  "outcomes": [
+    "I can write A2 emails for 8 common work scenarios.",
+    "I can choose the correct tone for internal/external emails.",
+    "I can include clear deadlines, next steps and action items."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
