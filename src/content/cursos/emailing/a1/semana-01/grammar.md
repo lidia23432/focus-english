@@ -1,45 +1,86 @@
-# Emailing A1 — Semana 01 — Grammar
-**Tema:** To be (I am / you are)  
-**Duración:** 10–15 min
+# Semana 01 — Grammar (A1): Introductions in work emails
 
-## Micro‑lección
-- **I am** Ana. → Soy Ana.  
-- **You are** Tom. → Eres Tom.  
-- **He/She is** … → Él/Ella es …
+## Objetivo (ES)
+Escribir emails muy cortos para presentarte en el trabajo usando:
+- **to be** (I am / You are)
+- frases simples (una idea por frase)
 
-**Contracciones (más natural en emails):**
-- I am → **I’m**
-- You are → **You’re**
-- He is / She is → **He’s / She’s**
+---
 
-## Ejercicios
+## 1) To be (A1): I am / You are / We are
 
-### A) Completa con am / are / is
-1) I ___ Ana.  
-2) You ___ Tom.  
-3) She ___ from Madrid.  
-4) He ___ a manager.  
-5) I ___ from Spain.
+**Affirmative**
+- I am Ana. / I'm Ana.
+- You are Tom. / You're Tom.
+- We are colleagues. / We're colleagues.
 
-### B) Convierte a forma corta (contraction)
-6) I am Ana. → ______  
-7) You are Tom. → ______  
-8) She is Maria. → ______
+**Negative (muy básico)**
+- I am not available. / I'm not available.
+- You are not in the office. / You're not in the office.
 
-### C) Ordena las palabras
-9) from / am / I / Madrid  
-10) is / a / She / assistant
+✅ Examples (work)
+- I am a new team member.
+- I am in the Sales team.
+- You are my contact person.
 
-## Soluciones
-1) am  
-2) are  
-3) is  
-4) is  
-5) am  
-6) I’m Ana.  
-7) You’re Tom.  
-8) She’s Maria.  
-9) I am from Madrid. / I’m from Madrid.  
-10) She is a assistant. *(mejor: “an assistant”, lo vemos en semana 2 con a/an)*
+---
 
+## 2) Basic email structure (A1)
 
+**Subject**
+- Introduction
+- Hello + name
+- New team member
+
+**Greeting**
+- Hello Maria,
+- Hi Tom,
+
+**Body (3–6 short sentences)**
+- My name is __.
+- I am a __.
+- I work at __.
+- Nice to meet you.
+
+**Closing**
+- Thank you,
+- Kind regards,
+- Best regards,
+
+**Signature**
+- Your name
+
+---
+
+## 3) Useful A1 phrases (copy/paste)
+
+- My name is __.
+- I am a __.
+- I am from __.
+- I work at __.
+- I am in the __ team.
+- Nice to meet you.
+- Thank you for your email.
+- Please contact me if you need help.
+
+---
+
+## 4) Mini practice (A1)
+
+### A) Choose the correct form
+1) I __ Ana. (am / are)  
+2) You __ my manager. (am / are)  
+3) We __ in the same team. (am / are)  
+4) I __ not available today. (am / is)
+
+**Answers:** 1) am  2) are  3) are  4) am
+
+### B) Fix the sentence (error correction)
+1) I are Maria.  
+2) You am my colleague.  
+3) We is in HR.
+
+**Answers**
+1) I am Maria.  
+2) You are my colleague.  
+3) We are in HR.

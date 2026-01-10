@@ -1,14 +1,27 @@
 {
-  "course": "emailing",
+  "title": "Semana 01 — Introductions (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 1,
-  "title": "Presentarte por email + saludos y despedidas",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": {
-    "reading": 15,
-    "grammar": 15,
-    "writing": 25,
-    "review": 5
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "basic email structure",
+    "greetings and closings",
+    "introducing yourself (name, role, company)",
+    "polite short sentences"
+  ],
+  "outcomes": [
+    "I can write a short introduction email at work.",
+    "I can use basic greetings and closings.",
+    "I can write 5–7 short sentences with correct 'to be'."
+  ],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
   }
 }
-

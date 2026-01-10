@@ -1,41 +1,68 @@
-# Emailing A1 — Semana 01 — Reading
-**Tema:** Presentarte por email + saludos y despedidas  
-**Duración:** 10–15 min
+# Semana 01 — Reading (A1): Introductions
 
-## Texto (A1)
-**Subject:** Hello from Ana (New contact)
+## Reading 1
 
-Hi Tom,  
-My name is Ana Ruiz. I am from Madrid.  
-I work at Focus English. I am a Project Assistant.  
+**Subject:** Introduction
+
+Hello Maria,  
+My name is Ana.  
+I am a new team member.  
+I work in the Sales department.  
 Nice to meet you.  
-Best regards,  
+
+Kind regards,  
 Ana
 
-## Preguntas
+### Comprehension (A1)
 1) Who is the email to?  
-A) Ana  B) Tom  C) Madrid
+a) Ana  b) Maria  c) Sales  
 
-2) Ana is from:  
-A) London  B) Madrid  C) Paris
+2) Ana is…  
+a) a manager  b) a new team member  c) in HR  
 
-3) Ana works at:  
-A) Focus English  B) Tom Company  C) Project Assistant
+3) Ana works in…  
+a) Sales  b) Finance  c) Support  
 
-4) Ana is a:  
-A) Teacher  B) Project Assistant  C) Developer
+4) Ana says…  
+a) Good luck  b) Nice to meet you  c) See you tomorrow  
 
-5) “Nice to meet you” means:  
-A) Gracias  B) Encantada/o  C) Perdón
+**Answers:** 1) b  2) b  3) a  4) b
 
-6) What is the closing?  
-A) Hi Tom  B) Best regards  C) Hello from Ana
+---
 
-## Soluciones
-1) B  
-2) B  
-3) A  
-4) B  
-5) B  
-6) B
+## Reading 2
 
+**Subject:** Welcome
+
+Hi Ana,  
+Welcome to the team.  
+I am Tom.  
+I am your contact person.  
+Please email me if you need help.  
+
+Best regards,  
+Tom
+
+### Comprehension (A1)
+1) Who writes the email?  
+a) Ana  b) Tom  c) Maria  
+
+2) Tom is…  
+a) Ana’s contact person  b) Ana’s customer  c) Ana’s teacher  
+
+3) Tom says…  
+a) Please call me now  b) Please email me if you need help  c) Please send money  
+
+4) The email is…  
+a) friendly  b) angry  c) not an email  
+
+**Answers:** 1) b  2) a  3) b  4) a
+
+---
+
+## Extra reading task (10 min)
+Underline the phrases in the emails:
+- greeting
+- name
+- role/team
+- closing
