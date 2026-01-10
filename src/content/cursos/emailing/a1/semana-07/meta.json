@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 7,
+  "title": "Adjuntos y archivos (Please find attached…)",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": { "reading": 15, "grammar": 15, "writing": 25, "review": 5 }
+}
+

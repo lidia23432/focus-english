@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 8,
+  "title": "Consolidación 2 (adjunto + confirmación)",
+  "focus": ["reading", "grammar", "writing", "review"],
+  "duration_minutes": { "reading": 15, "grammar": 15, "writing": 30, "review": 10 }
+}
+
