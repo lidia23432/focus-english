@@ -1,0 +1,20 @@
+{
+  "title": "Week 34 — Template kit A2: subjects + openings + closings + action items",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 34,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "subject lines for requests/updates/summaries/reminders",
+    "openings (neutral vs external)",
+    "closings (thanks / kind regards)",
+    "action items templates (owners + due dates)"
+  ],
+  "outcomes": [
+    "I can write clear subject lines for common scenarios.",
+    "I can choose appropriate openings and closings.",
+    "I can use action-item templates with deadlines."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

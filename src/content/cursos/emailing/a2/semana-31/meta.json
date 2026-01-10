@@ -1,0 +1,20 @@
+{
+  "title": "Week 31 — Mini project: one-week project email thread (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 31,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "end-to-end thread (request → update → delay → follow-up → summary)",
+    "tone control (internal/external)",
+    "deadlines (by EOD/by Friday) + ETA",
+    "action items (bullets)"
+  ],
+  "outcomes": [
+    "I can write a short project thread with consistent tone.",
+    "I can include clear deadlines and next steps.",
+    "I can close a thread with a summary and action items."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
