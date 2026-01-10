@@ -11,13 +11,12 @@ Pedir un documento y dar instrucciones claras, paso a paso, con tono profesional
 - Could you send the invoice, please?
 - Would you send the invoice, please?
 
-✅ A2 tip: **Could/Would** suenan más educados (ideal en trabajo neutral).
+✅ A2 tip: **Could/Would** suenan más educados (ideal en emails externos).
 
 ---
 
 ## 2) Step-by-step instructions (A2)
-Usa conectores simples:
-
+Use connectors:
 - **First,** …
 - **Then,** …
 - **Finally,** …
@@ -35,23 +34,19 @@ Examples:
 
 ---
 
-## 4) Mini practice (A2)
+## Mini practice (A2)
 
-### A) Put in order (First/Then/Finally)
+### A) Put in order
 a) Finally, please confirm receipt.  
 b) First, please open the document.  
 c) Then, please check the details.
 
-**Answer:** b → c → a
+Answer: b → c → a
 
-### B) Choose the best request (neutral-professional)
-1) ___ you send the invoice, please? (Can/Could/Would)  
-Suggested: Could / Would
-
-### C) Error correction
-1) First, please to open the file.  
+### B) Error correction
+1) First, please to check the file.  
 2) Could you to send the document?
 
-**Answers**
-1) First, please open the file.  
+Answers:
+1) First, please check the file.  
 2) Could you send the document?

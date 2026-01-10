@@ -1,0 +1,20 @@
+{
+  "title": "Week 22 — Data checking: confirm/correct details (names, numbers, dates) (work emails)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 22,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "asking to confirm details (name/address/VAT/date)",
+    "correcting mistakes politely (the correct number is...)",
+    "simple question forms (Is it…? / Could you confirm…?)",
+    "project-style: prevent errors before delivery"
+  ],
+  "outcomes": [
+    "I can ask to confirm 2–4 key details in an email.",
+    "I can correct a wrong detail politely.",
+    "I can write a short checklist email for data verification."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

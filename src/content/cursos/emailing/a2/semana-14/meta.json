@@ -1,0 +1,20 @@
+{
+  "title": "Semana 14 — Confirm meeting + agenda + materials (internal/external)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 14,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "confirming a meeting (day/time/location or online link)",
+    "adding a short agenda (1–2 items)",
+    "sharing materials (attachments/links)",
+    "polite closing and confirmation request"
+  ],
+  "outcomes": [
+    "I can confirm a meeting in a clear email.",
+    "I can add a short agenda and share materials.",
+    "I can ask for confirmation politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

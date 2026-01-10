@@ -1,70 +1,45 @@
-# Semana 08 (A2) — Grammar: Apologies + reasons (because / so)
+# Semana 08 (A2) — Grammar: Apologies + because/so + delays
 
 ## Objetivo (ES)
-Escribir emails de retraso (delay) de forma profesional:
-- disculpa
-- razón simple con **because**
-- resultado/acción con **so**
-- nuevo plazo (today/tomorrow/by Friday)
-- pedir confirmación con Could/Would
+Disculparte de forma profesional, explicar una razón simple y dar un nuevo plazo.
 
 ---
 
 ## 1) Apologies (A2)
-Frases típicas:
-- Sorry for the delay.
-- Sorry for the late reply.
-- I’m sorry about the delay. (un poco más formal)
+- **Sorry for the delay.**
+- **I apologize for the delay.** (more formal)
+- **Thank you for your patience.** (very useful)
 
 ---
 
-## 2) BECAUSE (reason)
-Usa **because** para explicar una razón:
-- Sorry for the delay **because** I had a meeting.
-- I’m sorry **because** I was out of the office.
-
-✅ A2 tip: razón simple, 1 frase.
-
----
-
-## 3) SO (result / next step)
-Usa **so** para decir el resultado o el siguiente paso:
-- I was out of the office, **so** I replied late.
-- The file was wrong, **so** I sent the correct one.
+## 2) because vs so (A2)
+- **because** = reason
+  - The file is late **because** we had an issue.
+- **so** = result
+  - We had an issue, **so** the file is late.
 
 ---
 
-## 4) Next step (A2)
-- I will send it tomorrow.
-- I will send it by Friday.
+## 3) New timeline + request
+- New ETA: Friday.
+- Could you confirm the new deadline?
+- Would you confirm if Friday works?
 
 ---
 
-## 5) Requests review (polite)
-- Please confirm.
-- Could you confirm, please?
-- Would you confirm, please?
+## Mini practice (A2)
 
----
+### A) Choose because/so
+1) The report is late ___ we had a problem.  
+2) We had a problem, ___ the report is late.
 
-## 6) Mini practice (A2)
+Answers:
+1) because  2) so
 
-### A) Choose because / so
-1) I was busy, ___ I replied late.  
-2) Sorry for the delay ___ I had a meeting.
+### B) Error correction
+1) Sorry for delay.  
+2) Could you to confirm the deadline?
 
-**Answers:** 1) so  2) because
-
-### B) Fix the sentence
-1) Sorry for the delay so I was busy.  
-2) I was out of office because I replied late.
-
-**Possible answers**
-1) Sorry for the delay because I was busy.  
-2) I was out of the office, so I replied late.
-
-### C) Upgrade politeness (rewrite)
-Rewrite using **Could you…?**
-- Please confirm the new time.
-
-**Answer:** Could you confirm the new time, please?
+Answers:
+1) Sorry for the delay.  
+2) Could you confirm the deadline?

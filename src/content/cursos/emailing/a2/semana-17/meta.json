@@ -1,0 +1,20 @@
+{
+  "title": "Semana 17 — Online meetings: links + simple troubleshooting (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 17,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "sharing a meeting link",
+    "simple instructions (join/click/check)",
+    "reporting a technical issue (I can’t join / the link doesn’t work)",
+    "requesting a new link politely (Could you resend…?)"
+  ],
+  "outcomes": [
+    "I can send an online meeting link with clear instructions.",
+    "I can report a simple technical issue in an email.",
+    "I can request a new link politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

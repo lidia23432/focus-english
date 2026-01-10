@@ -1,0 +1,20 @@
+{
+  "title": "Semana 16 — Urgency & escalation (A2-safe): polite but clear + deadline",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 16,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "expressing urgency without being rude",
+    "project blockers (we are blocked until...)",
+    "deadlines (by Friday / by EOD)",
+    "polite but firm requests (Could/Would)"
+  ],
+  "outcomes": [
+    "I can express urgency politely.",
+    "I can mention impact (blocked / timeline).",
+    "I can request an action with a clear deadline."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

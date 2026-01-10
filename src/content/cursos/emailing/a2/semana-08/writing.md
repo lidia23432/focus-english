@@ -1,70 +1,36 @@
-# Semana 08 (A2) — Writing: Apology + reason + new timeline
+# Semana 08 (A2) — Writing: Delay + new timeline
 
 ## Objetivo (ES)
-Escribir emails A2 para disculparse, explicar (because/so) y dar un nuevo plazo.
+Escribir un email de retraso profesional con razón simple y nuevo ETA.
 
 ---
 
-## Task A (Guided)
-Write to Maria:
-- Sorry for the delay because…
-- give reason: I had meetings today.
-- new timeline: I will send the update tomorrow.
-- request: Could you confirm, please?
-
-✅ 8–12 lines.
+## Task 1 — because / so
+Complete:
+1) The file is late ___ we had an issue.  
+2) We had an issue, ___ the file is late.
 
 ---
 
-## Task B (Semi-guided)
-Reply to Tom:
-- No problem.
-- use so: I was out of the office, so I replied late too.
-- accept timeline: Tomorrow is OK.
-- ask to confirm.
-
-✅ 8–12 lines.
+## Task 2 — Rewrite (more professional)
+Rewrite:
+1) Sorry. It is late.  
+2) It is late because problem.
 
 ---
 
-## Production task (Final)
-Write ONE complete apology email (A2) with:
-- 1 apology line
-- 1 reason with because OR 1 result with so
-- 1 next step using will + timeline (tomorrow / by Friday)
-- 1 polite request using Could/Would
+## Task 3 — Write an email (7–10 lines)
+Situation: You need to inform about a delay.
 
----
-
-## Extra exercises (for 2h/week)
-
-### A) Choose because / so
-1) I was busy, ___ I replied late.  
-2) Sorry for the delay ___ I had a meeting.
-
-Answers: so / because
-
-### B) Rewrite to be more polite (requests ladder)
-Rewrite “Please confirm” in 3 ways:
-- Can you…?
-- Could you…?
-- Would you…?
-
-### C) Error correction
-Correct:
-1) Sorry for the delay so I had meetings.  
-2) I was busy because I replied late. (change to so)  
-3) Could you to confirm, please?
-
-Possible answers:
-1) Sorry for the delay because I had meetings.  
-2) I was busy, so I replied late.  
-3) Could you confirm, please?
+Include:
+- apology (Sorry for the delay / I apologize…)
+- reason using because/so
+- new ETA (by Friday/by EOD)
+- 1 request (Could you / Would you) to confirm
 
 ---
 
 ## Checklist (A2)
 - I use because/so correctly ✅
-- I give a clear new timeline ✅
-- I use Could/Would correctly ✅
-- I keep sentences short and polite ✅
+- I include a new ETA ✅
+- My tone is professional ✅

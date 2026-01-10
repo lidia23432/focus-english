@@ -1,44 +1,33 @@
-# Semana 07 (A2) — Vocabulary: Meeting options & preferences
+# Semana 07 (A2) — Vocabulary: Clarification & project details
 
-## 1) Time & scheduling words
-- option
-- choose
-- schedule
-- available
-- preference
-- time slot (optional A2)
-- morning / afternoon
+## Objetivo (ES)
+Vocabulario clave para pedir y dar aclaraciones (project-style).
 
-## 2) Comparative words (A2)
-- earlier / later
-- better
-- worse (optional A2)
-- more convenient
-- more important (optional A2)
+---
 
-## 3) Useful chunks (copy/paste)
-- Is __ better for you than __?
-- Would __ be more convenient?
-- Can we meet earlier/later?
-- Could you confirm the time, please?
-- Thank you for your help.
+## Key words
+- **clarify**
+- **confirm**
+- **details**
+- **scope**
+- **requirement(s)**
+- **owner** (persona responsable)
+- **deadline**
+- **ETA**
+- **version** (v1/v2/final)
 
-## 4) Exercises (A2)
+Useful phrases:
+- Could you clarify the requirements?
+- Just to confirm, the deadline is Friday.
+- Which version should we use?
 
-### A) Matching (base → comparative)
-1) early → a) more convenient
-2) convenient → b) earlier
-3) good → c) better
+---
 
-**Answers:** 1-b  2-a  3-c
+## Practice (A2)
+Fill the gaps:
+1) Could you ___ the scope? (clarify/clarified)  
+2) Just to ___, the meeting is at 10:00.  
+3) Which ___ should we use (v1 or v2)?
 
-### B) Fill in (earlier/later/better/more convenient)
-1) Is 9:00 ______ than 10:00?  
-2) Thursday is ______ for me.  
-3) Can we meet ______?
-
-**Possible answers:** 1) better/earlier  2) more convenient/better  3) earlier/later
-
-### C) Build 6 sentences
-Write 6 short sentences using:
-better / earlier / later / more convenient / could you confirm
+Answers:
+1) clarify  2) confirm  3) version

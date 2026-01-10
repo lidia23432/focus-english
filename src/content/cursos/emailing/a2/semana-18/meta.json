@@ -1,0 +1,20 @@
+{
+  "title": "Semana 18 — Reminders + confirmations + short checklist (project emails)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 18,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "sending reminders (This is a reminder…)",
+    "confirming attendance/receipt",
+    "short checklist before a meeting/delivery",
+    "tone: internal reminder vs external reminder"
+  ],
+  "outcomes": [
+    "I can write a short reminder email.",
+    "I can ask to confirm attendance or receipt politely.",
+    "I can include a simple checklist (2–4 items)."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

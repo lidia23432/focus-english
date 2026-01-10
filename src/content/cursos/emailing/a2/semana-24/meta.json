@@ -1,0 +1,20 @@
+{
+  "title": "Week 24 — Tone control: internal vs external (same message, different tone)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 24,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "tone differences (internal: direct / external: more polite)",
+    "requests ladder review (Please/Can/Could/Would)",
+    "softeners (just / when possible / thanks)",
+    "closing lines (neutral vs formal)"
+  ],
+  "outcomes": [
+    "I can rewrite the same email in internal and external tone.",
+    "I can choose the right request level for each context.",
+    "I can use simple softeners to sound polite."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

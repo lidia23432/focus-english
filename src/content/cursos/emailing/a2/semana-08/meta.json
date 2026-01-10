@@ -1,5 +1,5 @@
 {
-  "title": "Semana 08 — Apologies + reasons (because / so) + delays (work emails)",
+  "title": "Semana 08 — Apologies + because/so + delays + new timeline (project emails)",
   "goal": "emailing",
   "level": "a2",
   "week": 8,
@@ -7,14 +7,14 @@
   "lastUpdated": "2026-01-10",
   "topics": [
     "professional apologies",
-    "because / so for simple reasons and results",
-    "delay emails + new timeline",
-    "polite requests (Please / Can / Could / Would)"
+    "because/so for reasons and results",
+    "delay emails + new ETA",
+    "polite requests (Could/Would) for confirmation"
   ],
   "outcomes": [
     "I can apologize politely in a work email.",
-    "I can give a simple reason using because or so.",
-    "I can give a new timeline and ask to confirm politely (Could/Would)."
+    "I can give a simple reason using because/so.",
+    "I can propose a new timeline and ask to confirm."
   ],
   "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
 }

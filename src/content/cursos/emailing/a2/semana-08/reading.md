@@ -1,65 +1,38 @@
-# Semana 08 (A2) — Reading: Apologies + reasons (because/so)
+# Semana 08 (A2) — Reading: Delay emails
 
-## Reading 1
-
-**Subject:** Sorry for the delay
-
-Hello Maria,  
-Sorry for the delay **because** I had meetings today.  
-I will send the update **tomorrow**.  
-Could you confirm, please?  
-
-Kind regards,  
-Tom
-
-### Comprehension (A2)
-1) Tom says sorry for…  
-a) the delay  b) the invoice  c) the meeting room  
-
-2) Tom gives a reason with…  
-a) because  b) more  c) than  
-
-3) Tom will send the update…  
-a) tomorrow  b) today  c) next month  
-
-4) Tom asks Maria to…  
-a) confirm  b) pay  c) resend  
-
-**Answers:** 1) a  2) a  3) a  4) a
+## Objetivo (ES)
+Leer 2 ejemplos de retraso (interno/externo) con razón + nuevo plazo.
 
 ---
 
-## Reading 2
+## Reading 1 — Internal delay
 
-**Subject:** Re: Sorry for the delay
+**Subject:** Update — delay on the timeline
 
-Hi Tom,  
-No problem.  
-I was out of the office, **so** I replied late too.  
-Tomorrow is OK. Please confirm.  
+Hi team,  
+Sorry for the delay. We had an issue with the latest data, so we need more time.  
+New ETA: Friday by EOD.
 
-Best regards,  
-Maria
+Thanks,  
+Lidia
 
-### Comprehension (A2)
-1) Maria says…  
-a) no problem  b) cancel  c) pay  
-
-2) Maria uses…  
-a) so  b) because  c) more  
-
-3) Maria says tomorrow is…  
-a) OK  b) not OK  c) unknown  
-
-4) Maria asks Tom to…  
-a) confirm  b) resend  c) stop  
-
-**Answers:** 1) a  2) a  3) a  4) a
+Questions:
+1) Find the apology.  
+2) Find the result sentence with “so”.
 
 ---
 
-## Extra task (10 min)
-Underline:
-- because / so
-- the new timeline (tomorrow)
-- the confirmation request
+## Reading 2 — External delay
+
+**Subject:** Apologies — updated invoice timeline
+
+Hello Carlos,  
+I apologize for the delay because we had an issue with the system.  
+New ETA: Friday. Would you confirm if Friday works for you?
+
+Thank you for your patience,  
+Lidia
+
+Questions:
+1) Find “because”. What is the reason?  
+2) What request form is used?

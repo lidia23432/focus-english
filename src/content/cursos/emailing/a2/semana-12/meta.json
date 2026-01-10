@@ -1,0 +1,20 @@
+{
+  "title": "Semana 12 — Polite follow-up: any update? + alternatives (2nd message style)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 12,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "follow-up without sounding aggressive",
+    "asking for ETA + proposing a timeframe",
+    "offering alternatives (Option A / Option B)",
+    "internal ping vs external reminder"
+  ],
+  "outcomes": [
+    "I can write a polite follow-up (any update?)",
+    "I can ask for an ETA and propose a timeframe (by Friday/by EOD).",
+    "I can offer an alternative option politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

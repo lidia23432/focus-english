@@ -1,0 +1,20 @@
+{
+  "title": "Week 26 — Corrections: wrong file/date + prevent repeats (A2)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 26,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "apologizing for a mistake (wrong file/date)",
+    "sending the correct version",
+    "clarifying to prevent repeats (Just to confirm...)",
+    "requesting confirmation of receipt"
+  ],
+  "outcomes": [
+    "I can correct a mistake politely (wrong file/date).",
+    "I can send the correct file with a clear version name.",
+    "I can ask to confirm receipt and prevent confusion."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

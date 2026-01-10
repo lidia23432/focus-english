@@ -1,44 +1,32 @@
-# Semana 08 (A2) — Vocabulary: Apologies, delays, timelines
+# Semana 08 (A2) — Vocabulary: Delays & timelines
 
-## 1) Apology words
-- sorry
-- delay
-- late reply
-- inconvenience (optional A2)
-- thank you for your patience (useful phrase)
+## Objetivo (ES)
+Vocabulario para informar de retrasos y nuevos plazos.
 
-## 2) Timeline words
-- today
-- tomorrow
-- this week
-- by Friday
-- by end of day
+---
 
-## 3) Useful chunks (copy/paste)
+## Key words
+- **delay**
+- **issue**
+- **blocked**
+- **timeline**
+- **ETA**
+- **as soon as possible** (uso controlado)
+- **thanks for your patience**
+
+Useful phrases:
 - Sorry for the delay.
-- Sorry for the late reply.
-- I was out of the office, so…
-- …because I had a meeting.
-- I will send it by Friday.
+- We are blocked because __.
+- New ETA: __.
 - Thank you for your patience.
-- Could you confirm, please?
 
-## 4) Exercises (A2)
+---
 
-### A) Matching (phrase → meaning ES)
-1) Sorry for the delay. → ___  
-2) Thank you for your patience. → ___  
-3) by end of day → ___  
+## Practice (A2)
+Fill the gaps:
+1) Sorry for the ___.  
+2) New ___: Friday.  
+3) Thank you for your ___.
 
-**Possible answers:** Perdón por el retraso / Gracias por tu paciencia / antes de fin de día
-
-### B) Fill in (because / so / by)
-1) I was busy, ___ I replied late.  
-2) Sorry for the delay ___ I had a meeting.  
-3) I will send it ___ Friday.
-
-**Answers:** 1) so  2) because  3) by
-
-### C) Build 6 short apology lines
-Write 6 short lines using:
-sorry / delay / because / so / by Friday / confirm
+Answers:
+1) delay  2) ETA  3) patience

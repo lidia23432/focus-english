@@ -1,0 +1,20 @@
+{
+  "title": "Semana 13 — Scheduling with constraints: availability + options (I can / I can’t)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 13,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "availability and constraints (I’m free / I can’t)",
+    "proposing 2–3 time options",
+    "internal vs external tone",
+    "mini agenda (1–2 items)"
+  ],
+  "outcomes": [
+    "I can state availability and constraints clearly.",
+    "I can propose 2–3 meeting options.",
+    "I can ask the other person to choose the best option."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

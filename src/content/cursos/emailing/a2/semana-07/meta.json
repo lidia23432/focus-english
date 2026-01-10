@@ -1,20 +1,20 @@
 {
-  "title": "Semana 07 — Meeting options with comparatives (earlier/later/better/more convenient) (work emails)",
+  "title": "Semana 07 — Clarifying & confirming (Just to confirm / Could you clarify?) (work emails)",
   "goal": "emailing",
   "level": "a2",
   "week": 7,
   "estimatedTime": "120 min",
   "lastUpdated": "2026-01-10",
   "topics": [
-    "meeting options using comparatives",
-    "earlier/later, better, more convenient",
-    "polite requests (Could/Would)",
-    "choosing and confirming a meeting time"
+    "asking for clarification politely",
+    "confirming details to avoid misunderstandings",
+    "project-style questions (scope, dates, owners)",
+    "tone: internal quick questions vs external polite clarifications"
   ],
   "outcomes": [
-    "I can offer meeting options using comparatives (earlier/later/better/more convenient).",
-    "I can ask which option is better and confirm the decision.",
-    "I can use Could/Would to request confirmation politely."
+    "I can ask for clarification politely (Could you clarify…?).",
+    "I can confirm key details (Just to confirm…).",
+    "I can write a short email with 3 clear questions."
   ],
   "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
 }

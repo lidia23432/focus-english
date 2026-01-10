@@ -1,0 +1,20 @@
+{
+  "title": "Week 19 — Asking for help: issue + impact + request (work-neutral)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 19,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "describing a problem (simple, clear)",
+    "impact (blocked / cannot proceed)",
+    "polite requests for help (Could you…? / Would you…?)",
+    "including basic context (what/when/where)"
+  ],
+  "outcomes": [
+    "I can describe an issue in 2–4 clear sentences.",
+    "I can explain impact (blocked) and ask for help politely.",
+    "I can write an internal and an external help-request email."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

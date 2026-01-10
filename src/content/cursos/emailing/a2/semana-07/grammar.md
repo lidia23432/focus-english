@@ -1,68 +1,55 @@
-# Semana 07 (A2) — Grammar: Comparatives for meeting options
+# Semana 07 (A2) — Grammar: Clarifying & confirming (work emails)
 
 ## Objetivo (ES)
-Proponer opciones de reunión y negociar de forma simple usando comparativos:
-- earlier / later
-- better
-- more convenient
-y mantener el tono educado con Could/Would.
+Pedir aclaraciones con cortesía y **confirmar detalles** para evitar malentendidos en un proyecto.
 
 ---
 
-## 1) Useful comparatives (A2)
+## 1) Ask for clarification (A2)
+Use these to ask politely:
 
-### Time
-- early → **earlier**
-- late → **later**
+- **Could you clarify…?**
+  - Could you clarify the deadline?
+- **Could you confirm…?**
+  - Could you confirm the meeting time?
+- **What do you mean by…?** (neutral)
+  - What do you mean by “final version”?
 
-Examples:
-- Can we meet **earlier**?
-- Is **10:00** better than **11:00**?
-
-### Quality / preference
-- good → **better**
-- convenient → **more convenient**
-
-Examples:
-- Wednesday is **better** for me.
-- Thursday is **more convenient**.
+✅ A2 tip: *Could you…?* suena profesional (ideal para emails externos).
 
 ---
 
-## 2) Asking for preference (A2)
-- Which time is **better** for you?
-- Is Tuesday **better** than Wednesday?
-- Would Thursday be **more convenient**?
+## 2) “Just to confirm…” (A2)
+This is a very common phrase in project emails:
+
+- **Just to confirm,** the deadline is Friday.
+- **Just to confirm,** you need the report in PDF.
 
 ---
 
-## 3) Polite confirmation (A2)
-- Could you confirm the time, please?
-- Would you confirm the meeting time, please?
+## 3) Question structure (simple)
+Keep questions short:
+- Is the deadline Friday?
+- Do you need the PDF version?
+- Which file should we use (v1 or v2)?
 
 ---
 
-## 4) Mini practice (A2)
+## Mini practice (A2)
 
-### A) Make the comparative
-1) early → ______  
-2) late → ______  
-3) good → ______  
-4) convenient → ______  
+### A) Choose the best phrase
+1) ___, the deadline is Friday. (Just to confirm / I confirm)  
+2) ___ you clarify the scope? (Could / Can)  
+3) What do you mean ___ “final”? (by / for)
 
-**Answers:** 1) earlier  2) later  3) better  4) more convenient
+Answers:
+1) Just to confirm  2) Could  3) by
 
-### B) Choose the best option
-1) Can we meet ____? (earlier / more early)  
-2) Wednesday is ____ than Tuesday. (better / gooder)  
-3) Thursday is ____ convenient. (more / -er)
+### B) Rewrite (more polite)
+Rewrite using “Could you…?”:
+1) Explain the requirements.  
+2) Confirm the owner.
 
-**Answers:** 1) earlier  2) better  3) more
-
-### C) Error correction
-1) Can we meet more earlier?  
-2) Tuesday is gooder than Wednesday.
-
-**Answers**
-1) Can we meet earlier?  
-2) Tuesday is better than Wednesday.
+Possible answers:
+1) Could you clarify the requirements?  
+2) Could you confirm the owner?

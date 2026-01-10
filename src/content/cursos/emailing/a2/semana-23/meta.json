@@ -1,0 +1,20 @@
+{
+  "title": "Week 23 — Progress update: status + ETA + next step (on track / blocked)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 23,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "project-style progress updates (short and clear)",
+    "status language (on track / blocked)",
+    "ETA and deadlines (by Friday / by EOD)",
+    "next steps (I will / we will) + simple requests (Could you...?)"
+  ],
+  "outcomes": [
+    "I can write a clear progress update with 2–4 bullets.",
+    "I can include an ETA and a next step.",
+    "I can mention a blocker and request support politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

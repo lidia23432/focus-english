@@ -1,0 +1,20 @@
+{
+  "title": "Semana 10 — Summary + action items (2–4 bullets) + owners + due dates (project emails)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 10,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "summarizing a thread (short recap)",
+    "action items with owners (I / we / you) and due dates",
+    "deadlines (by Friday / by EOD)",
+    "closing politely (internal vs external)"
+  ],
+  "outcomes": [
+    "I can write a short summary of a discussion.",
+    "I can write 2–4 clear action items with owners and due dates.",
+    "I can ask for confirmation and next steps politely."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
