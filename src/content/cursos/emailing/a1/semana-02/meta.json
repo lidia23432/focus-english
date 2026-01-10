@@ -1,0 +1,13 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 2,
+  "title": "Pedir información (requests) + cortesía básica",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": {
+    "reading": 15,
+    "grammar": 15,
+    "writing": 25,
+    "review": 5
+  }
+}
