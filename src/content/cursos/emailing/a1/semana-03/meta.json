@@ -1,0 +1,14 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 3,
+  "title": "Fechas y horas (proponer disponibilidad)",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": {
+    "reading": 15,
+    "grammar": 15,
+    "writing": 25,
+    "review": 5
+  }
+}
+
