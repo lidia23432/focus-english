@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "goal": "emailing",
+  "level": "a2",
+  "weekId": "semana-01",
+  "title": "A2 Week 01 — Requests ladder: Please vs Can vs Could vs Would (interactive)",
+  "items": [
+    {
+      "id": "a2w01-mcq-1",
+      "type": "multipleChoice",
+      "prompt": "External email (vendor). Choose the most polite request.",
+      "options": [
+        "Please send the updated invoice.",
+        "Can you send the updated invoice?",
+        "Could you please send the updated invoice?"
+      ],
+      "answerIndex": 2,
+      "explanation": "External emails often use Could/Would for a more professional tone."
+    },
+    {
+      "id": "a2w01-mcq-2",
+      "type": "multipleChoice",
+      "prompt": "Internal email (teammate). Choose the best request (clear, not too formal).",
+      "options": [
+        "Would you be able to send the file at your earliest convenience?",
+        "Can you send the file today?",
+        "I demand the file now."
+      ],
+      "answerIndex": 1,
+      "explanation": "Internal: Can you…? is neutral and clear."
+    },
+    {
+      "id": "a2w01-mcq-3",
+      "type": "multipleChoice",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Could you to send the file?",
+        "Could you send the file?",
+        "Could you sends the file?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Correct pattern: Could you + base verb."
+    },
+    {
+      "id": "a2w01-mcq-4",
+      "type": "multipleChoice",
+      "prompt": "Choose the best request to confirm receipt (external).",
+      "options": [
+        "Please confirms receipt.",
+        "Could you confirm receipt, please?",
+        "Confirm receipt."
+      ],
+      "answerIndex": 1,
+      "explanation": "Use base verb “confirm”. Could you… is more polite for external."
+    },
+    {
+      "id": "a2w01-fill-1",
+      "type": "fillBlanks",
+      "instructions": "Complete with: send / confirm / check / resend",
+      "text": "1) Could you ____ the updated file?\n2) Please ____ receipt.\n3) Can you ____ page 2?\n4) Would you ____ the link, please?",
+      "answers": ["send", "confirm", "check", "resend"],
+      "explanation": "Base verb after Can/Could/Would; Please + base verb."
+    },
+    {
+      "id": "a2w01-fill-2",
+      "type": "fillBlanks",
+      "instructions": "Complete with: by / on / at / to",
+      "text": "1) Please send it ____ Friday.\n2) Can we meet ____ Tuesday?\n3) The call is ____ 10:00.\n4) Could you reply ____ EOD?",
+      "answers": ["by", "on", "at", "by"],
+      "explanation": "by + deadline, on + day/date, at + time."
+    },
+    {
+      "id": "a2w01-reorder-1",
+      "type": "reorder",
+      "instructions": "Put the requests from more direct → more polite.",
+      "items": [
+        "Would you confirm receipt, please?",
+        "Please confirm receipt.",
+        "Could you confirm receipt, please?",
+        "Can you confirm receipt?"
+      ],
+      "correctOrder": [1, 3, 2, 0],
+      "explanation": "Typical ladder: Please → Can → Could → Would."
+    },
+    {
+      "id": "a2w01-reorder-2",
+      "type": "reorder",
+      "instructions": "Put the steps in the correct order (instructions).",
+      "items": [
+        "Finally, please confirm receipt.",
+        "Then, please check page 2.",
+        "First, please open the file."
+      ],
+      "correctOrder": [2, 1, 0],
+      "explanation": "First → Then → Finally."
+    },
+    {
+      "id": "a2w01-err-1",
+      "type": "errorCorrection",
+      "instructions": "Choose the correct sentence.",
+      "pairs": [
+        {
+          "wrong": "Would you confirms receipt?",
+          "correct": "Would you confirm receipt?",
+          "explanation": "After Would you, use base verb: confirm."
+        },
+        {
+          "wrong": "First, please to check the file.",
+          "correct": "First, please check the file.",
+          "explanation": "No “to” after “please” in instructions."
+        }
+      ]
+    },
+    {
+      "id": "a2w01-err-2",
+      "type": "errorCorrection",
+      "instructions": "Choose the correct sentence.",
+      "pairs": [
+        {
+          "wrong": "Could you sending the file?",
+          "correct": "Could you send the file?",
+          "explanation": "Could you + base verb (send)."
+        },
+        {
+          "wrong": "Please confirm receipt, please?",
+          "correct": "Could you confirm receipt, please?",
+          "explanation": "Use Could you… for a polite question; avoid mixed punctuation."
+        }
+      ]
+    }
+  ]
+}
