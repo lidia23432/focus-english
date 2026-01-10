@@ -1,0 +1,20 @@
+{
+  "title": "Semana 09 — Request documents + clear instructions (First/Then/Finally) (work emails)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 9,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "requesting documents (invoice/report/updated file)",
+    "clear instructions with First/Then/Finally",
+    "confirming receipt",
+    "polite requests (Please / Can / Could / Would)"
+  ],
+  "outcomes": [
+    "I can request a document using polite request forms (Could/Would).",
+    "I can write clear step-by-step instructions (First/Then/Finally).",
+    "I can ask to confirm receipt and next steps."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
