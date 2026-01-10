@@ -1,18 +1,18 @@
 {
-  "title": "Semana 14 — Confirmar una reunión (emails de trabajo)",
+  "title": "Semana 14 — Confirm a meeting (work emails)",
   "goal": "emailing",
   "level": "a1",
   "week": 14,
-  "estimatedTime": "60–90 min",
-  "topics": [
-    "confirmar día y hora",
-    "detalles básicos de reunión (lugar / llamada)",
-    "pedir confirmación",
-    "email corto y educado"
-  ],
-  "outcomes": [
-    "Puedo confirmar una reunión con un email corto.",
-    "Puedo preguntar: 'Is this time OK for you?' y 'Please confirm.'",
-    "Puedo dar detalles básicos: lugar, enlace o llamada."
-  ]
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["meeting confirmation","on/at (review)","office/phone/online details","asking to confirm"],
+  "outcomes": ["I can confirm a meeting day and time in a short email.","I can add basic details (office / phone / online).","I can ask for confirmation politely."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }

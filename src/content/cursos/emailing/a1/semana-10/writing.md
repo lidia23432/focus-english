@@ -1,57 +1,35 @@
-# Emailing A1 — Semana 10 — Writing
-**Tema:** Disponibilidad con can/can’t + alternativa  
-**Duración:** 25–35 min
+# Semana 10 — Writing (A1): Office hours + questions
 
-## Plantilla (A1)
-**Subject:** Availability
+Template A (inform)
+Subject: Office hours
+Hello __,
+Our office hours are __.
+We open at __.
+We close at __.
+Best regards,
+__
 
-Hi [NAME],  
-I can meet on [DAY] at [TIME].  
-I can’t meet on [DAY] at [TIME].  
-Can we meet on [DAY] at [TIME]?  
-Please confirm.  
-Thank you.  
-Best regards,  
-[YOUR NAME]
+Task A
+Write office hours for a company.
 
----
+Template B (ask)
+Subject: Question about hours
+Hi __,
+What are your office hours?
+What time do you open?
+Please confirm.
+Kind regards,
+__
 
-## Tarea 1 (principal)
-Escribe el email:
+Task B
+Ask about office hours.
 
-- Destinatario: **Taylor**
-- Tu nombre: **Sam**
-- Sí puedo: **Monday at 10:00**
-- No puedo: **Tuesday at 14:00**
-- Alternativa: **Wednesday at 09:00**
+Production task
+Write 2 emails:
+1) office hours email
+2) question email
 
----
+Extra exercises
+A) Rewrite: make 4 long sentences into short A1 lines
+B) Error correction: 8 sentences (opens/open, closes/close)
 
-## Tarea 2 (variación)
-Escribe otro email con:
-- Sí puedo: **Thursday at 11:00**
-- No puedo: **Friday at 15:00**
-- Alternativa: **Monday at 16:00**
-
----
-
-## Checklist ✅
-- Subject correcto
-- 1 frase con **can**
-- 1 frase con **can’t**
-- 1 pregunta con **Can we…?**
-- “Please confirm.”
-- Thank you + cierre
-
-## Ejemplo (modelo)
-**Subject:** Availability
-
-Hi Taylor,  
-I can meet on Monday at 10:00.  
-I can’t meet on Tuesday at 14:00.  
-Can we meet on Wednesday at 09:00?  
-Please confirm.  
-Thank you.  
-Best regards,  
-Sam
-Copy

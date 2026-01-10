@@ -1,71 +1,41 @@
-# Emailing A1 — Semana 12 — Reading (Consolidación 3)
-**Tema:** Follow-up completo + preguntas + because  
-**Duración:** 20–25 min
+# Semana 12 — Reading (A1): Can you…?
 
-## Texto (A1)
-**Subject:** Follow-up
+## Reading 1
+Subject: Request
 
-Hi Taylor,  
-Just a reminder. This is a follow-up.  
-Do you have the price list?  
-Do you have the schedule?  
-Please send it, because I need it today.  
-Thank you.  
-Best regards,  
-Sam
+Hello Maria,
+Can you send the file, please?
+Can you confirm the time, please?
+Thank you.
 
----
+Kind regards,
+Ana
 
-## A) Comprensión literal (elige A/B/C)
-1) What is the subject?  
-A) Follow-up  B) Availability  C) File attached
+Questions
+1) Ana asks for: a) 2 actions b) 1 action c) 0
+2) Ana asks to: a) send file + confirm time b) pay c) cancel
 
-2) Sam asks about:  
-A) price list  B) contract  C) invoice
-
-3) Sam also asks about:  
-A) schedule  B) phone number  C) meeting room
-
-4) Sam needs it:  
-A) today  B) tomorrow  C) next month
-
-5) “because” introduces:  
-A) a reason  B) a greeting  C) a closing
+Answers: 1)a 2)a
 
 ---
 
-## B) Verdadero / Falso
-6) Sam says “Just a reminder.” (T/F)  
-7) Sam attaches the schedule. (T/F)  
-8) Sam says “Thank you.” (T/F)
+## Reading 2
+Subject: Re: Request
 
----
+Hi Ana,
+Yes. I will send the file today.
+The time is 10:00.
+Please confirm.
 
-## C) Vocabulario
-9) “reminder” means:  
-A) recordatorio  B) reunión  C) adjunto
+Best regards,
+Maria
 
-10) “send” means:  
-A) enviar  B) confirmar  C) cancelar
+Questions
+1) Maria will send the file: a) today b) tomorrow
+2) The time is: a) 10:00 b) 11:00
+3) Maria asks Ana to: confirm / cancel
 
----
+Answers: 1)a 2)a 3)confirm
 
-## D) Respuesta corta (1 línea)
-11) Write one polite follow-up question (A1).  
-12) Write one polite closing.
+Extra task: underline Can you…?, please?
 
----
-
-## Soluciones
-1) A  
-2) A  
-3) A  
-4) A  
-5) A  
-6) T  
-7) F  
-8) T  
-9) A  
-10) A  
-11) Example: Do you have the file?  
-12) Example: Best regards,

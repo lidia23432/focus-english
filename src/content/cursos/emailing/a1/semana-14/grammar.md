@@ -1,92 +1,42 @@
 # Semana 14 — Grammar (A1): Confirming a meeting
 
-## Objetivo de la semana
-Escribir emails **muy cortos y correctos** para **confirmar una reunión** (día + hora + lugar/llamada) y **pedir confirmación**.
+## Objetivo (ES)
+Confirmar una reunión por email con:
+- día + hora (on/at)
+- lugar o tipo (office / phone / online)
+- pedir confirmación
 
 ---
 
-## 1) ON / AT (A1) — muy importante
+## 1) Key confirmation phrase (A1)
+- This is to confirm our meeting on Monday at 10:00.
 
-Usamos:
+## 2) on / at (review)
+- on Monday / on Tuesday
+- at 10:00 / at 2:30 p.m.
 
-- **ON + day / date**
-  - on Monday
-  - on Tuesday
-  - on 12 March
+## 3) Add basic details (A1)
+- We meet at our office.
+- This is a phone call.
+- This is an online meeting.
 
-- **AT + time**
-  - at 10:00
-  - at 2:30 p.m.
-
-✅ Example:
-- We have a meeting **on** Monday **at** 10:00.
-
----
-
-## 2) Frases clave para confirmar (copiar/pegar)
-
-**Confirming**
-- **This is to confirm** our meeting.
-- **I confirm** our meeting **on** Monday **at** 10:00.
-- **See you** on Monday.
-
-**Asking for confirmation**
-- **Is this time OK for you?**
-- **Please confirm.**
-- **Can you confirm, please?**
-
-**Small changes**
-- **Can we meet** at 11:00?
-- **Can we change** the time?
-
----
-
-## 3) Estructura de email (A1, muy simple)
-
-**Greeting**
-- Hello + Name,
-- Hi + Name,
-
-**Purpose (1 frase)**
-- This is to confirm our meeting.
-
-**Details**
-- on Monday at 10:00
-- at our office / by phone / online (Zoom/Google Meet)
-
-**Confirmation**
+## 4) Ask to confirm (A1)
 - Is this time OK for you?
 - Please confirm.
 
-**Closing**
-- Thank you,
-- Kind regards,
-- Best regards,
+## 5) Mini practice
+A) Fill in: on/at
+1) on / at Monday
+2) on / at 10:00
+3) We meet __ Tuesday __ 11:00
 
----
+Answers: 1) on  2) at  3) on / at
 
-## 4) Vocabulary (A1 work)
+B) Error correction
+1) This is confirm our meeting.
+2) We meet on 10:00.
 
-- meeting = reunión
-- confirm = confirmar
-- time = hora
-- day = día
-- office = oficina
-- call = llamada
-- online = online
-- link = enlace
-- available = disponible
-- OK for you = te va bien
+Answers:
+1) This is to confirm our meeting.
+2) We meet at 10:00.
 
----
-
-## 5) Mini practice (rellena)
-
-1) This is to confirm our meeting ___ Friday ___ 09:00.  
-2) Is this time OK ___ you?  
-3) Can we meet ___ 11:00?
-
-**Answers**
-1) on / at  
-2) for  
-3) at

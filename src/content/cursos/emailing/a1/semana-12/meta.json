@@ -1,9 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 12 — Can you…? (polite requests) + 2 actions (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 12,
-  "title": "Consolidación 3 (follow-up completo + preguntas + because)",
-  "focus": ["reading", "grammar", "writing", "review"],
-  "duration_minutes": { "reading": 25, "grammar": 25, "writing": 35, "review": 10 }
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["Can you...?","asking for 2 actions","polite tone","confirming next steps"],
+  "outcomes": ["I can request two actions using Can you…?, please?","I can ask to confirm politely.","I can keep emails short and clear (A1)."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }
-

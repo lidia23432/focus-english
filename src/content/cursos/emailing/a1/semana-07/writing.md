@@ -1,37 +1,37 @@
-# Emailing A1 — Semana 07 — Writing
-**Tema:** Enviar un archivo adjunto (A1)  
-**Duración:** 15–25 min
+# Semana 07 — Writing (A1): Request information
 
-## Plantilla (A1)
-**Subject:** File attached
+Template A
+Subject: Request for information
+Hello __,
+I need information about __.
+Please send the price.
+Please send the details.
+Please confirm.
+Kind regards,
+__
 
-Hi [NAME],  
-Please find attached the [FILE].  
-This file is the new version.  
-Thank you.  
-Best regards,  
-[YOUR NAME]
+Task A (Guided)
+Write to Tom. Ask for price + details.
 
-## Tu tarea
-Escribe un email para enviar un archivo:
+Template B (Reply)
+Subject: Re: Request for information
+Hi __,
+Thank you for your email.
+The price is __.
+I attach the details.
+Please confirm.
+Best regards,
+__
 
-- Destinatario: **Jordan**
-- Tu nombre: **Alex**
-- Archivo: **price list**
+Task B
+Reply with: 120 EUR + attach details + ask confirm.
 
-## Checklist ✅
-- Subject correcto
-- “Please find attached…”
-- “This file is the new version.”
-- “Thank you.”
-- Cierre correcto
+Production task
+Write a new request email (A1) for:
+- a product OR a service
+Rules: 1 idea per sentence, 6–10 lines.
 
-## Ejemplo (modelo)
-**Subject:** File attached
+Extra exercises
+A) Reorder: Subject / Greeting / Need / Requests / Confirm / Closing
+B) Correct 8 sentences: needs / sending / confirms / word order
 
-Hi Jordan,  
-Please find attached the price list.  
-This file is the new version.  
-Thank you.  
-Best regards,  
-Alex

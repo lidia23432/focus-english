@@ -1,37 +1,48 @@
-# Emailing A1 — Semana 07 — Reading
-**Tema:** Adjuntos y archivos (attachments)  
-**Duración:** 10–15 min
+# Semana 07 — Reading (A1): Requesting information
 
-## Texto (A1)
-**Subject:** File attached
+## Reading 1
+Subject: Request for information
 
-Hi Jordan,  
-Please find attached the price list.  
-This file is the new version.  
-Thank you.  
-Best regards,  
-Alex
+Hello Tom,
+I need information about your service.
+Please send the price and the details.
+Please confirm.
 
-## Preguntas
-1) What is the subject?  
-A) Meeting time  B) File attached  C) Contact details
+Kind regards,
+Ana
 
-2) What is attached?  
-A) the schedule  B) the price list  C) a phone number
+Comprehension
+1) Ana needs: a) holiday b) information c) meeting room
+2) Ana asks for: a) price+details b) phone number c) map
+3) Ana says: a) please confirm b) please pay c) please cancel
+4) Tone: a) polite b) angry c) rude
 
-3) “Please find attached…” means:  
-A) Adjunté…  B) No adjunté…  C) Cancelé…
+Answers: 1)b 2)a 3)a 4)a
 
-4) “This file is the new version” refers to:  
-A) the file  B) the meeting  C) the time
+---
 
-5) The closing is:  
-A) Hi Jordan  B) Thank you  C) Best regards
+## Reading 2
+Subject: Re: Request for information
 
-## Soluciones
-1) B  
-2) B  
-3) A  
-4) A  
-5) C
+Hi Ana,
+Thank you for your email.
+The price is 100 EUR.
+I attach the details.
+Please confirm.
+
+Best regards,
+Tom
+
+Comprehension
+1) Tom gives: a) price b) password c) address
+2) Tom attaches: a) details b) meeting link c) nothing
+3) Tom asks Ana to: a) confirm b) pay now c) stop
+4) Tone: a) polite b) angry c) joke
+
+Answers: 1)a 2)a 3)a 4)a
+
+---
+
+Extra task (10 min)
+Underline: I need / Please send / Please confirm.
 

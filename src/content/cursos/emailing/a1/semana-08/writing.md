@@ -1,38 +1,29 @@
-# Emailing A1 — Semana 08 — Writing (Consolidación 2)
-**Tema:** Email completo: adjunto + confirmación  
-**Duración:** 20–30 min
+# Semana 08 — Writing (A1): Send an attachment
 
-## Plantilla (A1)
-**Subject:** File attached and confirmation
+Template
+Subject: Document attached
+Hello __,
+Please find attached __.
+Please review __.
+Please confirm receipt.
+Kind regards,
+__
 
-Hi [NAME],  
-Please find attached the [FILE].  
-This file is the new version.  
-Can you confirm, please?  
-Thank you.  
-Best regards,  
-[YOUR NAME]
+Task A
+Send: 1 attachment + 2 instructions.
 
-## Tu tarea
-- Destinatario: **Jordan**
-- Tu nombre: **Alex**
-- Archivo: **price list**
-- Pide confirmación (1 línea)
+Task B
+Send: 2 attachments + 1 instruction each.
 
-## Checklist ✅
-- Subject correcto
-- Adjunto + “new version”
-- Request: “Can you confirm, please?”
-- Thank you + cierre
+Production task
+Write a complete attachment email (A1) with:
+- subject
+- greeting
+- attachment sentence
+- 2 instructions
+- closing + name
 
-## Ejemplo (modelo)
-**Subject:** File attached and confirmation
-
-Hi Jordan,  
-Please find attached the price list.  
-This file is the new version.  
-Can you confirm, please?  
-Thank you.  
-Best regards,  
-Alex
+Extra exercises
+A) Error correction (8 lines): attach/attached, sign/signs, confirm/confirmation
+B) Reorder email lines (Subject/Greeting/Attachment/Instructions/Closing)
 

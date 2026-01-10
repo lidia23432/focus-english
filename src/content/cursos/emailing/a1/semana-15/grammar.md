@@ -1,96 +1,43 @@
-# Semana 15 — Grammar (A1): Rescheduling a meeting
+# Semana 15 — Grammar (A1): Rescheduling
 
-## Objetivo de la semana
-Escribir emails cortos para **cambiar una reunión**: decir que no puedes, pedir disculpas, proponer nueva hora y pedir confirmación.
-
----
-
-## 1) ON / AT (repaso A1)
-
-- **on + day/date**
-  - on Monday
-  - on 12 March
-- **at + time**
-  - at 10:00
-  - at 3:30 p.m.
-
-✅ Example:
-- Can we meet **on** Thursday **at** 11:00?
+## Objetivo (ES)
+Cambiar una reunión de forma educada:
+- disculpa (Sorry…)
+- no disponible (I am not available / I can’t meet)
+- nueva propuesta (Can we meet…? / How about…?)
+- pedir confirmación
 
 ---
 
-## 2) Frases clave (copy/paste)
+## 1) Apology (A1)
+- Sorry for the change.
+- Sorry, I can’t meet on Monday.
 
-### A) Decir que no puedes
-- **I can’t meet** on Monday.
-- **I’m not available** on Monday.
-- **I can’t attend** the meeting.
+## 2) Not available (A1)
+- I am not available on Monday at 10:00.
+- I can’t meet on Monday.
 
-### B) Disculpa (simple)
-- **Sorry**, I can’t meet on Monday.
-- **Sorry for the change.**
-- **Sorry for the inconvenience.** (opcional, un poco más formal pero fácil)
+## 3) New time proposal (A1)
+- Can we meet on Tuesday at 11:00?
+- How about Tuesday at 11:00?
 
-### C) Proponer nueva hora
-- **Can we meet** on Tuesday at 10:00?
-- **Is Tuesday at 10:00 OK for you?**
-- **How about** Tuesday at 10:00?
-
-### D) Pedir confirmación
-- **Please confirm.**
-- **Is this time OK for you?**
-- **Can you confirm, please?**
-
----
-
-## 3) Estructura de email (A1, muy simple)
-
-**Subject**
-- Meeting change
-- Change of meeting time
-- Reschedule meeting
-
-**Greeting**
-- Hello + Name,
-- Hi + Name,
-
-**Problem (1 frase)**
-- Sorry, I’m not available on Monday.
-
-**New time (1–2 frases)**
-- Can we meet on Tuesday at 10:00?
+## 4) Ask to confirm
 - Is this time OK for you?
-
-**Confirm**
 - Please confirm.
 
-**Closing**
-- Thank you,
-- Kind regards,
-- Best regards,
+## 5) Mini practice
+A) Choose the correct word
+1) Sorry for the ___. (change / changed)
+2) I am not ___. (available / availability)
+3) Can we meet on Tuesday __ 11:00? (on/at)
 
----
+Answers: 1) change  2) available  3) at
 
-## 4) Mini vocabulary (A1 work)
+B) Error correction
+1) Sorry for change.
+2) I am not available at Monday.
 
-- change = cambio
-- reschedule = cambiar (reprogramar)
-- available = disponible
-- not available = no disponible
-- meeting = reunión
-- confirm = confirmar
-- time = hora
-- day = día
+Answers:
+1) Sorry for the change.
+2) I am not available on Monday.
 
----
-
-## 5) Mini practice (rellena)
-
-1) I’m not available ___ Monday.  
-2) Can we meet ___ Tuesday ___ 10:00?  
-3) Please ________.
-
-**Answers**
-1) on  
-2) on / at  
-3) confirm

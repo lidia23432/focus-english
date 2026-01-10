@@ -1,85 +1,41 @@
-# Emailing A1 — Semana 11 — Grammar
-**Tema:** because (razón corta) + follow-up phrases  
-**Duración:** 15–25 min
+# Semana 11 — Grammar (A1): Do you…? questions (have / need)
 
-## Micro‑lección (A1)
-Usa **because** para decir una razón simple:
-
-- Please send it, **because** I need it today.
-- I can’t meet, **because** I am busy.
-
-Frases útiles de follow-up (A1):
-- **This is a follow-up.**
-- **Just a reminder.**
-- **Please send it.**
-- **Please confirm.**
+## Objetivo (ES)
+Pedir información faltante con preguntas cortas:
+- Do you have…?
+- Do you need…?
+y responder con:
+- Yes, I do. / No, I don’t.
 
 ---
 
-## Ejercicios (22)
+## 1) Questions (A1)
+- Do you have the invoice?
+- Do you have the address?
+- Do you need the document?
+- Do you need help?
 
-### A) Completa con because
-1) Please send it, ___ I need it today.  
-2) I can’t meet, ___ I am busy.  
-3) Please confirm, ___ I need the time.
+## 2) Short answers (A1)
+- Yes, I do.
+- No, I don’t.
 
-### B) Elige la opción correcta
-4) because / because of (A1 usamos **because**)  
-5) I need it (today / on today)
+## 3) Mini practice
 
-### C) Une las frases (usa because)
-6) I need it today. Please send it.  
-7) I am busy. I can’t meet.
+A) Choose do / don’t
+1) Yes, I ___.  
+2) No, I ___.
 
-### D) Ordena las palabras
-8) because / need / I / it / today  
-9) reminder / a / just / is / this
+Answers: 1) do  2) don’t
 
-### E) Completa la frase (follow-up)
-10) This is a ________. (follow-up)  
-11) Just a ________. (reminder)
+B) Make questions (reorder)
+1) you / Do / have / the invoice / ?  
+2) you / Do / need / help / ?
 
-### F) Escribe 4 frases útiles (A1)
-12) __________________________________  
-13) __________________________________  
-14) __________________________________  
-15) __________________________________
+Answers:
+1) Do you have the invoice?
+2) Do you need help?
 
-(Usa: This is a follow-up / Just a reminder / Please send it / Please confirm)
+C) Error correction
+1) Do you needs the file?
+Answer: Do you need the file?
 
-### G) Corrige el error (reescribe bien)
-16) Please send it because I need today.  
-17) This is follow-up.  
-18) Just reminder.  
-19) I need it on today.  
-20) Please send, because I need it.
-
-### H) Extra (respuesta corta)
-21) Write one sentence with “because” (A1).  
-22) Write one follow-up opening line.
-
----
-
-## Soluciones
-1) because  
-2) because  
-3) because  
-4) because  
-5) today  
-6) Please send it, because I need it today.  
-7) I can’t meet, because I am busy.  
-8) I need it today because… (otra opción: Because I need it today.)  
-9) This is just a reminder.  
-10) follow-up  
-11) reminder  
-12) This is a follow-up.  
-13) Just a reminder.  
-14) Please send it.  
-15) Please confirm.  
-16) Please send it, because I need it today.  
-17) This is a follow-up.  
-18) Just a reminder.  
-19) I need it today.  
-20) Please send it, because I need it.  
-21) Example: I can’t meet, because I am busy.  
-22) Example: This is a follow-up.

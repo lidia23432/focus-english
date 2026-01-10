@@ -1,53 +1,28 @@
-# Emailing A1 — Semana 11 — Writing
-**Tema:** Follow-up simple + because  
-**Duración:** 25–35 min
+# Semana 11 — Writing (A1): Ask for missing information
 
-## Plantilla (A1)
-**Subject:** Follow-up
+Template
+Subject: Quick questions
+Hello __,
+Do you have __?
+Do you have __?
+Do you need __?
+Please confirm.
+Kind regards,
+__
 
-Hi [NAME],  
-This is a follow-up.  
-Do you have the [ITEM]?  
-Please send it, because I need it today.  
-Thank you.  
-Best regards,  
-[YOUR NAME]
+Task A
+Write to Maria with 3 Do you…? questions.
 
----
+Task B
+Reply with Yes/No short answers + 1 detail per answer (A1).
 
-## Tarea 1 (principal)
-- Destinatario: **Taylor**
-- Tu nombre: **Sam**
-- Item: **price list**
+Production task
+Write a short email to collect missing info:
+- 4 Do you…? questions
+- polite closing
 
----
-
-## Tarea 2 (variación)
-Escribe otro follow-up para:
-- Item: **schedule**
-- Cambia la razón:
-  - “because I need it this week.”
-
-(Frase A1: this week)
-
----
-
-## Checklist ✅
-- Subject correcto
-- Opening: “This is a follow-up.”
-- 1 pregunta “Do you have…?”
-- 1 request + because (razón simple)
-- Thank you + cierre
-- 6–9 líneas
-
-## Ejemplo (modelo)
-**Subject:** Follow-up
-
-Hi Taylor,  
-This is a follow-up.  
-Do you have the price list?  
-Please send it, because I need it today.  
-Thank you.  
-Best regards,  
-Sam
+Extra exercises
+A) Reorder: questions + closing
+B) Error correction: 8 questions (needs/has)
+C) Checklist: short, polite, clear
 

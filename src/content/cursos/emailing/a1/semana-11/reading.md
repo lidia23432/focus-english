@@ -1,64 +1,44 @@
-# Emailing A1 — Semana 11 — Reading
-**Tema:** Follow-up + because  
-**Duración:** 15–25 min
+# Semana 11 — Reading (A1): Do you…? questions
 
-## Texto (A1)
-**Subject:** Follow-up
+## Reading 1
+Subject: Quick questions
 
-Hi Taylor,  
-This is a follow-up.  
-Do you have the price list?  
-Please send it, because I need it today.  
-Thank you.  
-Best regards,  
-Sam
+Hello Tom,
+Do you have the invoice?
+Do you have the address?
+Do you need help?
+Please confirm.
 
----
+Kind regards,
+Ana
 
-## A) Comprensión literal (elige A/B/C)
-1) What is the subject?  
-A) Follow-up  B) Availability  C) File attached
+Comprehension
+1) Ana asks: a) 3 questions b) 1 question c) 0
+2) Ana asks about: a) invoice+address b) salary c) holidays
+3) Ana says: a) Please confirm b) Please pay c) Please cancel
 
-2) What does Sam ask for?  
-A) schedule  B) price list  C) meeting room
-
-3) Sam needs it:  
-A) today  B) tomorrow  C) next week
-
-4) “because” introduces:  
-A) a reason  B) a greeting  C) a closing
+Answers: 1)a 2)a 3)a
 
 ---
 
-## B) Verdadero / Falso
-5) Sam says “This is a follow-up.” (T/F)  
-6) Sam already attached the price list. (T/F)  
-7) Sam says “Thank you.” (T/F)
+## Reading 2
+Subject: Re: Quick questions
 
----
+Hi Ana,
+Yes, I do. I have the invoice.
+No, I don’t. I don’t have the address.
+No, I don’t. I don’t need help.
+Thank you.
 
-## C) Vocabulario (elige la mejor opción)
-8) “follow-up” means:  
-A) seguimiento  B) reunión  C) adjunto
+Best regards,
+Tom
 
-9) “need” means:  
-A) necesitar  B) cancelar  C) confirmar
+Comprehension
+1) Tom has the invoice: Yes/No
+2) Tom has the address: Yes/No
+3) Tom needs help: Yes/No
 
----
+Answers: 1)Yes 2)No 3)No
 
-## D) Respuesta corta (1 línea)
-10) Write one polite follow-up question to ask for a file (A1).
+Extra task: underline Do you…? + Yes/No answers.
 
----
-
-## Soluciones
-1) A  
-2) B  
-3) A  
-4) A  
-5) T  
-6) F  
-7) T  
-8) A  
-9) A  
-10) Example: Do you have the file?

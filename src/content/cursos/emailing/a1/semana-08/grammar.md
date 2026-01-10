@@ -1,28 +1,37 @@
-# Emailing A1 — Semana 08 — Grammar (Consolidación 2)
-**Tema:** Repaso: Please + Can you…? + this/that + on/at  
-**Duración:** 10–15 min
+# Semana 08 — Grammar (A1): Attachments
 
-## Ejercicios (mix)
+## Objetivo (ES)
+Enviar documentos con una frase estándar y 1–2 instrucciones simples.
 
-### A) Completa
-1) Please find ___ the file.  
-2) Can you ___ the time, please? (confirm / confirms)  
-3) Yes, ___ works. (this/that)
+---
 
-### B) Elige (on/at)
-4) on Monday ___ 10:00  
-5) on Tuesday ___ 14:00
+## 1) Standard phrases (A1)
+- Please find attached the invoice.
+- Please find attached the form.
+- I attach the document.
 
-### C) Escribe la frase
-6) please / send / you / can / the schedule  
-7) this / is / the / new / version
+---
 
-## Soluciones
-1) attached  
-2) confirm  
-3) that  
-4) at  
-5) at  
-6) Can you send the schedule, please?  
-7) This is the new version.
+## 2) Simple instructions (Please + verb)
+- Please review the document.
+- Please sign the form.
+- Please send it back.
+- Please confirm receipt.
+
+---
+
+## 3) Mini practice
+
+A) Choose the correct word
+1) Please find attach/attached the invoice. → attached
+2) Please review/reviews the document. → review
+3) Please confirm receipt/receive. → receipt
+
+B) Error correction
+1) Please find attach the file.
+2) Please signs the form.
+
+Answers:
+1) Please find attached the file.
+2) Please sign the form.
 

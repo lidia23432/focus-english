@@ -1,65 +1,43 @@
-Copy# Emailing A1 — Semana 10 — Reading
-**Tema:** Can / can’t (availability)  
-**Duración:** 15–25 min
+# Semana 10 — Reading (A1): Office hours
 
-## Texto (A1)
-**Subject:** Availability
+## Reading 1
+Subject: Office hours
 
-Hi Taylor,  
-I can meet on Monday at 10:00.  
-I can’t meet on Tuesday at 14:00.  
-Can we meet on Wednesday at 09:00?  
-Please confirm.  
-Thank you.  
-Best regards,  
-Sam
+Hello,
+Our office hours are Monday to Friday.
+We open at 9:00.
+We close at 5:00.
+Thank you.
 
----
+Best regards,
+Support Team
 
-## A) Comprensión literal (elige A/B/C)
-1) What is the subject?  
-A) Availability  B) Questions  C) File attached
+Comprehension
+1) They are open: a) Mon-Fri b) Sat-Sun c) every night
+2) They open at: a) 9:00 b) 5:00 c) 10:00
+3) They close at: a) 5:00 b) 9:00 c) 7:00
 
-2) Sam can meet:  
-A) Monday at 10:00  B) Tuesday at 14:00  C) Friday at 16:00
-
-3) Sam can’t meet:  
-A) Monday at 10:00  B) Tuesday at 14:00  C) Wednesday at 09:00
-
-4) Sam proposes:  
-A) Wednesday at 09:00  B) Tuesday at 09:00  C) Monday at 14:00
+Answers: 1)a 2)a 3)a
 
 ---
 
-## B) Verdadero / Falso
-5) Sam can meet on Tuesday at 14:00. (T/F)  
-6) Sam proposes a new time. (T/F)  
-7) The email is polite (it uses “Please confirm”). (T/F)
+## Reading 2
+Subject: Question about hours
 
----
+Hi,
+What are your office hours?
+What time do you open?
+Please confirm.
 
-## C) Vocabulario
-8) “can’t” means:  
-A) puedo  B) no puedo  C) tengo
+Kind regards,
+Ana
 
-9) “confirm” means:  
-A) confirmar  B) adjuntar  C) cancelar
+Comprehension
+1) Ana asks about: a) hours b) invoice c) meeting room
+2) Ana asks: a) 2 questions b) 0 questions c) 5 questions
+3) Ana says: a) please confirm b) please pay c) please cancel
 
----
+Answers: 1)a 2)a 3)a
 
-## D) Respuesta corta (1 línea)
-10) Write one sentence to say you cannot meet (use “can’t”).
+Extra task: underline open/close + times.
 
----
-
-## Soluciones
-1) A  
-2) A  
-3) B  
-4) A  
-5) F  
-6) T  
-7) T  
-8) B  
-9) A  
-10) Example: I can’t meet on Tuesday at 14:00.

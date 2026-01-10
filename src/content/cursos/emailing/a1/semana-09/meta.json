@@ -1,9 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 09 — Confirm receipt & thanks (I received / I got…) (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 9,
-  "title": "Preguntas en email (Do you…? / Do you have…?)",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": { "reading": 20, "grammar": 20, "writing": 30, "review": 5 }
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["confirming receipt","thanking","next step (I will check...)","short replies"],
+  "outcomes": ["I can confirm I received an email or file.","I can say thanks and mention a next step (today/tomorrow).","I can keep replies short and professional."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }
-

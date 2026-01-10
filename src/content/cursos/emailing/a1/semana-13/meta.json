@@ -1,9 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 13 — Availability: available / not available + propose a time (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 13,
-  "title": "Updates simples (Present Simple: I/you)",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": { "reading": 25, "grammar": 30, "writing": 35, "review": 5 }
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["availability","declining a time","proposing a new time","on/at review"],
+  "outcomes": ["I can say I am available or not available.","I can propose a new time with on/at.","I can ask for confirmation politely."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }
-

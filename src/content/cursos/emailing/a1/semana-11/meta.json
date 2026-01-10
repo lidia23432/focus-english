@@ -1,9 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 11 — Do you…? questions (have / need) (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 11,
-  "title": "Follow-up simple + because (razón corta)",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": { "reading": 20, "grammar": 20, "writing": 30, "review": 5 }
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["Do you have...?","Do you need...?","short answers","collecting missing info"],
+  "outcomes": ["I can ask Do you have/need questions in a work email.","I can answer Yes, I do / No, I don’t.","I can request missing information politely."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }
-

@@ -1,55 +1,35 @@
-# Emailing A1 — Semana 09 — Writing
-**Tema:** Email con preguntas (Do you…?)  
-**Duración:** 25–35 min
+# Semana 09 — Writing (A1): Confirm receipt + next step
 
-## Plantilla (A1)
-**Subject:** Questions
+Template A (very short)
+Subject: Re: __
+Hi __,
+Thanks, I received __.
+I will check it today.
+Kind regards,
+__
 
-Hi [NAME],  
-Do you have [ITEM 1]?  
-Do you have [ITEM 2]?  
-Do you work on [DAY]?  
-Please confirm.  
-Thank you.  
-Best regards,  
-[YOUR NAME]
+Task A
+Confirm receipt of a file. Add next step: today.
 
----
+Template B (short)
+Subject: Re: __
+Hello __,
+Thank you for your email.
+I got your email.
+I will review it tomorrow.
+Best regards,
+__
 
-## Tarea 1 (principal)
-- Destinatario: **Jordan**
-- Tu nombre: **Alex**
-- Pregunta por:
-  1) **the price list**
-  2) **the schedule**
-  3) **Monday**
+Task B
+Confirm receipt + next step: tomorrow.
 
----
+Production task
+Write a 2-email mini-thread:
+Email 1: send a file (very short)
+Email 2: confirm received + next step
 
-## Tarea 2 (variación)
-Escribe otro email con 3 preguntas diferentes:
-- item 1: **the file**
-- item 2: **the schedule**
-- day: **Tuesday**
-
----
-
-## Checklist ✅
-- Subject correcto (“Questions”)
-- 3 preguntas con “Do you…?”
-- “Please confirm.”
-- Thank you + cierre
-- Frases cortas (A1)
-
-## Ejemplo (modelo)
-**Subject:** Questions
-
-Hi Jordan,  
-Do you have the price list?  
-Do you have the schedule?  
-Do you work on Monday?  
-Please confirm.  
-Thank you.  
-Best regards,  
-Alex
+Extra exercises
+A) Reorder: subject / thanks / received / next step / closing
+B) Error correction (8 sentences): checks/check, received/receive, word order
+C) Checklist: short, polite, clear next step
 

@@ -1,33 +1,40 @@
-# Emailing A1 — Semana 08 — Reading (Consolidación 2)
-**Tema:** Adjunto + confirmación  
-**Duración:** 10–15 min
+# Semana 08 — Reading (A1): Attachments
 
-## Texto (A1)
-**Subject:** File attached and confirmation
+## Reading 1
+Subject: Invoice attached
 
-Hi Jordan,  
-Please find attached the price list.  
-Can you confirm, please?  
-Thank you.  
-Best regards,  
-Alex
+Hello Maria,
+Please find attached the invoice.
+Please review the invoice.
+Please confirm receipt.
 
-## Preguntas
-1) What is attached?  
-A) price list  B) schedule  C) report
+Kind regards,
+Ana
 
-2) Alex asks Jordan to:  
-A) cancel  B) confirm  C) call
+Questions
+1) What is attached?
+2) Two actions Ana asks for?
 
-3) Is the email polite?  
-A) Yes  B) No
+Answers: 1) invoice  2) review + confirm receipt
 
-4) The closing is:  
-A) Thank you  B) Best regards  C) Hi Jordan
+---
 
-## Soluciones
-1) A  
-2) B  
-3) A  
-4) B
+## Reading 2
+Subject: Re: Invoice attached
+
+Hi Ana,
+Thank you.
+I received the invoice.
+I will review it today.
+
+Best regards,
+Maria
+
+Questions
+1) Maria received the invoice: Yes/No
+2) When will she review it?
+
+Answers: 1) Yes  2) today
+
+Extra task: underline “Please …” sentences.
 

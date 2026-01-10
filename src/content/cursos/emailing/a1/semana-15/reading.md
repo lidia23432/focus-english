@@ -1,66 +1,44 @@
-# Semana 15 — Reading (A1): Rescheduling a meeting
+# Semana 15 — Reading (A1): Rescheduling
 
-## Texto 1 (email corto)
+## Reading 1
+Subject: Change of meeting time
 
-**Subject:** Change of meeting time
+Hello Tom,
+Sorry for the change.
+I am not available on Monday at 10:00.
+Can we meet on Tuesday at 11:00?
+Please confirm.
 
-Hello Mr. Green,  
-Sorry, I’m not available **on Monday at 10:00**.  
-Can we meet **on Tuesday at 11:00**?  
-Please confirm.  
+Kind regards,
+Ana
 
-Kind regards,  
-Laura
+Comprehension (A1)
+1) Ana is not available: a) Monday 10:00 b) Tuesday 11:00 c) Friday 9:00
+2) New time: a) Tuesday 11:00 b) Monday 11:00 c) Tuesday 10:00
+3) Ana says: a) Sorry b) Pay now c) Cancel
+4) Ana asks Tom to: a) confirm b) resend c) stop
 
----
-
-## Comprehension (A1)
-
-1) Who is the email to?  
-a) Laura  b) Mr. Green  c) Monday
-
-2) Why does Laura write?  
-a) To cancel the project  
-b) To change the meeting time  
-c) To ask for a price
-
-3) When is the new meeting time?  
-a) Tuesday at 11:00  
-b) Monday at 11:00  
-c) Tuesday at 10:00
-
-4) What does Laura ask Mr. Green to do?  
-a) Confirm  
-b) Call her now  
-c) Send a file
-
-**Answers:** 1) b  2) b  3) a  4) a
+Answers: 1)a 2)a 3)a 4)a
 
 ---
 
-## Texto 2 (llamada online)
+## Reading 2
+Subject: Re: Change of meeting time
 
-**Subject:** Reschedule our call
+Hi Ana,
+No problem.
+Tuesday at 11:00 is OK for me.
+Please confirm.
 
-Hi Ana,  
-Sorry for the change. I can’t meet **on Thursday at 3:00 p.m.**  
-How about **Friday at 9:30 a.m.**?  
-Is this time OK for you?  
+Best regards,
+Tom
 
-Best regards,  
-David
+Comprehension (A1)
+1) Tom says Tuesday 11:00 is: a) OK b) not OK c) unknown
+2) Tom says: a) No problem b) No money c) No email
+3) Tom asks Ana to: a) confirm b) cancel c) pay
 
----
+Answers: 1)a 2)a 3)a
 
-## Comprehension (A1)
+Extra task: underline apology + new time + confirm.
 
-1) Is it a meeting on Thursday? Yes / No  
-2) What is the new day?  
-3) What is the new time?  
-4) Write David’s question to check if Ana agrees.
-
-**Answers**
-1) No  
-2) Friday  
-3) 9:30 a.m.  
-4) Is this time OK for you?

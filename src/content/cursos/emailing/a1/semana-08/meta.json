@@ -1,9 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 08 — Attachments: Please find attached… (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 8,
-  "title": "Consolidación 2 (adjunto + confirmación)",
-  "focus": ["reading", "grammar", "writing", "review"],
-  "duration_minutes": { "reading": 15, "grammar": 15, "writing": 30, "review": 10 }
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["sending attachments","Please find attached","simple instructions (review/sign)","confirming receipt"],
+  "outcomes": ["I can send an email with an attachment using standard phrases.","I can ask someone to review or sign a document.","I can ask to confirm receipt politely."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
+  }
 }
-

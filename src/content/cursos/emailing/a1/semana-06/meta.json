@@ -1,14 +1,18 @@
 {
-  "course": "emailing",
+  "title": "Semana 06 — Dates & times (on/at) + simple scheduling (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 6,
-  "title": "Confirmar (Yes/No) + this/that",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": {
-    "reading": 15,
-    "grammar": 15,
-    "writing": 25,
-    "review": 5
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["days and times","on/at","simple meeting proposal","asking for confirmation"],
+  "outcomes": ["I can propose a meeting time using on/at.","I can accept or decline a time in a short email.","I can ask for confirmation politely."],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
   }
 }
-

@@ -1,75 +1,43 @@
-# Semana 14 — Writing (A1): Confirm a meeting (work email)
+# Semana 14 — Writing (A1): Confirm a meeting
 
-## Objetivo
-Escribir un email corto para **confirmar una reunión** con: día + hora + lugar/llamada + pedir confirmación.
+Template A (office)
+Subject: Meeting confirmation
+Hello __,
+This is to confirm our meeting on __ at __.
+We meet at __.
+Is this time OK for you?
+Please confirm.
+Kind regards,
+__
 
----
+Task A (Guided)
+Write to Maria:
+- Tuesday at 10:00
+- place: our office
+- ask to confirm
 
-## 1) Plantilla (copy/paste)
+Template B (call)
+Subject: Call confirmation
+Hi __,
+This is to confirm our call on __ at __.
+Is this time OK for you?
+Please confirm.
+Best regards,
+__
 
-**Subject:** Meeting confirmation
+Task B (Semi-guided)
+Write to Tom:
+- Thursday at 3:30 p.m.
+- phone call
+- ask to confirm
 
-Hello ___,  
-This is to confirm our meeting **on ___ at ___**.  
-We meet **at ___** / We meet **online** / This is a **phone call**.  
-**Is this time OK for you?**  
-Please confirm.  
+Production task (Final)
+Write TWO confirmations (A1):
+1) office meeting
+2) online meeting (include: Here is the link: __)
 
-Kind regards,  
-___
+Extra exercises
+A) Reorder the lines (8 items)
+B) Error correction (10 sentences): on/at + missing “to”
+C) Checklist: subject, day+time, details, confirm question, closing
 
----
-
-## 2) Tarea A (A1)
-Escribe un email a **Mr. Brown** para confirmar una reunión:
-- Day: Wednesday
-- Time: 11:00
-- Place: your office
-
-✅ Usa 5–7 frases máximo.
-
----
-
-## 3) Tarea B (A1)
-Escribe un email a **Laura** para confirmar una llamada:
-- Day: Friday
-- Time: 2:30 p.m.
-- Type: phone call
-
-✅ Usa 4–6 frases.
-
----
-
-## 4) Model answers (ejemplos)
-
-### Answer A
-**Subject:** Meeting confirmation
-
-Hello Mr. Brown,  
-This is to confirm our meeting **on Wednesday at 11:00**.  
-We meet **at our office**.  
-Is this time OK for you?  
-Please confirm.  
-
-Kind regards,  
-Ana
-
-### Answer B
-**Subject:** Call confirmation
-
-Hi Laura,  
-This is to confirm our call **on Friday at 2:30 p.m.**  
-Is this time OK for you?  
-Please confirm.  
-
-Best regards,  
-Ana
-
----
-
-## 5) Checklist (A1)
-- I use **on + day** ✅
-- I use **at + time** ✅
-- I write a clear subject ✅
-- I ask for confirmation ✅
-- I sign my name ✅
