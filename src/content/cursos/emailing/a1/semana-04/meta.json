@@ -1,0 +1,14 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 4,
+  "title": "Consolidación 1 (email completo A1: presentación + request + horarios)",
+  "focus": ["reading", "grammar", "writing", "review"],
+  "duration_minutes": {
+    "reading": 15,
+    "grammar": 15,
+    "writing": 30,
+    "review": 10
+  }
+}
+
