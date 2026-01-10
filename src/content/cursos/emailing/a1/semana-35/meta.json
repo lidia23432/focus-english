@@ -1,0 +1,11 @@
+{
+  "title": "Semana 35 — Workweek simulation (5 emails: Mon–Fri)",
+  "goal": "emailing",
+  "level": "a1",
+  "week": 35,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["simulation","5 common situations","speed + accuracy","A1 consistency"],
+  "outcomes": ["I can write 5 common work emails.","I can use the right template for each situation.","I can check my emails with an A1 checklist."],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 10, "vocabulary": 15, "reading": 20, "writing": 65, "extraPractice": 0 }
+}

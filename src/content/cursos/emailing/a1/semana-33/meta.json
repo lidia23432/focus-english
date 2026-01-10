@@ -1,0 +1,11 @@
+{
+  "title": "Semana 33 — Pack 3: Problem + resend + confirm received (3-email thread)",
+  "goal": "emailing",
+  "level": "a1",
+  "week": 33,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["thread practice","problem email","resend request","confirm received"],
+  "outcomes": ["I can write a 3-email support thread.","I can describe a simple problem and ask to resend.","I can confirm received and close politely."],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 15, "vocabulary": 15, "reading": 30, "writing": 45, "extraPractice": 5 }
+}

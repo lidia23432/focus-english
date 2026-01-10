@@ -1,0 +1,6 @@
+# Semana 31 — Grammar (A1): Pack 1 (review)
+- Please + verb
+- Please find attached…
+- Thanks, I received…
+Mini: checklist + error correction across 3 emails.
+

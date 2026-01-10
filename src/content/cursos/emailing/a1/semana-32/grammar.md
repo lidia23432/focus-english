@@ -1,0 +1,6 @@
+# Semana 32 — Grammar (A1): Pack 2 (meetings review)
+- Can we meet…?
+- This is to confirm…
+- This is a reminder…
+Mini: on/at + reorder 3 emails.
+

@@ -1,0 +1,11 @@
+{
+  "title": "Semana 28 — Resend request + confirm received (work emails)",
+  "goal": "emailing",
+  "level": "a1",
+  "week": 28,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["asking to resend","I didn’t receive...","confirming received","short email threads"],
+  "outcomes": ["I can ask someone to resend a file/link.","I can say I didn’t receive something.","I can confirm I received it and say thanks."],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 20, "vocabulary": 25, "reading": 25, "writing": 30, "extraPractice": 10 }
+}

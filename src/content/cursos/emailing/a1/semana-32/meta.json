@@ -1,0 +1,11 @@
+{
+  "title": "Semana 32 — Pack 2: Meeting (propose + confirm + reminder)",
+  "goal": "emailing",
+  "level": "a1",
+  "week": 32,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": ["thread practice","propose meeting","confirm meeting","send reminder"],
+  "outcomes": ["I can write a 3-email meeting thread.","I can use on/at correctly.","I can write a short reminder and ask to confirm."],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 15, "vocabulary": 15, "reading": 30, "writing": 45, "extraPractice": 5 }
+}
