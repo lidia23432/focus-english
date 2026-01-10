@@ -1,0 +1,20 @@
+{
+  "title": "Semana 01 — Requests ladder: Please vs Can vs Could vs Would (work-neutral)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 1,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "politeness ladder (Please / Can you / Could you / Would you)",
+    "choosing the right request (internal vs external)",
+    "common request verbs (send/confirm/check/review/share/resend)",
+    "subject lines for requests"
+  ],
+  "outcomes": [
+    "I can write polite requests using Please/Can/Could/Would.",
+    "I can choose the best request level for internal vs external emails.",
+    "I can correct common mistakes (no 'to send' after Could/Would)."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
