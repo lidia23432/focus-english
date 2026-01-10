@@ -1,78 +1,42 @@
-# Semana 06 (A2) — Writing: Polite follow-ups + time frames
+# Semana 06 (A2) — Writing: Follow-ups (internal + external)
 
 ## Objetivo (ES)
-Escribir follow-ups educados con límite temporal, sin sonar agresivo.
+Escribir follow-ups con tono adecuado y deadline claro.
 
 ---
 
-## Task A (Guided)
-Write a follow-up email to Maria:
-- “Just a quick follow-up on the invoice.”
-- request: Could you send an update **by Friday**, please?
-- add: Thank you in advance.
-- closing
-
-✅ 8–12 lines.
+## Task 1 — Choose the best phrase
+1) (External) ___ (Any update? / Just following up on…)  
+2) (Internal) ___ (Could you kindly… / Any update on…?)
 
 ---
 
-## Task B (Semi-guided)
-Reply to Tom:
-- say: The invoice is pending.
-- next step: I will send it **by end of day**.
-- request: Please confirm.
-- closing
+## Task 2 — Write 2 follow-ups
 
-✅ 8–12 lines.
+### A) Internal follow-up (4–6 lines)
+Situation: You are waiting for a teammate to confirm the deadline.
+Include:
+- Any update on…?
+- by EOD
 
----
-
-## Production task (Final)
-Write ONE complete follow-up email (A2) that includes:
-- 1 softener phrase (Just a quick follow-up / When you have a moment…)
-- 1 time frame (this week / by Friday / by end of day)
-- 1 request using **Could you** or **Would you**
-- 1 thanks line + closing
+### B) External follow-up (5–7 lines)
+Situation: You are waiting for a vendor to resend a link.
+Include:
+- Just following up on…
+- Could you share an ETA by Friday?
 
 ---
 
-## Extra exercises (for 2h/week)
+## Task 3 — Optional (A2) “Offer an alternative”
+Add 1 line:
+- If you need more time, we can…
 
-### A) Choose the best request form (tone)
-Pick one for each:
-1) urgent internal: Please / Can you / Could you / Would you  
-2) neutral: Please / Can you / Could you / Would you  
-3) very polite: Please / Can you / Could you / Would you  
-
-Suggested answers:
-1) Please / Can you
-2) Could you
-3) Would you
-
-### B) Rewrite to soften (A2)
-Rewrite:
-1) “Send the update by Friday.”  
-2) “Confirm today.”
-
-Possible answers:
-1) Could you send the update by Friday, please?  
-2) When you have a moment, could you confirm today?
-
-### C) Error correction
-Correct:
-1) Please reply on Friday.  
-2) Could you to send the status?  
-3) Please confirms by end of day.
-
-**Answers**
-1) Please reply by Friday.  
-2) Could you send the status?  
-3) Please confirm by end of day.
+Example:
+- If you need more time, we can move the deadline to Monday.
 
 ---
 
 ## Checklist (A2)
-- I use a soft follow-up phrase ✅
-- I use by + time frame correctly ✅
-- I use Could/Would without “to + verb” ✅
-- Clear subject + closing ✅
+- I sound polite (not aggressive) ✅
+- I include a timeframe (by EOD/by Friday) ✅
+- My request is clear ✅

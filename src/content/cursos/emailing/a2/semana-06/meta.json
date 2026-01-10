@@ -1,20 +1,20 @@
 {
-  "title": "Semana 06 — Polite follow-ups + time frames (by Friday / this week) (work emails)",
+  "title": "Semana 06 — Polite follow-ups (any update?) + timeframes (by Friday / by EOD)",
   "goal": "emailing",
   "level": "a2",
   "week": 6,
   "estimatedTime": "120 min",
   "lastUpdated": "2026-01-10",
   "topics": [
-    "polite follow-ups (soft tone)",
-    "time frames: this week, by Friday, by end of day",
-    "requests: Please vs Can vs Could vs Would",
-    "short professional reminders"
+    "polite follow-ups (Just following up / Any update?)",
+    "timeframes (by Friday / by EOD) and ETAs",
+    "tone control: internal quick ping vs external reminder",
+    "offering alternatives (if needed)"
   ],
   "outcomes": [
-    "I can write a polite follow-up email with a soft tone.",
-    "I can use common time frames (by Friday / this week / by end of day).",
-    "I can choose the right request form (Please/Can/Could/Would) for the situation."
+    "I can write a polite follow-up without sounding aggressive.",
+    "I can ask for an ETA and propose a timeframe.",
+    "I can write internal and external follow-ups with appropriate tone."
   ],
   "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
 }

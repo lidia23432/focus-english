@@ -1,20 +1,20 @@
 {
-  "title": "Semana 04 — Future for next steps: will / going to (work emails)",
+  "title": "Semana 04 — Future plans: will vs going to (next steps & commitments)",
   "goal": "emailing",
   "level": "a2",
   "week": 4,
   "estimatedTime": "120 min",
   "lastUpdated": "2026-01-10",
   "topics": [
-    "future for next steps (will / going to)",
-    "simple timelines (today / tomorrow / next week)",
-    "polite requests review (Please / Can / Could / Would)",
-    "clear action + confirmation"
+    "will (promises / next steps) vs going to (plans)",
+    "timeframes (tomorrow / next week / by Friday)",
+    "project-style emails: next steps + owners",
+    "polite requests with Could/Would (review)"
   ],
   "outcomes": [
     "I can write next steps using will and going to.",
-    "I can write an email with 2–3 action steps and a short timeline.",
-    "I can request confirmation politely (Could/Would)."
+    "I can make simple commitments with deadlines.",
+    "I can write a clear plan with 2–3 steps."
   ],
   "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
 }

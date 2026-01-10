@@ -1,68 +1,36 @@
-# Semana 05 (A2) — Writing: some/any + countable/uncountable
+# Semana 05 (A2) — Writing: Requesting missing information
 
 ## Objetivo (ES)
-Escribir emails A2 para pedir información/updates con some/any y requests educados.
+Escribir emails para pedir información que falta con tono profesional.
 
 ---
 
-## Task A (Guided)
-Write an email to Tom:
-- I need **some information** about __.
-- request: Could you send **some details**, please?
-- question: Do you have **any questions**?
-- closing
-
-✅ 8–12 lines.
+## Task 1 — Choose some/any
+1) Could you share ___ details?  
+2) Do you have ___ updates?  
+3) I don’t have ___ feedback yet.
 
 ---
 
-## Task B (Semi-guided)
-Reply to Ana:
-- I attached **two files**.
-- I don’t have **any updates** today.
-- offer: Would you like **some** more details?
-- ask: Please confirm.
-
-✅ 8–12 lines.
-
----
-
-## Production task (Final)
-Write one complete email (A2) that includes:
-- 1 sentence with **some** + uncountable noun (information/feedback/help)
-- 1 question with **any** (Do you have any…?)
-- 1 sentence with a countable noun + number (two files / three questions)
-- 1 polite request using **Could you** or **Would you**
-
----
-
-## Extra exercises (for 2h/week)
-
-### A) Choose the best request form (context)
-1) Internal quick request → Please / Can you / Could you / Would you  
-2) Neutral request → Please / Can you / Could you / Would you  
-3) Very polite request → Please / Can you / Could you / Would you  
-
-Suggested answers:
-1) Please / Can you
-2) Could you
-3) Would you
-
-### B) Error correction
+## Task 2 — Fix the mistakes
 Correct:
-1) I need an information.  
-2) Please send me any information. (in this context)  
-3) Do you have some questions?  
-4) I don’t have some updates today.
+1) I need informations.  
+2) Do you have some updates? (question context)
 
-Possible answers:
-1) I need some information.  
-2) Please send me some information.  
-3) Do you have any questions?  
-4) I don’t have any updates today.
+---
 
-### C) Mini checklist (A2)
+## Task 3 — Write an email (7–10 lines)
+Situation: You cannot finish a task because information is missing.
+
+Include:
+- 1 question with **any** (Do you have any…?)
+- 1 request with **some** (Could you share some…?)
+- 1 polite closing
+- project-style context (deadline/timeline/next steps)
+
+---
+
+## Checklist (A2)
 - I use some/any correctly ✅
-- I avoid “an information” ✅
-- I use Could/Would correctly ✅
-- Clear subject + closing ✅
+- I avoid “informations/feedbacks” ✅
+- My request is clear ✅

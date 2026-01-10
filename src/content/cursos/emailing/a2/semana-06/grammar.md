@@ -1,67 +1,45 @@
-# Semana 06 (A2) — Grammar: Polite follow-ups + time frames
+# Semana 06 (A2) — Grammar: Polite follow-ups + timeframes
 
 ## Objetivo (ES)
-Escribir follow-ups sin sonar agresivo usando:
-- **softeners** (just / a quick / when you have a moment)
-- **time frames** (this week / by Friday / by end of day)
-- requests más educados (Could/Would)
+Hacer follow-up con cortesía y claridad, usando preguntas simples + timeframes (by Friday / by EOD).
 
 ---
 
-## 1) Soft follow-up phrases (A2)
-- **Just a quick follow-up** on…
-- **When you have a moment**, could you…?
-- **Could you please** confirm…? (A2 típico)
-- **Would you** be able to…? (lo veremos más adelante; por ahora usamos Would you + verb)
+## 1) Useful follow-up lines (A2)
+- **Just following up on** __.
+- **Any update on** __?
+- **Could you share an ETA**?
+- **When possible,** could you confirm __?
 
-✅ Ejemplos:
-- Just a quick follow-up on the invoice.
-- When you have a moment, could you confirm the status?
+✅ A2 tip: “Just” suaviza el mensaje (más amable).
 
 ---
 
-## 2) Time frames (A2)
-- **this week**
-- **by Friday**
-- **by end of day** (EOD)
-- **by tomorrow morning** (opcional)
+## 2) Timeframes (A2)
+- by Friday
+- by EOD (end of day)
+- today / tomorrow
+- next week
 
-✅ Ejemplos:
-- Could you send the update **by Friday**, please?
-- Please confirm **by end of day**.
-
----
-
-## 3) Please vs Can vs Could vs Would (repaso)
-- Please confirm. (más directo)
-- Can you confirm? (neutral)
-- Could you confirm? (más educado)
-- Would you confirm? (muy educado)
+Examples:
+- Could you confirm by Friday?
+- Any update by EOD?
 
 ---
 
-## 4) Mini practice (A2)
+## 3) Tone: internal vs external
+Internal (short):
+- Any update on the file?
 
-### A) Choose the best time phrase
-1) Please send the update ___ Friday. (by / on)  
-2) Could you reply ___ end of day? (by / at)  
-3) I can review it ___ week. (this / by)
+External (more polite):
+- Just following up on the updated invoice. Could you share an ETA?
 
-**Answers:** 1) by  2) by  3) this
+---
 
-### B) Make it softer (rewrite)
-Rewrite to be more polite:
-1) Please send the status.  
-2) Can you confirm today?
+## Mini practice (A2)
+Choose the best follow-up:
+1) (Internal) ___ (Any update? / Would you be so kind as to provide an update?)  
+Suggested: Any update?
 
-**Possible answers**
-1) Could you send the status, please?  
-2) When you have a moment, could you confirm today?
-
-### C) Error correction
-1) Please reply on end of day.  
-2) Could you to confirm the status?
-
-**Answers**
-1) Please reply by end of day.  
-2) Could you confirm the status?
+2) (External) ___ (Any update? / Just following up on __. Could you share an ETA?)  
+Suggested: Just following up… Could you share an ETA?

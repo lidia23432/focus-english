@@ -1,64 +1,43 @@
-# Semana 04 (A2) — Reading: Next steps (will / going to)
+# Semana 04 (A2) — Reading: Plans & commitments
 
-## Reading 1
+## Objetivo (ES)
+Ver cómo suenan **will** y **going to** en emails con “next steps”.
 
-**Subject:** Next steps
+---
 
-Hello Maria,  
-Thank you for your email.  
-I **will** check the document today.  
-I **will** send an update tomorrow.  
-Could you confirm receipt, please?  
+## Reading 1 — Internal next steps
+
+**Subject:** Next steps — draft
+
+Hi team,  
+Next steps:  
+- I **will** send the revised draft by Friday.  
+- We are **going to** review the budget tomorrow.
+
+Could you confirm your availability for a short call next week?
+
+Thanks,  
+Lidia
+
+Questions:
+1) Find one “will” sentence.  
+2) Find one “going to” sentence.
+
+---
+
+## Reading 2 — External commitment
+
+**Subject:** Plan and timeline confirmation
+
+Hello Marta,  
+Thank you for the update. I **will** share the final document by EOD.  
+We are **going to** schedule a short call next week to confirm the timeline.
+
+Would you confirm if Tuesday works for you?
 
 Kind regards,  
-Tom
+Lidia
 
-### Comprehension (A2)
-1) Tom will check the document…  
-a) today  b) tomorrow  c) next week  
-
-2) Tom will send an update…  
-a) today  b) tomorrow  c) next week  
-
-3) Tom asks Maria to…  
-a) confirm receipt  b) cancel  c) pay  
-
-4) Tom uses…  
-a) Could you  b) Could you to  c) Would you confirms  
-
-**Answers:** 1) a  2) b  3) a  4) a
-
----
-
-## Reading 2
-
-**Subject:** Re: Next steps
-
-Hi Tom,  
-Thank you. I received it.  
-We are **going to** meet next week.  
-Would you send the agenda, please?  
-
-Best regards,  
-Maria
-
-### Comprehension (A2)
-1) Maria says she received it: Yes / No  
-2) Maria says they are going to meet…  
-a) next week  b) today  c) tomorrow  
-
-3) Maria requests…  
-a) the agenda  b) the invoice  c) the link  
-
-4) Maria uses…  
-a) Would you…?  b) Would you confirms…?  c) Could you to…?  
-
-**Answers:** 1) Yes  2) a  3) a  4) a
-
----
-
-## Extra task (10 min)
-Underline:
-- all “will” sentences
-- all “going to” sentences
-- the request lines (Could/Would)
+Questions:
+1) What is promised “by EOD”?  
+2) Which polite request is used?

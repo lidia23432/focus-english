@@ -1,48 +1,38 @@
-# Semana 04 (A2) — Vocabulary: Next steps & timelines
+# Semana 04 (A2) — Vocabulary: Next steps & planning
 
-## 1) Action verbs (A2)
-- send
-- share
-- check
-- review
-- update
-- reply
-- confirm
-- schedule
-- call
-- prepare
+## Objetivo (ES)
+Frases y vocabulario para planes y próximos pasos en emails.
 
-## 2) Timeline words (A2)
-- today
-- tomorrow
-- next week
-- this afternoon
-- this morning
-- as soon as possible (optional A2)
+---
 
-## 3) Useful chunks (copy/paste)
-- I will send it today.
-- I will review the document tomorrow.
-- We are going to meet next week.
-- Could you confirm, please?
-- Would you send the updated file, please?
-- Thank you for your help.
+## 1) Next-steps words
+- **next steps**
+- **plan**
+- **timeline**
+- **schedule**
+- **deliver**
+- **share**
+- **confirm**
 
-## 4) Exercises (A2)
+Examples:
+- Next steps: I will share the file by Friday.
+- We are going to schedule a call.
 
-### A) Matching (verb → purpose)
-1) review → a) read/check a document
-2) update → b) change information
-3) confirm → c) say “yes, OK”
+---
 
-**Answers:** 1-a  2-b  3-c
+## 2) Ownership (simple)
+- **I will…**
+- **We will…**
+- **You will…** (careful tone)
+- **Could you…?** (polite request)
 
-### B) Fill in (will / going to)
-1) I ____ send the update tomorrow.  
-2) We are ____ meet next week.
+---
 
-**Answers (suggested):** 1) will  2) going to
+## Practice (A2)
+Complete:
+1) Next ___: I will send the draft.  
+2) We are going to ___ the meeting. (schedule / scheduled)  
+3) Could you ___ the timeline? (confirm / confirmed)
 
-### C) Write 6 “next step” lines
-Write 6 short lines using:
-will / tomorrow / next week / confirm / review / update
+Answers:
+1) steps  2) schedule  3) confirm

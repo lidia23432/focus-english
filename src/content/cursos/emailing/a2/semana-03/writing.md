@@ -1,72 +1,41 @@
-# Semana 03 (A2) — Writing: Updates with Past Simple + polite requests
+# Semana 03 (A2) — Writing: Past Simple updates
 
 ## Objetivo (ES)
-Escribir emails de actualización (A2) usando Past Simple y un request educado.
+Escribir un update corto (project-style) usando Past Simple + next steps.
 
 ---
 
-## Task A (Guided) — Update + request
-Write to Maria:
-- I sent the file today.
-- I checked the document.
-- ask to confirm receipt using **Could you…?**
-
-Suggested structure:
-Subject: Update
-Hello Maria,
-I sent the file today.
-I checked the document.
-Could you confirm receipt, please?
-Kind regards,
-Tom
-
-✅ 6–10 lines.
+## Task 1 — Verb practice (A2)
+Write the Past Simple:
+1) send → ___  
+2) get → ___  
+3) do → ___  
+4) make → ___  
+5) update → ___  
 
 ---
 
-## Task B (Semi-guided) — Reply + request with Would you
-Reply to Tom:
-- Thank you.
-- I received the file.
-- say a next step (tomorrow)
-- request: Would you send the invoice, please?
-
-✅ 6–10 lines.
+## Task 2 — Rewrite (make it Past Simple)
+Rewrite:
+1) I send the file today morning.  
+2) We check the details yesterday.  
+3) I get your email last week.
 
 ---
 
-## Production task (Final)
-Write ONE complete update email (A2) with:
-- 2 Past Simple sentences (sent/received/checked/replied)
-- 1 request sentence using **Could you** or **Would you**
-- 1 thanks line
-- closing
+## Task 3 — Write an update email (6–9 lines)
+Situation: You worked on a file and need to update the team/client.
+
+Include:
+- 2 bullets with Past Simple (I sent / I checked / I updated)
+- 1 next step (I will…)
+- 1 deadline (by Friday / by EOD)
+- Choose internal or external tone
 
 ---
 
-## Extra exercises (for 2h/week)
-
-### A) Transform the request (ladder)
-Rewrite this sentence 4 ways:
-“Send the file.”
-
-1) Please ___  
-2) Can you ___?  
-3) Could you ___?  
-4) Would you ___?
-
-### B) Error correction
-Correct:
-1) I send the file today.  
-2) Could you to confirm receipt?  
-3) Would you confirms the time?
-
-**Answers**
-1) I sent the file today.  
-2) Could you confirm receipt?  
-3) Would you confirm the time?
-
-### C) Mini checklist (A2)
+## Checklist (A2)
 - I use Past Simple correctly ✅
-- I use Could/Would correctly (no “to + verb”) ✅
-- I keep sentences short and clear ✅
+- I use short bullets ✅
+- I include a next step + deadline ✅
+- My tone matches internal/external ✅

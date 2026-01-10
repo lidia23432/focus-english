@@ -1,66 +1,38 @@
-# Semana 06 (A2) — Reading: Polite follow-ups
+# Semana 06 (A2) — Reading: Follow-ups (internal vs external)
 
-## Reading 1
-
-**Subject:** Follow-up on the invoice
-
-Hello Maria,  
-Just a quick follow-up on the invoice.  
-Could you send an update **by Friday**, please?  
-Thank you in advance.  
-
-Kind regards,  
-Tom
-
-### Comprehension (A2)
-1) Tom writes a…  
-a) follow-up  b) complaint  c) introduction  
-
-2) Tom asks for…  
-a) an update  b) a meeting room  c) a phone number  
-
-3) Tom asks for an update by…  
-a) Friday  b) Monday  c) end of month  
-
-4) The tone is…  
-a) polite/soft  b) angry  c) rude  
-
-**Answers:** 1) a  2) a  3) a  4) a
+## Objetivo (ES)
+Ver 2 ejemplos de follow-up con distinto tono.
 
 ---
 
-## Reading 2
+## Reading 1 — Internal (quick ping)
 
-**Subject:** Re: Follow-up on the invoice
+**Subject:** Quick ping — any update?
 
-Hi Tom,  
-Thank you for your message.  
-The invoice is pending.  
-I will send it **by end of day**.  
-Please confirm.  
+Hi team,  
+Any update on the new timeline?  
+If we can confirm by EOD, that would be great.
 
-Best regards,  
-Maria
+Thanks,  
+Lidia
 
-### Comprehension (A2)
-1) Maria says the invoice is…  
-a) pending  b) deleted  c) paid  
-
-2) Maria will send it…  
-a) by end of day  b) next week  c) never  
-
-3) Maria says…  
-a) Please confirm  b) Please pay  c) Please cancel  
-
-4) Maria uses…  
-a) will  b) going to only  c) past simple only  
-
-**Answers:** 1) a  2) a  3) a  4) a
+Questions:
+1) What timeframe is mentioned?  
+2) Is this internal or external?
 
 ---
 
-## Extra task (10 min)
-Underline:
-- follow-up phrase(s)
-- time frames (by Friday / by end of day)
-- request forms (Could you / Please)
+## Reading 2 — External (polite)
+
+**Subject:** Follow-up — updated invoice
+
+Hello Carlos,  
+Just following up on the updated invoice. Any update on your side?  
+Could you share an ETA by Friday?
+
+Thank you,  
+Lidia
+
+Questions:
+1) Find two follow-up phrases.  
+2) Which request form is used?

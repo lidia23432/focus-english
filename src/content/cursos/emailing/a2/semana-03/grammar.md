@@ -1,72 +1,66 @@
-# Semana 03 (A2) — Grammar: Past Simple for updates (I sent / I received)
+# Semana 03 (A2) — Grammar: Past Simple for updates (project emails)
 
 ## Objetivo (ES)
-Dar actualizaciones en emails usando **Past Simple** para acciones terminadas:
-- I sent…
-- I received…
-- I checked…
-y combinarlo con requests educados (Please/Can/Could/Would).
+Dar actualizaciones claras de proyecto usando **Past Simple** (acciones completadas) y frases cortas tipo email.
 
 ---
 
-## 1) Past Simple (A2) — uso en emails
-Usamos Past Simple para decir que una acción **ya pasó**.
-
-Examples:
+## 1) Past Simple (A2) — what you did
+Use Past Simple to report completed actions:
 - I **sent** the file.
 - I **received** your email.
-- I **checked** the document.
-- I **replied** yesterday. (opcional)
+- I **checked** the numbers.
+- We **updated** the timeline.
 
-✅ En A2, mantenemos frases cortas (1 idea por frase).
+### Regular verbs
+- check → checked
+- update → updated
+- confirm → confirmed
 
----
-
-## 2) Irregular verbs (muy importantes)
+### Irregular verbs (very common in emails)
 - send → **sent**
-- receive → **received** (regular)
-- check → **checked** (regular)
-- reply → **replied** (y → ied)
+- get → **got**
+- do → **did**
+- make → **made**
+- have → **had**
 
 ---
 
-## 3) Mini timeline (A2)
-- I sent it **today**.
-- I sent it **yesterday**. (A2 ok, pero usa poco)
-- I will send it **tomorrow**. (preview futuro; lo trabajaremos más en Semana 04)
+## 2) Time expressions (A2)
+- **yesterday**
+- **this morning**
+- **last week**
+- **on Monday**
+- **at 10:00**
+
+Examples:
+- I sent the draft **yesterday**.
+- We updated the plan **this morning**.
 
 ---
 
-## 4) Requests review (politeness ladder)
-- Please confirm.
-- Can you confirm…?
-- Could you confirm…?
-- Would you confirm…?
-
-✅ Tip:
-- **Could/Would** = más educado (ideal para emails neutrales).
+## 3) Email-style bullets (project-style)
+Short bullets are common:
+- I sent the updated file.
+- I checked the missing data.
+- Next step: I will share the final version by Friday.
 
 ---
 
-## 5) Mini practice (A2)
+## Mini practice (A2)
 
-### A) Choose the correct past form
-1) send → ______  
-2) receive → ______  
-3) reply → ______  
-4) check → ______  
+### A) Choose the correct form
+1) I (send) ___ the invoice yesterday.  
+2) We (check) ___ the numbers this morning.  
+3) I (get) ___ your message.
 
-**Answers:** 1) sent  2) received  3) replied  4) checked
+Answers: 1) sent  2) checked  3) got
 
-### B) Fill in (Past Simple)
-1) I ______ the document today. (check)  
-2) I ______ your email. (receive)  
-3) I ______ the file. (send)
+### B) Error correction
+Correct:
+1) I send the file yesterday.  
+2) I receiveded your email.
 
-**Answers:** 1) checked  2) received  3) sent
-
-### C) Politeness choice (pick the best)
-Situation: normal request to a colleague:
-- Please / Can you / Could you / Would you
-
-**Suggested answer:** Could you
+Answers:
+1) I sent the file yesterday.  
+2) I received your email.

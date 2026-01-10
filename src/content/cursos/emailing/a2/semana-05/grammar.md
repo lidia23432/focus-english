@@ -1,81 +1,46 @@
-# Semana 05 (A2) — Grammar: some/any + countable/uncountable (work emails)
+# Semana 05 (A2) — Grammar: Some/any + countable/uncountable (work emails)
 
 ## Objetivo (ES)
-Pedir información/documentos/updates con:
-- **some / any**
-- **countable / uncountable**
-y mantener requests educados (Please / Can / Could / Would).
+Pedir información/feedback de forma natural usando **some/any** y evitando errores típicos con incontables.
 
 ---
 
-## 1) Countable vs uncountable (A2)
+## 1) Some vs any (A2)
+### Some (usually in positive statements / offers)
+- I have **some** questions.
+- Could you share **some** feedback?
 
-### Countable (se pueden contar)
-- a file / two files
-- a document / three documents
-- a question / two questions
-
-✅ We use **a/an** and **numbers**.
-
-### Uncountable (no se cuentan en “unidades”)
-- information
-- help
-- feedback
-- advice (common in work English)
-- time
-
-✅ No usamos “a” normalmente:
-- ❌ an information
-- ✅ some information
+### Any (questions and negatives)
+- Do you have **any** updates?
+- I don’t have **any** information yet.
 
 ---
 
-## 2) SOME vs ANY (A2)
+## 2) Countable vs uncountable (A2-safe)
+Uncountable (no plural -s):
+- **information** (NOT informations)
+- **feedback** (NOT feedbacks)
+- **time** (in general)
+- **help**
 
-### SOME (affirmative + offers/requests in a polite way)
-- I need **some** information.
-- Could you send **some** details, please?
+Countable:
+- questions, details, files, documents
 
-### ANY (questions + negatives)
-- Do you have **any** questions?
-- I don’t have **any** updates.
-
-✅ In polite requests, both can appear, but A2-safe pattern:
-- “Could you send **some** information, please?”
-- “Do you have **any** questions?”
-
----
-
-## 3) Polite request forms (review)
-- Please send some details.
-- Can you send some details?
-- Could you send some details?
-- Would you send some details?
+Examples:
+- Could you send **some information**?
+- Do you have **any questions**?
 
 ---
 
-## 4) Mini practice (A2)
+## Mini practice (A2)
+Choose some/any:
+1) Do you have ___ updates?  
+2) Could you share ___ feedback?  
+3) I don’t have ___ information yet.
 
-### A) Choose some/any
-1) I need ____ information. (some/any)  
-2) Do you have ____ questions? (some/any)  
-3) I don’t have ____ updates. (some/any)
+Answers:
+1) any  2) some  3) any
 
-**Answers:** 1) some  2) any  3) any
-
-### B) Countable/uncountable check
-Write C (countable) or U (uncountable):
-1) information ___  
-2) file ___  
-3) feedback ___  
-4) question ___
-
-**Answers:** 1) U  2) C  3) U  4) C
-
-### C) Error correction
-1) Please send me an information.  
-2) Do you have some questions?
-
-**Possible answers**
-1) Please send me some information.  
-2) Do you have any questions?
+Error correction:
+1) I need informations.  
+Answer: I need information.

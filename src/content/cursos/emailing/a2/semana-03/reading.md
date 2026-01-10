@@ -1,62 +1,41 @@
-# Semana 03 (A2) — Reading: Past Simple updates
+# Semana 03 (A2) — Reading: Updates (internal vs external)
 
-## Reading 1
+## Objetivo (ES)
+Leer updates con Past Simple y ver estructura de bullets + next step.
 
-**Subject:** Update: file sent
+---
 
-Hello Maria,  
-I **sent** the file today.  
-I also **checked** the document.  
-Could you confirm receipt, please?  
+## Reading 1 — Internal update (short)
+
+**Subject:** Quick update — report
+
+Hi team,  
+Quick update:  
+- I **sent** the updated report this morning.  
+- I **checked** the numbers on page 2.  
+
+Next step: I will share the final version by Friday.
+
+Thanks,  
+Lidia
+
+Questions:
+1) Find 2 Past Simple verbs.  
+2) What is the next step?
+
+---
+
+## Reading 2 — External update (more polite)
+
+**Subject:** Update — Invoice review
+
+Hello Carlos,  
+Thank you for your email. I **received** the updated invoice yesterday and I **reviewed** it this morning.  
+Could you please confirm the VAT number on page 1?
 
 Kind regards,  
-Tom
+Lidia
 
-### Comprehension (A2)
-1) Tom sent…  
-a) the file  b) the invoice  c) the meeting link  
-
-2) Tom checked…  
-a) the document  b) the address  c) the phone number  
-
-3) Tom asks Maria to…  
-a) confirm receipt  b) cancel  c) pay  
-
-4) Tom uses…  
-a) Could you  b) Could you to  c) Please confirms  
-
-**Answers:** 1) a  2) a  3) a  4) a
-
----
-
-## Reading 2
-
-**Subject:** Re: Update: file sent
-
-Hi Tom,  
-Thank you. I **received** the file.  
-I will review it tomorrow.  
-Would you send the invoice, please?  
-
-Best regards,  
-Maria
-
-### Comprehension (A2)
-1) Maria received…  
-a) the file  b) the meeting  c) the password  
-
-2) Maria will review it…  
-a) today  b) tomorrow  c) next month  
-
-3) Maria requests…  
-a) the invoice  b) the link  c) the room  
-
-4) Maria uses…  
-a) Would you…?  b) Would you confirms…?  c) Could you to…?  
-
-**Answers:** 1) a  2) b  3) a  4) a
-
----
-
-## Extra task (10 min)
-Underline all Past Simple verbs (sent/checked/received) and all request phrases (Could/Would).
+Questions:
+1) Find 2 Past Simple verbs.  
+2) Which request form is used (Can/Could/Would)?

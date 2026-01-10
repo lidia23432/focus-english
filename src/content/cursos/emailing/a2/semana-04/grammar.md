@@ -1,70 +1,45 @@
-# Semana 04 (A2) — Grammar: Future for next steps (will / going to)
+# Semana 04 (A2) — Grammar: Future (will vs going to) for next steps
 
 ## Objetivo (ES)
-Escribir emails de “siguientes pasos” con futuro:
-- **will** (promesa/decisión)
-- **going to** (plan)
-
-Y mantener requests educados (Please/Can/Could/Would).
+Escribir “next steps” y planes de proyecto usando **will** y **going to** de forma simple.
 
 ---
 
-## 1) WILL (A2) — decisiones / promesas
-Usa **will** cuando decides o prometes hacer algo:
+## 1) Will (promise / decision / next step)
+Use **will** when you decide or promise:
+- I **will** send the final version by Friday.
+- We **will** confirm the timeline today.
 
-- I **will** send the file today.
-- I **will** call you tomorrow.
-- I **will** check and reply.
+## 2) Going to (plan)
+Use **going to** for a plan:
+- We are **going to** review the draft tomorrow.
+- I’m **going to** update the document next week.
 
-✅ Muy típico en emails:
-- “I will send it today.”
-
----
-
-## 2) GOING TO (A2) — planes
-Usa **going to** cuando ya es un plan:
-
-- We are **going to** meet on Thursday.
-- I am **going to** send the update tomorrow.
-
-✅ Tip A2: en emails, **will** es más común para “next steps”.
+✅ A2 tip: In work emails, **will** is very common for commitments.
 
 ---
 
-## 3) Time phrases (A2)
-- today / tomorrow
-- next week
-- on Tuesday / at 10:00 (repaso)
+## 3) Timeframes
+- **tomorrow**
+- **next week**
+- **by Friday**
+- **by EOD** (end of day)
+
+Examples:
+- I will send it **by Friday**.
+- We are going to meet **next week**.
 
 ---
 
-## 4) Requests review (useful with next steps)
-- Please confirm.
-- Can you confirm…?
-- Could you confirm…?
-- Would you confirm…?
-
----
-
-## 5) Mini practice (A2)
+## Mini practice (A2)
 
 ### A) Choose will / going to
-1) I ____ send the document today. (will / going to)  
-2) We are ____ meet next week. (will / going to)  
-3) I ____ check and reply tomorrow. (will / going to)
+1) I ___ send the file by EOD. (will / am going to)  
+2) We ___ review the draft tomorrow. (will / are going to)
 
-**Suggested answers:** 1) will  2) going to  3) will
+Suggested:
+1) will  2) are going to
 
-### B) Fix the sentence
-1) I will to send the file.  
-2) We are going meet tomorrow.
-
-**Answers**
-1) I will send the file.  
-2) We are going to meet tomorrow.
-
-### C) Make it more polite (upgrade)
-Rewrite using **Could you…?**
-- Can you confirm the time?
-
-**Answer:** Could you confirm the time?
+### B) Build a sentence
+Use: (I / will / share / the link / by Friday)  
+Answer: I will share the link by Friday.
