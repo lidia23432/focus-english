@@ -1,0 +1,14 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 1,
+  "title": "Presentarte por email + saludos y despedidas",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": {
+    "reading": 15,
+    "grammar": 15,
+    "writing": 25,
+    "review": 5
+  }
+}
+
