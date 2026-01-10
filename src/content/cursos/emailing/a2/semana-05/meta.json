@@ -1,0 +1,20 @@
+{
+  "title": "Semana 05 — Some/any + countable/uncountable (work emails)",
+  "goal": "emailing",
+  "level": "a2",
+  "week": 5,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "some/any in requests and questions",
+    "countable vs uncountable nouns (work context)",
+    "polite requests (Please / Can / Could / Would)",
+    "asking for information and updates"
+  ],
+  "outcomes": [
+    "I can use some/any correctly in simple emails.",
+    "I can use countable/uncountable nouns in a work context.",
+    "I can write polite requests asking for information, documents, or updates."
+  ],
+  "timePlanMinutes": { "warmUp": 10, "grammar": 25, "vocabulary": 20, "reading": 25, "writing": 30, "extraPractice": 10 }
+}
