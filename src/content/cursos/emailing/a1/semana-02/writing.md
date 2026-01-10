@@ -1,43 +1,95 @@
-# Emailing A1 — Semana 02 — Writing
-**Tema:** Pedir información (2–3 requests)  
-**Duración:** 15–25 min
+# Semana 02 — Writing (A1): Contact details & availability
 
-## Plantilla (A1)
-**Subject:** Information request
+## Objetivo (ES)
+Escribir emails cortos para compartir contacto y pedir disponibilidad con on/at.
 
-Hi [NAME],  
-My name is [YOUR NAME]. I work at [COMPANY].  
-Can you send [ITEM 1], please?  
-Can you send [ITEM 2], please?  
-Thank you.  
+---
+
+## 1) Template A (share contact details)
+
+**Subject:** Contact details
+
+Hello __,  
+My email is __.  
+My phone number is __.  
+My extension is __.  
+Please confirm.  
+
+Kind regards,  
+__
+
+---
+
+## 2) Task A (Guided)
+Complete Template A with:
+- Name: Ana
+- Recipient: Maria
+- Email: ana@focusenglish.com
+- Phone: +34 600 000 000
+- Extension: 204
+
+✅ 6–8 líneas máximo.
+
+---
+
+## 3) Template B (ask for contact + availability)
+
+**Subject:** Quick question
+
+Hi __,  
+What is your phone number?  
+What is your extension?  
+Are you available on __ at __?  
+Please confirm.  
+
 Best regards,  
-[YOUR NAME]
+__
 
-## Tu tarea
-Escribe un email a una persona nueva para pedir información:
+---
 
-- Destinatario: **Jordan**
-- Tu nombre: **Alex**
-- Empresa: **Working English Lab**
-- Pide 2 cosas:
-  1) **the price list**
-  2) **the schedule**
+## 4) Task B (Semi-guided)
+Write an email to **Tom**:
+- Ask phone number
+- Ask extension
+- Ask availability: Thursday at 11:00
 
-## Checklist ✅
-- Subject claro
-- Presentación (My name is… / I work at…)
-- 2 requests con “Can you… please?”
-- “Thank you.”
-- Cierre “Best regards,” + nombre
-- Frases cortas (A1)
+✅ 5–8 líneas.
 
-## Ejemplo (modelo)
-**Subject:** Information request
+---
 
-Hi Jordan,  
-My name is Alex. I work at Working English Lab.  
-Can you send the price list, please?  
-Can you send the schedule, please?  
-Thank you.  
-Best regards,  
-Alex
+## 5) Production task (Final)
+Write a new email to a colleague:
+- Share ONE contact detail (email or phone)
+- Ask ONE question (phone/extension/availability)
+- Use on/at correctly
+- Add subject + closing
+
+✅ 6–10 líneas.
+
+---
+
+## Extra exercises (for 2h/week)
+
+### A) Reorder (put in correct order)
+1) My phone number is +34 600 000 000.  
+2) Subject: Contact details  
+3) Kind regards,  
+4) Hello Maria,  
+5) Please confirm.
+
+**Answer order:** 2 → 4 → 1 → 5 → 3
+
+### B) Make it clearer (shorten)
+Rewrite into 2 short sentences:
+- “Hello Maria, my name is Ana and my phone number is +34 600 000 000 and my extension is 204.”
+
+Possible answer:
+- Hello Maria. My phone number is +34 600 000 000. My extension is 204.
+
+---
+
+## Checklist (A1)
+- I use 1 idea per sentence ✅
+- I use on/at correctly ✅
+- I ask politely ✅
+- I include a closing + my name ✅

@@ -1,39 +1,55 @@
-# Emailing A1 — Semana 02 — Grammar
-**Tema:** Requests with “Can you…?” + Please  
-**Duración:** 10–15 min
+# Semana 02 — Grammar (A1): Contact details & availability
 
-## Micro‑lección
-Para pedir algo en un email (A1), usa:
+## Objetivo (ES)
+Escribir emails cortos para:
+- compartir datos de contacto (email/teléfono/extensión)
+- decir disponibilidad básica (día + hora)
+- pedir confirmación de forma educada
 
-- **Can you + verb + … , please?**
-  - Can you **send** the file, please?
-  - Can you **confirm** the time, please?
+---
 
-Verbos útiles (A1):
-- send, confirm, share, help, check
+## 1) “My … is …” (A1)
 
-## Ejercicios
+- My email is ana@company.com.
+- My phone number is +34 600 000 000.
+- My extension is 123.
 
-### A) Completa con “Can you” + verbo (usa: send / confirm / share / check)
-1) ______ you ______ the price list, please?  
-2) ______ you ______ the time, please?  
-3) ______ you ______ the document, please?  
-4) ______ you ______ the schedule, please?
+✅ Tip A1: 1 frase = 1 dato.
 
-### B) Ordena las palabras
-5) please / send / you / can / the file  
-6) confirm / can / please / you / the date
+---
 
-### C) Elige la mejor opción (A o B)
-7) A) Send the file.  B) Can you send the file, please?  
-8) A) Give me the schedule.  B) Can you share the schedule, please?
+## 2) Availability: ON / AT (repaso A1)
 
-## Soluciones
-1) Can you send  
-2) Can you confirm  
-3) Can you share  
-4) Can you check  
-5) Can you send the file, please?  
-6) Can you confirm the date, please?  
-7) B  
-8) B
+- **ON + day/date**: on Monday, on Tuesday
+- **AT + time**: at 10:00, at 2:30 p.m.
+
+Examples:
+- I am available **on** Monday **at** 10:00.
+- I am not available **on** Tuesday.
+
+---
+
+## 3) Polite questions (A1)
+
+- What is your phone number?
+- What is your extension?
+- Are you available on Thursday at 11:00?
+- Please confirm.
+
+---
+
+## 4) Mini practice (A1)
+
+### A) Choose on / at
+1) I am available ___ Monday.  
+2) I am available ___ 10:00.  
+3) We have a call ___ Friday ___ 2:00 p.m.
+
+**Answers:** 1) on  2) at  3) on / at
+
+### B) Complete the sentence
+1) My email ___ ___.  
+2) My phone number ___ ___.  
+3) My extension ___ ___.
+
+**Possible answers:** is / is / is

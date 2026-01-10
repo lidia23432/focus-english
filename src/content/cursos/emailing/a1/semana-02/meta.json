@@ -1,13 +1,27 @@
 {
-  "course": "emailing",
+  "title": "Semana 02 — Contact details & availability (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 2,
-  "title": "Pedir información (requests) + cortesía básica",
-  "focus": ["reading", "grammar", "writing"],
-  "duration_minutes": {
-    "reading": 15,
-    "grammar": 15,
-    "writing": 25,
-    "review": 5
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "sharing contact details (email/phone/extension)",
+    "basic availability (days + times)",
+    "polite requests and confirmations",
+    "clear short sentences"
+  ],
+  "outcomes": [
+    "I can share my contact details in a short work email.",
+    "I can ask for someone’s contact details politely.",
+    "I can say when I am available using on/at."
+  ],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
+    "writing": 30,
+    "extraPractice": 10
   }
 }
