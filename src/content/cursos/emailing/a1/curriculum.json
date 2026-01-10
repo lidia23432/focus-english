@@ -1,58 +1,1177 @@
 {
-  "course": "emailing",
-  "level": "a1",
-  "duration_weeks": 36,
-  "duration_months": 9,
-  "tracks": ["writing", "reading", "grammar"],
-  "notes": {
-    "listening_speaking": "Planned for later (placeholders).",
-    "cycle_pattern": "3 build weeks + 1 consolidation week"
+  "course": {
+    "goal": "emailing",
+    "level": "a1",
+    "title": "Emailing A1 (Trabajo) — Guía de 36 semanas",
+    "language": "en",
+    "audience": "work",
+    "version": "1.0",
+    "notes": [
+      "Este archivo es el índice maestro: indica qué tema toca cada semana y qué debe contener.",
+      "Para continuar tras cambiar de chat, busca la primera semana con status 'pending' o usa tracking.currentWeek."
+    ]
+  },
+  "tracking": {
+    "currentWeek": 16,
+    "statusLegend": [
+      "pending",
+      "draft",
+      "done"
+    ],
+    "lastUpdated": "2026-01-10"
   },
   "weeks": [
-    { "week": 1, "title": "Presentarte por email + saludos y despedidas", "focus": ["reading", "grammar", "writing"] },
-    { "week": 2, "title": "Pedir información (requests) + cortesía básica", "focus": ["reading", "grammar", "writing"] },
-    { "week": 3, "title": "Fechas y horas (proponer disponibilidad)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 4, "title": "Consolidación 1 (email completo A1: presentación + petición + cierre)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 5, "title": "Roles y departamentos + datos básicos", "focus": ["reading", "grammar", "writing"] },
-    { "week": 6, "title": "Confirmar (Yes/No) + detalles simples", "focus": ["reading", "grammar", "writing"] },
-    { "week": 7, "title": "Adjuntos y archivos (Please find attached…)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 8, "title": "Consolidación 2 (adjunto + confirmación)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 9, "title": "Preguntas en email (Do/Does) — información simple", "focus": ["reading", "grammar", "writing"] },
-    { "week": 10, "title": "Can/Can’t — disponibilidad y capacidad", "focus": ["reading", "grammar", "writing"] },
-    { "week": 11, "title": "Follow‑up simple + because (razón corta)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 12, "title": "Consolidación 3 (follow‑up)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 13, "title": "Rutinas de trabajo (Present Simple I/you)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 14, "title": "Rutinas 3ª persona (he/she) en contexto laboral", "focus": ["reading", "grammar", "writing"] },
-    { "week": 15, "title": "Frecuencia (always/usually/sometimes) en updates", "focus": ["reading", "grammar", "writing"] },
-    { "week": 16, "title": "Consolidación 4 (update semanal)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 17, "title": "Ubicación y logística (there is/are)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 18, "title": "Peticiones más educadas (Could you…?)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 19, "title": "Secuenciación básica (first/then/after)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 20, "title": "Consolidación 5 (email con 3 pasos)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 21, "title": "Incidencias simples + pasado de to be (was/were)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 22, "title": "Disculpas (sorry) + frases cortas", "focus": ["reading", "grammar", "writing"] },
-    { "week": 23, "title": "Soluciones simples (Let’s…) + propuesta", "focus": ["reading", "grammar", "writing"] },
-    { "week": 24, "title": "Consolidación 6 (disculpa + solución + nueva hora)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 25, "title": "Confirmar detalles (fecha/hora/lugar) — repaso preguntas", "focus": ["reading", "grammar", "writing"] },
-    { "week": 26, "title": "Resumir con listas y bullets (puntuación)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 27, "title": "Next steps con futuro básico (will)", "focus": ["reading", "grammar", "writing"] },
-    { "week": 28, "title": "Consolidación 7 (confirmación + próximos pasos)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 29, "title": "Plantilla A1: email de introducción", "focus": ["reading", "grammar", "writing"] },
-    { "week": 30, "title": "Plantilla A1: pedir información", "focus": ["reading", "grammar", "writing"] },
-    { "week": 31, "title": "Plantilla A1: follow‑up", "focus": ["reading", "grammar", "writing"] },
-    { "week": 32, "title": "Consolidación 8 (elegir plantilla según caso)", "focus": ["reading", "grammar", "writing", "review"] },
-
-    { "week": 33, "title": "Caso 1: coordinar una reunión por email", "focus": ["reading", "grammar", "writing"] },
-    { "week": 34, "title": "Caso 2: enviar adjunto + confirmar recepción", "focus": ["reading", "grammar", "writing"] },
-    { "week": 35, "title": "Caso 3: disculpa + reagendar", "focus": ["reading", "grammar", "writing"] },
-    { "week": 36, "title": "Final A1 (portfolio: 3 emails + checklist)", "focus": ["reading", "grammar", "writing", "review"] }
+    {
+      "week": 1,
+      "id": "semana-01",
+      "title": "Saludos, presentarse y despedirse",
+      "emailGoal": "Presentarte en un email laboral y responder educadamente",
+      "grammarFocus": [
+        "to be (I am / You are)",
+        "pronombres personales"
+      ],
+      "vocabFocus": [
+        "job",
+        "team",
+        "company",
+        "help",
+        "contact"
+      ],
+      "readingFocus": [
+        "Email de presentación",
+        "Respuesta de bienvenida"
+      ],
+      "writingTasks": [
+        "Presentarte (5–6 frases)",
+        "Responder con saludo + 'Nice to meet you' + cierre"
+      ],
+      "templates": [
+        "Hello __,",
+        "My name is __.",
+        "I am a __.",
+        "Kind regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 2,
+      "id": "semana-02",
+      "title": "Datos de contacto y horario",
+      "emailGoal": "Dar y pedir teléfono/email y disponibilidad simple",
+      "grammarFocus": [
+        "numbers",
+        "My phone number is...",
+        "I am available..."
+      ],
+      "vocabFocus": [
+        "phone",
+        "extension",
+        "available",
+        "office hours",
+        "contact"
+      ],
+      "readingFocus": [
+        "Email con datos de contacto",
+        "Email pidiendo teléfono/extensión"
+      ],
+      "writingTasks": [
+        "Enviar datos de contacto",
+        "Pedir datos de contacto"
+      ],
+      "templates": [
+        "My phone number is __.",
+        "I am available on __ at __.",
+        "Please confirm.",
+        "Thank you,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 3,
+      "id": "semana-03",
+      "title": "Roles y departamentos",
+      "emailGoal": "Decir rol y departamento de forma simple",
+      "grammarFocus": [
+        "to be",
+        "a/an (artículos)"
+      ],
+      "vocabFocus": [
+        "sales",
+        "HR",
+        "finance",
+        "manager",
+        "assistant"
+      ],
+      "readingFocus": [
+        "Presentación con rol",
+        "Presentación con departamento"
+      ],
+      "writingTasks": [
+        "Email de presentación con rol",
+        "Respuesta confirmando rol/departamento"
+      ],
+      "templates": [
+        "I am a __.",
+        "I am in the __ department.",
+        "Nice to meet you.",
+        "Best regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 4,
+      "id": "semana-04",
+      "title": "Preguntas básicas (What/Where/Who)",
+      "emailGoal": "Pedir información simple: qué/dónde/quién",
+      "grammarFocus": [
+        "Wh- questions con to be"
+      ],
+      "vocabFocus": [
+        "address",
+        "office",
+        "meeting room",
+        "location",
+        "details"
+      ],
+      "readingFocus": [
+        "Email preguntando ubicación",
+        "Email preguntando responsable (who)"
+      ],
+      "writingTasks": [
+        "Pedir dirección / ubicación",
+        "Pedir sala o persona responsable"
+      ],
+      "templates": [
+        "Where is __?",
+        "Who is __?",
+        "What is __?",
+        "Please let me know."
+      ],
+      "status": "done"
+    },
+    {
+      "week": 5,
+      "id": "semana-05",
+      "title": "There is / There are (links y documentos)",
+      "emailGoal": "Indicar que hay un enlace o varios documentos",
+      "grammarFocus": [
+        "There is/There are",
+        "plurales -s"
+      ],
+      "vocabFocus": [
+        "file",
+        "link",
+        "document",
+        "folder",
+        "attachment"
+      ],
+      "readingFocus": [
+        "Email con 1 link",
+        "Email con 2 archivos"
+      ],
+      "writingTasks": [
+        "Enviar link + 1 instrucción",
+        "Enviar 2 archivos (describir)"
+      ],
+      "templates": [
+        "There is a link: __",
+        "There are two files.",
+        "Please check.",
+        "Thanks,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 6,
+      "id": "semana-06",
+      "title": "Fechas y horas (on/at)",
+      "emailGoal": "Proponer día y hora de forma básica",
+      "grammarFocus": [
+        "on + day/date",
+        "at + time"
+      ],
+      "vocabFocus": [
+        "Monday–Friday",
+        "at 10:00",
+        "morning",
+        "afternoon",
+        "meeting"
+      ],
+      "readingFocus": [
+        "Propuesta de reunión",
+        "Confirmación simple de fecha/hora"
+      ],
+      "writingTasks": [
+        "Proponer 1 reunión",
+        "Responder confirmando"
+      ],
+      "templates": [
+        "Can we meet on __ at __?",
+        "Is this time OK for you?",
+        "Please confirm.",
+        "Kind regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 7,
+      "id": "semana-07",
+      "title": "Pedir información (Please...)",
+      "emailGoal": "Pedir información simple en un email laboral",
+      "grammarFocus": [
+        "imperatives (Please + verb)",
+        "I need..."
+      ],
+      "vocabFocus": [
+        "information",
+        "details",
+        "price",
+        "product",
+        "service"
+      ],
+      "readingFocus": [
+        "Request de información",
+        "Respuesta con datos básicos"
+      ],
+      "writingTasks": [
+        "Pedir info (5–7 líneas)",
+        "Responder con 3 datos"
+      ],
+      "templates": [
+        "Please send __.",
+        "I need __.",
+        "Can you help me?",
+        "Thank you,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 8,
+      "id": "semana-08",
+      "title": "Adjuntos (attachments)",
+      "emailGoal": "Enviar un archivo adjunto y pedir confirmación",
+      "grammarFocus": [
+        "Please find attached...",
+        "I attach..."
+      ],
+      "vocabFocus": [
+        "attached",
+        "attachment",
+        "PDF",
+        "invoice",
+        "document"
+      ],
+      "readingFocus": [
+        "Email con adjunto",
+        "Email pidiendo adjunto"
+      ],
+      "writingTasks": [
+        "Enviar adjunto + 1 instrucción",
+        "Pedir el adjunto que falta"
+      ],
+      "templates": [
+        "Please find attached __.",
+        "I attach __.",
+        "Please confirm.",
+        "Best regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 9,
+      "id": "semana-09",
+      "title": "Confirmar recepción y agradecer",
+      "emailGoal": "Confirmar recepción de email/archivo y agradecer",
+      "grammarFocus": [
+        "frases fijas: I received... / I got..."
+      ],
+      "vocabFocus": [
+        "received",
+        "got",
+        "thanks",
+        "file",
+        "email"
+      ],
+      "readingFocus": [
+        "Confirmación de recepción",
+        "Agradecimiento + siguiente paso"
+      ],
+      "writingTasks": [
+        "Confirmar recepción (3–5 líneas)",
+        "Confirmar + pedir 1 dato"
+      ],
+      "templates": [
+        "Thanks, I received __.",
+        "I got your email.",
+        "Thank you for __.",
+        "Kind regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 10,
+      "id": "semana-10",
+      "title": "Rutinas laborales (Present Simple)",
+      "emailGoal": "Explicar horario/rutina laboral (muy simple)",
+      "grammarFocus": [
+        "Present Simple (I/We) afirmativo"
+      ],
+      "vocabFocus": [
+        "open",
+        "close",
+        "work",
+        "start",
+        "finish"
+      ],
+      "readingFocus": [
+        "Horario de atención",
+        "Rutina de equipo"
+      ],
+      "writingTasks": [
+        "Explicar horario (4–6 frases)",
+        "Preguntar por horario"
+      ],
+      "templates": [
+        "We open at __.",
+        "We close at __.",
+        "We work on __.",
+        "Please let me know."
+      ],
+      "status": "done"
+    },
+    {
+      "week": 11,
+      "id": "semana-11",
+      "title": "Preguntas con Do you...?",
+      "emailGoal": "Hacer preguntas básicas sobre necesidades/documentos",
+      "grammarFocus": [
+        "Do you have...?",
+        "Do you need...?"
+      ],
+      "vocabFocus": [
+        "need",
+        "have",
+        "document",
+        "meeting",
+        "information"
+      ],
+      "readingFocus": [
+        "Email con 3 preguntas",
+        "Respuesta yes/no + detalle"
+      ],
+      "writingTasks": [
+        "Email con 3–5 preguntas Do you...?",
+        "Responder con yes/no + 1 frase"
+      ],
+      "templates": [
+        "Do you have __?",
+        "Do you need __?",
+        "Yes, I do. / No, I don't.",
+        "Thanks,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 12,
+      "id": "semana-12",
+      "title": "Can (requests) + please",
+      "emailGoal": "Pedir 2 acciones de forma educada",
+      "grammarFocus": [
+        "Can you...?",
+        "Can we...?"
+      ],
+      "vocabFocus": [
+        "send",
+        "confirm",
+        "check",
+        "call",
+        "help"
+      ],
+      "readingFocus": [
+        "Request con Can you...?",
+        "Respuesta confirmando acción"
+      ],
+      "writingTasks": [
+        "Pedir 2 acciones",
+        "Responder confirmando 1 acción"
+      ],
+      "templates": [
+        "Can you send __, please?",
+        "Can we meet on __ at __?",
+        "Please confirm.",
+        "Best regards,"
+      ],
+      "status": "done"
+    },
+    {
+      "week": 13,
+      "id": "semana-13",
+      "title": "Disponibilidad (available / not available)",
+      "emailGoal": "Decir disponibilidad y proponer 1 opción",
+      "grammarFocus": [
+        "to be + available",
+        "negación (I'm not...)"
+      ],
+      "vocabFocus": [
+        "available",
+        "not available",
+        "busy",
+        "free",
+        "time"
+      ],
+      "readingFocus": [
+        "Disponibilidad + propuesta",
+        "No disponible + alternativa"
+      ],
+      "writingTasks": [
+        "Decir disponibilidad",
+        "No disponible + proponer 1 hora"
+      ],
+      "templates": [
+        "I am available on __ at __.",
+        "I'm not available on __.",
+        "How about __?",
+        "Please confirm."
+      ],
+      "status": "done"
+    },
+    {
+      "week": 14,
+      "id": "semana-14",
+      "title": "Confirmar una reunión",
+      "emailGoal": "Confirmar día/hora/lugar o llamada y pedir confirmación",
+      "grammarFocus": [
+        "on/at",
+        "Please confirm",
+        "Is this time OK for you?"
+      ],
+      "vocabFocus": [
+        "meeting",
+        "confirm",
+        "office",
+        "call",
+        "online"
+      ],
+      "readingFocus": [
+        "Confirmación de reunión en oficina",
+        "Confirmación de llamada"
+      ],
+      "writingTasks": [
+        "Confirmar reunión",
+        "Confirmar llamada"
+      ],
+      "templates": [
+        "This is to confirm our meeting on __ at __.",
+        "We meet at __.",
+        "Is this time OK for you?",
+        "Please confirm."
+      ],
+      "status": "done"
+    },
+    {
+      "week": 15,
+      "id": "semana-15",
+      "title": "Cambiar una reunión (reschedule)",
+      "emailGoal": "Disculparte, decir que no puedes y proponer nueva hora",
+      "grammarFocus": [
+        "Sorry...",
+        "I'm not available...",
+        "Can we meet...?"
+      ],
+      "vocabFocus": [
+        "change",
+        "available",
+        "new time",
+        "confirm",
+        "sorry"
+      ],
+      "readingFocus": [
+        "Cambio de reunión",
+        "Cambio de llamada"
+      ],
+      "writingTasks": [
+        "Reprogramar reunión",
+        "Reprogramar llamada"
+      ],
+      "templates": [
+        "Sorry, I'm not available on __ at __.",
+        "Can we meet on __ at __?",
+        "Is this time OK for you?",
+        "Please confirm."
+      ],
+      "status": "done"
+    },
+    {
+      "week": 16,
+      "id": "semana-16",
+      "title": "Proponer 2 opciones (or)",
+      "emailGoal": "Ofrecer dos opciones de día/hora",
+      "grammarFocus": [
+        "or",
+        "Is... OK?"
+      ],
+      "vocabFocus": [
+        "option",
+        "morning",
+        "afternoon",
+        "time",
+        "available"
+      ],
+      "readingFocus": [
+        "Email con dos opciones",
+        "Respuesta eligiendo una opción"
+      ],
+      "writingTasks": [
+        "Ofrecer 2 opciones",
+        "Responder eligiendo 1 opción"
+      ],
+      "templates": [
+        "Can we meet on __ at __ or on __ at __?",
+        "Which time is OK for you?",
+        "Please confirm.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 17,
+      "id": "semana-17",
+      "title": "Reunión online (link + instrucciones)",
+      "emailGoal": "Enviar enlace y dar 2 instrucciones simples",
+      "grammarFocus": [
+        "imperatives (Please join / Click...)",
+        "There is... (link)"
+      ],
+      "vocabFocus": [
+        "link",
+        "join",
+        "click",
+        "online",
+        "meeting"
+      ],
+      "readingFocus": [
+        "Email con enlace",
+        "Email con instrucciones de acceso"
+      ],
+      "writingTasks": [
+        "Enviar link + 2 instrucciones",
+        "Pedir el link que falta"
+      ],
+      "templates": [
+        "Here is the link: __",
+        "Please click the link.",
+        "Please join the meeting.",
+        "Thank you,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 18,
+      "id": "semana-18",
+      "title": "Recordatorio (reminder)",
+      "emailGoal": "Enviar recordatorio breve de reunión",
+      "grammarFocus": [
+        "This is a reminder...",
+        "on/at"
+      ],
+      "vocabFocus": [
+        "reminder",
+        "today",
+        "tomorrow",
+        "meeting",
+        "confirm"
+      ],
+      "readingFocus": [
+        "Reminder para hoy",
+        "Reminder para mañana + confirmación"
+      ],
+      "writingTasks": [
+        "Reminder corto",
+        "Reminder + pedir confirmación"
+      ],
+      "templates": [
+        "This is a reminder: meeting on __ at __.",
+        "See you on __.",
+        "Please confirm.",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 19,
+      "id": "semana-19",
+      "title": "Pedir ayuda (Can you help me?)",
+      "emailGoal": "Pedir ayuda y describir un problema en 1–2 frases",
+      "grammarFocus": [
+        "Can you help me?",
+        "I have a problem with..."
+      ],
+      "vocabFocus": [
+        "help",
+        "problem",
+        "issue",
+        "login",
+        "account"
+      ],
+      "readingFocus": [
+        "Solicitud de ayuda",
+        "Respuesta con siguiente paso"
+      ],
+      "writingTasks": [
+        "Pedir ayuda + 1 problema",
+        "Responder con 1 instrucción"
+      ],
+      "templates": [
+        "Can you help me, please?",
+        "I have a problem with __.",
+        "Please check.",
+        "Thank you,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 20,
+      "id": "semana-20",
+      "title": "Pedir aclaración (repeat / explain)",
+      "emailGoal": "Pedir que repitan o expliquen de forma educada",
+      "grammarFocus": [
+        "Please explain.",
+        "Can you repeat...?"
+      ],
+      "vocabFocus": [
+        "explain",
+        "repeat",
+        "clarify",
+        "question",
+        "details"
+      ],
+      "readingFocus": [
+        "Email pidiendo explicación",
+        "Respuesta aclarando 1 punto"
+      ],
+      "writingTasks": [
+        "Pedir aclaración",
+        "Aclarar 1 dato"
+      ],
+      "templates": [
+        "Please explain __.",
+        "Can you repeat __, please?",
+        "I don't understand __.",
+        "Thanks,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 21,
+      "id": "semana-21",
+      "title": "Pedir factura / pedido / documento",
+      "emailGoal": "Solicitar un documento típico de trabajo",
+      "grammarFocus": [
+        "Please send the..."
+      ],
+      "vocabFocus": [
+        "invoice",
+        "order",
+        "delivery",
+        "date",
+        "number"
+      ],
+      "readingFocus": [
+        "Solicitud de factura",
+        "Respuesta enviando documento"
+      ],
+      "writingTasks": [
+        "Pedir factura con fecha",
+        "Enviar factura (adjunto)"
+      ],
+      "templates": [
+        "Please send the invoice for __.",
+        "Order number is __.",
+        "Please find attached __.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 22,
+      "id": "semana-22",
+      "title": "Confirmar datos (nombre/dirección/número)",
+      "emailGoal": "Verificar información antes de avanzar",
+      "grammarFocus": [
+        "Please confirm...",
+        "What is...? / Is it...?"
+      ],
+      "vocabFocus": [
+        "name",
+        "address",
+        "phone",
+        "number",
+        "company"
+      ],
+      "readingFocus": [
+        "Checklist de datos",
+        "Respuesta confirmando datos"
+      ],
+      "writingTasks": [
+        "Pedir confirmar 3 datos",
+        "Confirmar 3 datos"
+      ],
+      "templates": [
+        "Please confirm your __.",
+        "Is your address __?",
+        "What is your phone number?",
+        "Thank you,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 23,
+      "id": "semana-23",
+      "title": "Follow-up básico (Any update?)",
+      "emailGoal": "Pedir actualización con tono educado",
+      "grammarFocus": [
+        "Any update?",
+        "Please let me know."
+      ],
+      "vocabFocus": [
+        "update",
+        "status",
+        "progress",
+        "confirm",
+        "thanks"
+      ],
+      "readingFocus": [
+        "Follow-up corto",
+        "Respuesta con estado"
+      ],
+      "writingTasks": [
+        "Follow-up 4–6 líneas",
+        "Responder con 1 update"
+      ],
+      "templates": [
+        "Any update on __?",
+        "Please let me know.",
+        "Thank you for your help.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 24,
+      "id": "semana-24",
+      "title": "Agradecer y cerrar (closings)",
+      "emailGoal": "Cerrar emails de forma amable y profesional",
+      "grammarFocus": [
+        "fórmulas fijas de cierre"
+      ],
+      "vocabFocus": [
+        "thanks",
+        "kind regards",
+        "best regards",
+        "have a nice day",
+        "help"
+      ],
+      "readingFocus": [
+        "Email con agradecimiento",
+        "Email con cierre formal"
+      ],
+      "writingTasks": [
+        "Mejorar 3 cierres",
+        "Escribir 2 versiones (formal/neutra)"
+      ],
+      "templates": [
+        "Thanks again.",
+        "Have a nice day.",
+        "Kind regards,",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 25,
+      "id": "semana-25",
+      "title": "Avisar de retraso (late / delay)",
+      "emailGoal": "Informar de retraso y dar nueva hora",
+      "grammarFocus": [
+        "Sorry, I am late.",
+        "I will be there at..."
+      ],
+      "vocabFocus": [
+        "late",
+        "delay",
+        "traffic",
+        "arrive",
+        "time"
+      ],
+      "readingFocus": [
+        "Aviso de retraso",
+        "Respuesta aceptando"
+      ],
+      "writingTasks": [
+        "Avisar de retraso",
+        "Responder OK + confirmar"
+      ],
+      "templates": [
+        "Sorry, I am late.",
+        "I will be there at __.",
+        "See you soon.",
+        "Thank you,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 26,
+      "id": "semana-26",
+      "title": "Corregir un error (wrong file/date)",
+      "emailGoal": "Disculparte y enviar lo correcto",
+      "grammarFocus": [
+        "Sorry, wrong...",
+        "Here is the correct..."
+      ],
+      "vocabFocus": [
+        "wrong",
+        "correct",
+        "file",
+        "date",
+        "attached"
+      ],
+      "readingFocus": [
+        "Disculpa por error",
+        "Reenvío correcto"
+      ],
+      "writingTasks": [
+        "Enviar archivo correcto",
+        "Corregir una fecha/hora"
+      ],
+      "templates": [
+        "Sorry, wrong file.",
+        "Here is the correct file.",
+        "Please find attached __.",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 27,
+      "id": "semana-27",
+      "title": "Problema con archivo/link",
+      "emailGoal": "Decir que no funciona y pedir alternativa",
+      "grammarFocus": [
+        "I can't open...",
+        "The link doesn't work."
+      ],
+      "vocabFocus": [
+        "open",
+        "work",
+        "broken",
+        "link",
+        "file"
+      ],
+      "readingFocus": [
+        "Problema con adjunto",
+        "Respuesta con alternativa"
+      ],
+      "writingTasks": [
+        "Reportar problema + pedir alternativa",
+        "Responder enviando alternativa"
+      ],
+      "templates": [
+        "I can't open the file.",
+        "The link doesn't work.",
+        "Can you resend it, please?",
+        "Thank you,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 28,
+      "id": "semana-28",
+      "title": "Pedir reenvío (resend)",
+      "emailGoal": "Pedir que reenvíen algo de forma corta",
+      "grammarFocus": [
+        "Can you resend...?",
+        "please"
+      ],
+      "vocabFocus": [
+        "resend",
+        "again",
+        "email",
+        "file",
+        "link"
+      ],
+      "readingFocus": [
+        "Solicitud de reenvío",
+        "Respuesta reenviando"
+      ],
+      "writingTasks": [
+        "Pedir reenvío (3–5 líneas)",
+        "Confirmar recepción"
+      ],
+      "templates": [
+        "Can you resend __, please?",
+        "I didn't receive __.",
+        "Thanks, I received it.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 29,
+      "id": "semana-29",
+      "title": "Cambio de última hora",
+      "emailGoal": "Informar de cambio simple y pedir confirmación",
+      "grammarFocus": [
+        "We need to change...",
+        "New time is..."
+      ],
+      "vocabFocus": [
+        "change",
+        "new",
+        "time",
+        "today",
+        "confirm"
+      ],
+      "readingFocus": [
+        "Cambio urgente",
+        "Respuesta confirmando"
+      ],
+      "writingTasks": [
+        "Informar cambio + nueva hora",
+        "Confirmar cambio"
+      ],
+      "templates": [
+        "We need to change the meeting.",
+        "New time: __.",
+        "Is this OK for you?",
+        "Please confirm."
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 30,
+      "id": "semana-30",
+      "title": "Confirmar solución (it works now)",
+      "emailGoal": "Confirmar que está resuelto y agradecer",
+      "grammarFocus": [
+        "It works now.",
+        "Thank you for your help."
+      ],
+      "vocabFocus": [
+        "works",
+        "fixed",
+        "now",
+        "help",
+        "thanks"
+      ],
+      "readingFocus": [
+        "Cierre de incidencia",
+        "Respuesta final"
+      ],
+      "writingTasks": [
+        "Confirmar solución + gracias",
+        "Cerrar hilo con despedida"
+      ],
+      "templates": [
+        "It works now.",
+        "Thank you for your help.",
+        "Have a nice day.",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 31,
+      "id": "semana-31",
+      "title": "Pack 1: Request + attachment + thanks",
+      "emailGoal": "Completar 3 emails encadenados",
+      "grammarFocus": [
+        "Please + verb",
+        "Please find attached",
+        "I received..."
+      ],
+      "vocabFocus": [
+        "request",
+        "attached",
+        "received",
+        "confirm",
+        "details"
+      ],
+      "readingFocus": [
+        "Hilo de 3 emails",
+        "Resumen de acciones"
+      ],
+      "writingTasks": [
+        "Escribir 3 emails",
+        "Revisión con checklist A1"
+      ],
+      "templates": [
+        "Please send __.",
+        "Please find attached __.",
+        "Thanks, I received __.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 32,
+      "id": "semana-32",
+      "title": "Pack 2: Meeting (propose + confirm + reminder)",
+      "emailGoal": "Hilo completo de reunión: proponer, confirmar, recordar",
+      "grammarFocus": [
+        "on/at",
+        "Please confirm",
+        "This is a reminder..."
+      ],
+      "vocabFocus": [
+        "meeting",
+        "confirm",
+        "reminder",
+        "time",
+        "available"
+      ],
+      "readingFocus": [
+        "Hilo de reunión",
+        "Respuesta eligiendo hora"
+      ],
+      "writingTasks": [
+        "Escribir 3 emails de reunión",
+        "Revisión de tono"
+      ],
+      "templates": [
+        "Can we meet on __ at __?",
+        "This is to confirm...",
+        "This is a reminder...",
+        "Please confirm."
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 33,
+      "id": "semana-33",
+      "title": "Pack 3: Problem + resend + confirm received",
+      "emailGoal": "Resolver una incidencia en 3 pasos",
+      "grammarFocus": [
+        "I can't...",
+        "Can you resend...?",
+        "I received..."
+      ],
+      "vocabFocus": [
+        "problem",
+        "resend",
+        "received",
+        "link",
+        "file"
+      ],
+      "readingFocus": [
+        "Hilo de incidencia",
+        "Respuesta con solución"
+      ],
+      "writingTasks": [
+        "Escribir 3 emails (problema→reenvío→recepción)",
+        "Checklist final"
+      ],
+      "templates": [
+        "I can't open __.",
+        "Can you resend it, please?",
+        "Thanks, I received it.",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 34,
+      "id": "semana-34",
+      "title": "Kit de plantillas finales A1",
+      "emailGoal": "Crear tu kit de subjects, openings, requests y closings",
+      "grammarFocus": [
+        "fórmulas fijas",
+        "imperatives",
+        "can"
+      ],
+      "vocabFocus": [
+        "subject",
+        "opening",
+        "closing",
+        "confirm",
+        "thanks"
+      ],
+      "readingFocus": [
+        "Plantillas modelo",
+        "Ejemplos formal/neutro"
+      ],
+      "writingTasks": [
+        "Crear kit (listas)",
+        "Completar huecos (fill-in)"
+      ],
+      "templates": [
+        "Subject: __",
+        "Hello __,",
+        "Please __.",
+        "Kind regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 35,
+      "id": "semana-35",
+      "title": "Simulación de semana laboral (5 emails)",
+      "emailGoal": "Escribir 5 emails típicos (lunes a viernes)",
+      "grammarFocus": [
+        "repaso A1 completo"
+      ],
+      "vocabFocus": [
+        "meeting",
+        "attachment",
+        "update",
+        "problem",
+        "confirm"
+      ],
+      "readingFocus": [
+        "5 casos",
+        "Respuestas modelo"
+      ],
+      "writingTasks": [
+        "Escribir 5 emails",
+        "Auto-corrección con checklist"
+      ],
+      "templates": [
+        "Hello __,",
+        "Please __.",
+        "Is this OK for you?",
+        "Best regards,"
+      ],
+      "status": "pending"
+    },
+    {
+      "week": 36,
+      "id": "semana-36",
+      "title": "Portfolio final (8 emails esenciales A1)",
+      "emailGoal": "Tener 8 emails esenciales A1 listos para usar",
+      "grammarFocus": [
+        "repaso + consistencia de plantillas"
+      ],
+      "vocabFocus": [
+        "present",
+        "request",
+        "confirm",
+        "reschedule",
+        "thanks"
+      ],
+      "readingFocus": [
+        "8 emails modelo",
+        "Checklist final"
+      ],
+      "writingTasks": [
+        "Escribir 8 emails finales",
+        "Revisión final"
+      ],
+      "templates": [
+        "This is to confirm...",
+        "Please find attached...",
+        "Sorry for the change.",
+        "Thank you for your help."
+      ],
+      "status": "pending"
+    }
   ]
 }
-
