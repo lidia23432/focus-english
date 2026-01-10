@@ -1,14 +1,27 @@
 {
-  "course": "emailing",
+  "title": "Semana 04 — Basic questions (What / Where / Who) (work emails)",
+  "goal": "emailing",
   "level": "a1",
   "week": 4,
-  "title": "Consolidación 1 (email completo A1: presentación + request + horarios)",
-  "focus": ["reading", "grammar", "writing", "review"],
-  "duration_minutes": {
-    "reading": 15,
-    "grammar": 15,
+  "estimatedTime": "120 min",
+  "lastUpdated": "2026-01-10",
+  "topics": [
+    "asking simple questions in work emails",
+    "What is...? / Where is...? / Who is...?",
+    "short polite requests",
+    "clear subject lines"
+  ],
+  "outcomes": [
+    "I can ask simple work questions using What/Where/Who.",
+    "I can write a short request email with 2–4 questions.",
+    "I can answer simple questions with short, clear sentences."
+  ],
+  "timePlanMinutes": {
+    "warmUp": 10,
+    "grammar": 20,
+    "vocabulary": 25,
+    "reading": 25,
     "writing": 30,
-    "review": 10
+    "extraPractice": 10
   }
 }
-

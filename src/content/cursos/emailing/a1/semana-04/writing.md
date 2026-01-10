@@ -1,46 +1,111 @@
-# Emailing A1 — Semana 04 — Writing (Consolidación 1)
-**Tema:** Email completo (presentación + request + horarios)  
-**Duración:** 20–30 min
+# Semana 04 — Writing (A1): Ask and answer basic questions
 
-## Plantilla (A1)
-**Subject:** Information and meeting time
+## Objetivo (ES)
+Escribir:
+1) un email con 2–4 preguntas (What/Where/Who)
+2) una respuesta con frases cortas y claras
 
-Hi [NAME],  
-My name is [YOUR NAME]. I work at [COMPANY].  
-Can you send [ITEM], please?  
-Can we meet on [DAY] at [TIME]?  
-Or on [DAY] at [TIME]?  
-Thank you.  
+---
+
+## 1) Template A (ask questions)
+
+**Subject:** Questions
+
+Hello __,  
+What is __?  
+Where is __?  
+Who is __?  
+Please let me know.  
+
+Kind regards,  
+__
+
+---
+
+## 2) Task A (Guided)
+Escribe a **Maria** y pregunta:
+- What is the meeting room?
+- Where is the office?
+- Who is the contact person?
+
+✅ 6–9 líneas.
+
+---
+
+## 3) Template B (answer)
+
+**Subject:** Re: Questions
+
+Hi __,  
+The meeting room is __.  
+The office is __.  
+The contact person is __.  
+Please confirm.  
+
 Best regards,  
-[YOUR NAME]
+__
 
-## Tu tarea
-Escribe un email completo:
+---
 
-- Destinatario: **Jordan**
-- Tu nombre: **Alex**
-- Empresa: **Working English Lab**
-- Pide: **the price list**
-- Opción 1: **Monday at 10:00**
-- Opción 2: **Tuesday at 14:00**
+## 4) Task B (Semi-guided)
+Responde a Ana con:
+- Room 2
+- on the 1st floor
+- Tom
 
-## Checklist ✅ (auto‑revisión)
-- Subject correcto
-- Presentación: My name is… / I work at…
-- 1 request con “Can you… please?”
-- 2 opciones de horario con “on” y “at”
-- “Thank you.”
-- Cierre: “Best regards,” + nombre
-- 6–9 líneas (A1), frases cortas
+✅ 6–9 líneas.
 
-## Ejemplo (modelo)
-**Subject:** Information and meeting time
+---
 
-Hi Jordan,  
-My name is Alex. I work at Working English Lab.  
-Can you send the price list, please?  
-Can we meet on Monday at 10:00?  
-Or on Tuesday at 14:00?  
-Thank you.  
-Best regards,  
-Alex
+## 5) Production task (Final)
+Write a short work email (A1) asking **4 questions**:
+- 2 questions with **What**
+- 1 question with **Where**
+- 1 question with **Who**
+Rules:
+- 1 question per line
+- polite closing
+
+✅ 8–12 líneas.
+
+---
+
+## Extra exercises (for 2h/week)
+
+### A) Reorder (put in correct order)
+1) Kind regards,  
+2) Subject: Questions  
+3) Who is the contact person?  
+4) Hello Maria,  
+5) Please let me know.
+
+**Answer order:** 2 → 4 → 3 → 5 → 1
+
+### B) Make it shorter (A1)
+Rewrite into short lines:
+- “Hello Maria, can you tell me what the meeting room is and where the office is and who the contact person is?”
+
+Possible answer:
+- Hello Maria,
+- What is the meeting room?
+- Where is the office?
+- Who is the contact person?
+- Please let me know.
+
+### C) Error correction (write the correct questions)
+1) Where the office is?  
+2) Who is my manager is?  
+3) What your phone number is?
+
+Possible answers:
+1) Where is the office?  
+2) Who is my manager?  
+3) What is your phone number?
+
+---
+
+## Checklist (A1)
+- I use What/Where/Who correctly ✅
+- I write one question per line ✅
+- I answer with short sentences ✅
+- I include subject + closing ✅
