@@ -1,0 +1,9 @@
+{
+  "course": "emailing",
+  "level": "a1",
+  "week": 10,
+  "title": "Can / can't — disponibilidad y capacidad",
+  "focus": ["reading", "grammar", "writing"],
+  "duration_minutes": { "reading": 20, "grammar": 20, "writing": 30, "review": 5 }
+}
+
