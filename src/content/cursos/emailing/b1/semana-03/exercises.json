@@ -1,0 +1,2706 @@
+{
+  "goal": "emailing",
+  "level": "b1",
+  "weekId": "semana-03",
+  "title": "Emailing B1 – Semana 03 (Scheduling + rescheduling polite + confirmations) | Core + Ampliación",
+  "items": [
+    {
+      "id": "b1-s03-core-mcq-01",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best subject line for proposing meeting times.",
+      "options": [
+        "Meeting",
+        "Scheduling a quick call this week",
+        "READ NOW!!!"
+      ],
+      "answerIndex": 1,
+      "explanation": "Subject claro: acción (scheduling) + contexto (this week). Evita urgencia exagerada."
+    },
+    {
+      "id": "b1-s03-core-mcq-02",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📘 GRAMMAR (B1): Which sentence is the best way to propose a time politely?",
+      "options": [
+        "Tuesday 11:00.",
+        "Would Tuesday at 11:00 work for you?",
+        "You must meet Tuesday."
+      ],
+      "answerIndex": 1,
+      "explanation": "“Would … work for you?” es educado, claro y profesional."
+    },
+    {
+      "id": "b1-s03-core-mcq-03",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "🧠 VOCAB (B1): Which phrase is best to offer alternatives?",
+      "options": [
+        "I’m also available Wednesday at 15:00 or Thursday at 10:30.",
+        "I’m busy forever.",
+        "Pick any time."
+      ],
+      "answerIndex": 0,
+      "explanation": "Dar 2–3 opciones concretas reduce idas y vueltas."
+    },
+    {
+      "id": "b1-s03-core-mcq-04",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📘 GRAMMAR (B1): Which is the most neutral way to reschedule?",
+      "options": [
+        "We must reschedule.",
+        "Would it be possible to reschedule our call?",
+        "Change it now."
+      ],
+      "answerIndex": 1,
+      "explanation": "“Would it be possible…?” suaviza y mantiene tono profesional."
+    },
+    {
+      "id": "b1-s03-core-mcq-05",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Which apology line is short and professional?",
+      "options": [
+        "Sorry for the change—something came up.",
+        "This is your fault.",
+        "Why is this hard?"
+      ],
+      "answerIndex": 0,
+      "explanation": "Disculpa breve + motivo general = tono neutro."
+    },
+    {
+      "id": "b1-s03-core-mcq-06",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "✍️ WRITING (B1): Which closing line best asks the reader to choose?",
+      "options": [
+        "Choose now.",
+        "Please let me know which option works best.",
+        "I don’t care."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pide acción de forma educada y clara."
+    },
+    {
+      "id": "b1-s03-core-mcq-07",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Which line best adds a clear next step after agreeing on a time?",
+      "options": [
+        "Great — I’ll send a calendar invite shortly.",
+        "Ok.",
+        "No worries, bye."
+      ],
+      "answerIndex": 0,
+      "explanation": "Un next step claro (invite) cierra el hilo y evita más mensajes."
+    },
+    {
+      "id": "b1-s03-core-mcq-08",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📘 GRAMMAR (B1): Which sentence correctly proposes moving the meeting?",
+      "options": [
+        "Could we move it to Thursday at 10:00?",
+        "Could we moved it Thursday?",
+        "Move it Thursday you."
+      ],
+      "answerIndex": 0,
+      "explanation": "Estructura correcta: Could we move it to + day/time?"
+    },
+    {
+      "id": "b1-s03-core-mcq-09",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Which email style is easiest to scan?",
+      "options": [
+        "One long paragraph with all info mixed.",
+        "Short lines with 2–3 options clearly listed.",
+        "No greeting and no closing."
+      ],
+      "answerIndex": 1,
+      "explanation": "Escaneabilidad: líneas cortas + opciones claras."
+    },
+    {
+      "id": "b1-s03-core-mcq-10",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "✍️ WRITING (B1): What is the best next step after a time is agreed?",
+      "options": [
+        "Great — I’ll send a calendar invite.",
+        "Ok.",
+        "Why so slow?"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cierra el hilo con acción concreta (invite)."
+    },
+    {
+      "id": "b1-s03-core-mcq-11",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): What is missing to make this scheduling email more actionable?\n\nHi Maria,\nWould Tuesday at 11:00 work for you?\nLet me know.\nBest,\nAna",
+      "options": [
+        "2–3 alternative times (plan B)",
+        "A stronger complaint",
+        "More emojis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un plan B reduce el ping‑pong y acelera el acuerdo."
+    },
+    {
+      "id": "b1-s03-core-mcq-12",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📘 GRAMMAR (B1): Which option is polite and specific?",
+      "options": [
+        "When are you available this week?",
+        "Meet me.",
+        "Anytime."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pregunta clara y educada: reduce incertidumbre."
+    },
+    {
+      "id": "b1-s03-core-fill-01",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Email (sin subject). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThanks for your update on ____ ____ ____.\nCould you confirm ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Tuesday",
+        "11:00",
+        "Wednesday",
+        "15:00",
+        "Thursday",
+        "10:30",
+        "know"
+      ],
+      "choices": [
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "11:00",
+          "on 11:00",
+          "in 11:00"
+        ],
+        [
+          "Wednesday",
+          "at Wednesday",
+          "in Wednesday"
+        ],
+        [
+          "15:00",
+          "on 15:00",
+          "at 15:00"
+        ],
+        [
+          "Thursday",
+          "at Thursday",
+          "in Thursday"
+        ],
+        [
+          "10:30",
+          "in 10:30",
+          "at 10:30"
+        ],
+        [
+          "know",
+          "knowing",
+          "to know"
+        ]
+      ],
+      "explanation": "Entrena propuesta (day+time) + alternativas + preposiciones. Firma no es hueco."
+    },
+    {
+      "id": "b1-s03-core-fill-02",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Reschedule neutro (sin subject). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCould you please send the ____ ____ ____.\nWe need it to finalize ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "change",
+        "reschedule",
+        "so",
+        "Thursday",
+        "10:00",
+        "you",
+        "works"
+      ],
+      "choices": [
+        [
+          "change",
+          "changed",
+          "changes"
+        ],
+        [
+          "reschedule",
+          "rescheduling",
+          "rescheduled"
+        ],
+        [
+          "so",
+          "because",
+          "although"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "you",
+          "your",
+          "yours"
+        ],
+        [
+          "works",
+          "work",
+          "worked"
+        ]
+      ],
+      "explanation": "Disculpa breve + petición educada + propuesta concreta (día+hora)."
+    },
+    {
+      "id": "b1-s03-core-fill-03",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Pedir disponibilidad + next step. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nJust following up on the ____ ____ ____.\nHave you had a chance to ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "availability",
+        "times",
+        "invite",
+        "also",
+        "please",
+        "me",
+        "today"
+      ],
+      "choices": [
+        [
+          "available",
+          "availability",
+          "availably"
+        ],
+        [
+          "timing",
+          "times",
+          "time"
+        ],
+        [
+          "invitation",
+          "invite",
+          "inviting"
+        ],
+        [
+          "also",
+          "either",
+          "although"
+        ],
+        [
+          "please",
+          "must",
+          "now"
+        ],
+        [
+          "me",
+          "my",
+          "mine"
+        ],
+        [
+          "today",
+          "in today",
+          "at today"
+        ]
+      ],
+      "explanation": "Entrena availability (noun) + pedir opciones + next step (invite)."
+    },
+    {
+      "id": "b1-s03-core-fill-04",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Confirmación + meeting link. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThanks for sharing the ____ ____ ____.\nCould you clarify ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Tuesday",
+        "11:00",
+        "link",
+        "time",
+        "once",
+        "we",
+        "agree"
+      ],
+      "choices": [
+        [
+          "Tuesday",
+          "on Tuesday",
+          "in Tuesday"
+        ],
+        [
+          "11:00",
+          "in 11:00",
+          "on 11:00"
+        ],
+        [
+          "links",
+          "link",
+          "linked"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "once",
+          "since",
+          "although"
+        ],
+        [
+          "we",
+          "us",
+          "our"
+        ],
+        [
+          "agree",
+          "agreed",
+          "agreeing"
+        ]
+      ],
+      "explanation": "Entrena confirmación + vocab real (meeting link) + pedir confirmación final."
+    },
+    {
+      "id": "b1-s03-core-fill-05",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Conflicto de calendario + alternativa. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nPlease find attached the ____ ____ ____.\nIf needed, I can update ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "conflict",
+        "move",
+        "Thursday",
+        "10:00",
+        "availability",
+        "another",
+        "option"
+      ],
+      "choices": [
+        [
+          "conflict",
+          "issue",
+          "problem"
+        ],
+        [
+          "moved",
+          "move",
+          "moving"
+        ],
+        [
+          "Thursday",
+          "at Thursday",
+          "in Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "availability",
+          "available",
+          "availably"
+        ],
+        [
+          "another",
+          "other",
+          "others"
+        ],
+        [
+          "option",
+          "optional",
+          "optionally"
+        ]
+      ],
+      "explanation": "Collocation (calendar conflict) + move it to + pedir availability."
+    },
+    {
+      "id": "b1-s03-core-fill-06",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Propuesta + plan B + cierre educado. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nGreat speaking with you about ____ ____ ____.\nAs agreed, I will ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Thursday",
+        "10:00",
+        "Friday",
+        "09:30",
+        "best",
+        "for",
+        "you"
+      ],
+      "choices": [
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "on 10:00",
+          "at 10:00"
+        ],
+        [
+          "Friday",
+          "at Friday",
+          "in Friday"
+        ],
+        [
+          "09:30",
+          "at 09:30",
+          "in 09:30"
+        ],
+        [
+          "better",
+          "best",
+          "good"
+        ],
+        [
+          "for",
+          "to",
+          "at"
+        ],
+        [
+          "you",
+          "your",
+          "yours"
+        ]
+      ],
+      "explanation": "Entrena alternativas claras + works best + tono formal."
+    },
+    {
+      "id": "b1-s03-core-fill-07",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Motivo general + reprogramar + 2 alternativas. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nI’m writing to request access to ____ ____ ____.\nI need it to complete ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "up",
+        "reschedule",
+        "Wednesday",
+        "15:00",
+        "Thursday",
+        "10:30",
+        "instead"
+      ],
+      "choices": [
+        [
+          "up",
+          "out",
+          "off"
+        ],
+        [
+          "rescheduling",
+          "reschedule",
+          "rescheduled"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "15:00",
+          "at 15:00",
+          "on 15:00"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:30",
+          "at 10:30",
+          "in 10:30"
+        ],
+        [
+          "instead",
+          "already",
+          "as well"
+        ]
+      ],
+      "explanation": "Entrena 'came up' + reschedule + preposiciones de tiempo."
+    },
+    {
+      "id": "b1-s03-core-fill-08",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Confirmación antes del invite. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCould you confirm whether ____ ____ ____.\nIf not, could you update ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Thursday",
+        "10:00",
+        "invite",
+        "know",
+        "before",
+        "we",
+        "meet"
+      ],
+      "choices": [
+        [
+          "Thursday",
+          "at Thursday",
+          "in Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "inviting",
+          "invite",
+          "invitation"
+        ],
+        [
+          "know",
+          "knowing",
+          "to know"
+        ],
+        [
+          "before",
+          "after",
+          "during"
+        ],
+        [
+          "we",
+          "us",
+          "our"
+        ],
+        [
+          "meet",
+          "met",
+          "meeting"
+        ]
+      ],
+      "explanation": "Confirmación breve + next step + frase útil: let me know."
+    },
+    {
+      "id": "b1-s03-core-fill-09",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Time zone sin diccionario (contexto real). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCould you check the ____ ____ ____.\nOnce fixed, we will ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "zone",
+        "CET",
+        "for",
+        "work",
+        "still",
+        "sound",
+        "okay"
+      ],
+      "choices": [
+        [
+          "zone",
+          "hour",
+          "area"
+        ],
+        [
+          "GMT",
+          "CET",
+          "EST"
+        ],
+        [
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "works",
+          "work",
+          "worked"
+        ],
+        [
+          "still",
+          "yet",
+          "already"
+        ],
+        [
+          "sound",
+          "sounds",
+          "sounded"
+        ],
+        [
+          "okay",
+          "okey",
+          "ok"
+        ]
+      ],
+      "explanation": "Entrena time zone + 'for you' + 'Does that work?' en contexto."
+    },
+    {
+      "id": "b1-s03-core-fill-10",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Rechazo neutral + alternativa + pedir opciones. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThanks for your interest in ____ ____ ____.\nI recommend ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Tuesday",
+        "11:00",
+        "Thursday",
+        "10:00",
+        "good",
+        "to",
+        "meet"
+      ],
+      "choices": [
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "11:00",
+          "at 11:00",
+          "on 11:00"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "good",
+          "well",
+          "fine"
+        ],
+        [
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "meet",
+          "meeting",
+          "met"
+        ]
+      ],
+      "explanation": "Entrena rechazo neutral + move it to + pedir alternativas sin presión."
+    },
+    {
+      "id": "b1-s03-core-fill-11",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Confirmar y cerrar con acción (invite + link). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThere seems to be an issue with ____ ____ ____.\nCould you check ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Thursday",
+        "10:00",
+        "link",
+        "invite",
+        "today",
+        "in",
+        "this"
+      ],
+      "choices": [
+        [
+          "Thursday",
+          "at Thursday",
+          "in Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "link",
+          "links",
+          "linked"
+        ],
+        [
+          "invite",
+          "invitation",
+          "inviting"
+        ],
+        [
+          "today",
+          "in today",
+          "at today"
+        ],
+        [
+          "in",
+          "on",
+          "at"
+        ],
+        [
+          "this",
+          "these",
+          "those"
+        ]
+      ],
+      "explanation": "Entrena confirmación final + vocab real + confirm receipt."
+    },
+    {
+      "id": "b1-s03-core-fill-12",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "📩 WRITING (B1): Email corto pero accionable. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nPlease let me know if you have questions about ____ ____ ____.\nI can call you on ____ ____ ____.\n\nKind regards,\nAna",
+      "answers": [
+        "Wednesday",
+        "15:00",
+        "Thursday",
+        "10:30",
+        "availability",
+        "this",
+        "week"
+      ],
+      "choices": [
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "15:00",
+          "at 15:00",
+          "on 15:00"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:30",
+          "at 10:30",
+          "in 10:30"
+        ],
+        [
+          "availability",
+          "available",
+          "availably"
+        ],
+        [
+          "this",
+          "these",
+          "those"
+        ],
+        [
+          "week",
+          "weeks",
+          "weekday"
+        ]
+      ],
+      "explanation": "Entrena plan A/plan B + pedir availability (contenido útil)."
+    },
+    {
+      "id": "b1-s03-core-reorder-01",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena las líneas para proponer 3 opciones (claro y escaneable).",
+      "items": [
+        "Best regards,",
+        "If not, I’m also available Wednesday at 15:00 or Thursday at 10:30.",
+        "Hi Maria,",
+        "Would Tuesday at 11:00 work for you?",
+        "Please let me know which option works best.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        1,
+        4,
+        0,
+        5
+      ],
+      "explanation": "Orden: saludo → propuesta principal → alternativas → pedir elección → cierre → firma."
+    },
+    {
+      "id": "b1-s03-core-reorder-02",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email corto pidiendo disponibilidad.",
+      "items": [
+        "Thanks!",
+        "Hi Tom,",
+        "Could you let me know your availability this week?",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        2,
+        0,
+        3,
+        4
+      ],
+      "explanation": "Email corto: saludo → pregunta clara → thanks → sign-off → nombre."
+    },
+    {
+      "id": "b1-s03-core-reorder-03",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un reschedule con disculpa breve + nueva propuesta.",
+      "items": [
+        "Kind regards,",
+        "Would it be possible to reschedule our call?",
+        "Hi Maria,",
+        "Sorry for the change—something came up.",
+        "Could we move it to Thursday at 10:00?",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        1,
+        4,
+        0,
+        5
+      ],
+      "explanation": "Reschedule neutro: disculpa breve → petición → nueva opción → cierre."
+    },
+    {
+      "id": "b1-s03-core-reorder-04",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email confirmando y cerrando con next step.",
+      "items": [
+        "Best regards,",
+        "Great — I’ll send a calendar invite.",
+        "Hi Maria,",
+        "Tuesday at 11:00 works for me too.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        1,
+        0,
+        4
+      ],
+      "explanation": "Confirmación → next step (invite) → cierre."
+    },
+    {
+      "id": "b1-s03-core-reorder-05",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con meeting link como siguiente paso.",
+      "items": [
+        "Hi Maria,",
+        "Once confirmed, I’ll share the meeting link.",
+        "Would Tuesday at 11:00 work for you?",
+        "Thanks in advance.",
+        "Kind regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        2,
+        3,
+        1,
+        4,
+        5
+      ],
+      "explanation": "Propuesta → thanks → next step → cierre."
+    },
+    {
+      "id": "b1-s03-core-reorder-06",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con calendar conflict (neutral).",
+      "items": [
+        "Hi Tom,",
+        "I have a calendar conflict at that time.",
+        "Could we move it to Thursday at 10:00?",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Explica conflicto → propone alternativa → cierra."
+    },
+    {
+      "id": "b1-s03-core-reorder-07",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email para pedir confirmación de hora.",
+      "items": [
+        "Hi Maria,",
+        "Could you confirm the time for our call?",
+        "Thanks in advance.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Ask claro + thanks + cierre."
+    },
+    {
+      "id": "b1-s03-core-reorder-08",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email breve proponiendo una llamada corta (no trivial).",
+      "items": [
+        "Hi Maria,",
+        "Would you be available for a 15-minute call on Thursday?",
+        "If not, please share two times that work for you.",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Propuesta + plan B + cierre. Evita ejercicios adivinables."
+    },
+    {
+      "id": "b1-s03-core-reorder-09",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con 2 opciones y cierre claro.",
+      "items": [
+        "Hi Tom,",
+        "Would Wednesday at 15:00 work for you?",
+        "If not, Thursday at 10:30 works for me.",
+        "Please let me know which option you prefer.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Dos opciones + pedir preferencia = hilo corto."
+    },
+    {
+      "id": "b1-s03-core-reorder-10",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un reschedule ultra corto (cuando el contexto ya está en el hilo).",
+      "items": [
+        "Hi Maria,",
+        "Would it be possible to reschedule?",
+        "Could we move it to Thursday at 10:00?",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Corto pero completo: reschedule + nueva opción + cierre."
+    },
+    {
+      "id": "b1-s03-core-reorder-11",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email para proponer horarios y pedir disponibilidad si no encaja.",
+      "items": [
+        "Hi Maria,",
+        "Would Tuesday at 11:00 work for you?",
+        "If not, when are you available this week?",
+        "Thanks in advance.",
+        "Kind regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Primero propones; si no, pides disponibilidad."
+    },
+    {
+      "id": "b1-s03-core-reorder-12",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un cierre con next step (invite).",
+      "items": [
+        "Hi Maria,",
+        "Great — Tuesday at 11:00 works.",
+        "I’ll send a calendar invite shortly.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Confirmación → invite → cierre."
+    },
+    {
+      "id": "b1-s03-core-err-01",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Corrige el tono (evita imperativos al proponer horarios).",
+      "pairs": [
+        {
+          "wrong": "Meet me Tuesday 11:00.",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Convierte orden en pregunta educada."
+        },
+        {
+          "wrong": "You must meet on Tuesday.",
+          "correct": "Would Tuesday work for you?",
+          "explanation": "Evita 'must' en emails."
+        },
+        {
+          "wrong": "Choose Thursday.",
+          "correct": "Please let me know which option works best.",
+          "explanation": "Pide elección de forma educada."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-02",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Corrige la estructura 'Could we move it to…'.",
+      "pairs": [
+        {
+          "wrong": "Could we moved it Thursday at 10?",
+          "correct": "Could we move it to Thursday at 10:00?",
+          "explanation": "Verbo base: move. Usa 'to'."
+        },
+        {
+          "wrong": "Could we move it Thursday 10:00?",
+          "correct": "Could we move it to Thursday at 10:00?",
+          "explanation": "Forma completa: to + day + at + time."
+        },
+        {
+          "wrong": "Move it to Thursday at 10:00 you.",
+          "correct": "Could we move it to Thursday at 10:00?",
+          "explanation": "Orden correcto con modal."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-03",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "🧠 VOCAB (B1): Corrige collocations (calendar invite / meeting link).",
+      "pairs": [
+        {
+          "wrong": "send a calendar invitation link",
+          "correct": "send a calendar invite",
+          "explanation": "Fórmula típica: calendar invite."
+        },
+        {
+          "wrong": "share the meeting URL link",
+          "correct": "share the meeting link",
+          "explanation": "meeting link es suficiente."
+        },
+        {
+          "wrong": "a conflict of calendar",
+          "correct": "a calendar conflict",
+          "explanation": "Collocation natural: calendar conflict."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-04",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Convierte frases poco profesionales en neutrales.",
+      "pairs": [
+        {
+          "wrong": "Why can’t you meet?",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Evita sonar acusatorio; ofrece opción."
+        },
+        {
+          "wrong": "This is annoying.",
+          "correct": "Sorry for the change—something came up.",
+          "explanation": "Disculpa breve y profesional."
+        },
+        {
+          "wrong": "Pick a time now.",
+          "correct": "Please let me know which option works best.",
+          "explanation": "Petición educada."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-05",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Mejora escaneabilidad (líneas cortas).",
+      "pairs": [
+        {
+          "wrong": "Hi Maria, would Tuesday at 11:00 work for you if not I’m available Wed 15:00 Thu 10:30 please reply",
+          "correct": "Hi Maria,\n\nWould Tuesday at 11:00 work for you?\nIf not, I’m also available Wednesday at 15:00 or Thursday at 10:30.\n\nPlease let me know which option works best.\n\nBest regards,\nAna",
+          "explanation": "Divide en bloques para scanning."
+        },
+        {
+          "wrong": "Reschedule. Thursday 10. Bye.",
+          "correct": "Hi Maria,\n\nWould it be possible to reschedule our call?\nCould we move it to Thursday at 10:00?\n\nThanks!\nBest,\nAna",
+          "explanation": "Añade saludo + pregunta educada + cierre."
+        },
+        {
+          "wrong": "MEET TUE 11",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Tono y formato profesional."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-06",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Corrige 'Would it be possible to reschedule…'.",
+      "pairs": [
+        {
+          "wrong": "Would it be possible reschedule our call?",
+          "correct": "Would it be possible to reschedule our call?",
+          "explanation": "Necesita 'to' + verbo base."
+        },
+        {
+          "wrong": "Would it be possible to rescheduled our call?",
+          "correct": "Would it be possible to reschedule our call?",
+          "explanation": "Verbo base: reschedule."
+        },
+        {
+          "wrong": "Would possible to reschedule?",
+          "correct": "Would it be possible to reschedule?",
+          "explanation": "Estructura completa: be possible."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-07",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "🧠 VOCAB (B1): Corrige 'availability' vs 'available'.",
+      "pairs": [
+        {
+          "wrong": "What is your available?",
+          "correct": "What is your availability?",
+          "explanation": "availability = noun."
+        },
+        {
+          "wrong": "I’m availability on Tuesday.",
+          "correct": "I’m available on Tuesday.",
+          "explanation": "available = adjective."
+        },
+        {
+          "wrong": "Tell me your availably.",
+          "correct": "Let me know your availability.",
+          "explanation": "Forma y vocab correctos."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-08",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Corrige subject lines (evitar vaguedad/urgencia).",
+      "pairs": [
+        {
+          "wrong": "Meeting",
+          "correct": "Scheduling a quick call this week",
+          "explanation": "Más específico."
+        },
+        {
+          "wrong": "READ NOW!!!",
+          "correct": "Rescheduling our call",
+          "explanation": "Evita urgencia exagerada."
+        },
+        {
+          "wrong": "Important",
+          "correct": "Scheduling options for a quick call",
+          "explanation": "Acción + contexto."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-09",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Corrige cierre (pedir elección).",
+      "pairs": [
+        {
+          "wrong": "Choose now.",
+          "correct": "Please let me know which option works best.",
+          "explanation": "Más educado."
+        },
+        {
+          "wrong": "Pick one.",
+          "correct": "Please let me know which option you prefer.",
+          "explanation": "Tono neutro."
+        },
+        {
+          "wrong": "Decide today.",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Pregunta en lugar de presión."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-10",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Corrige preposiciones de tiempo básicas.",
+      "pairs": [
+        {
+          "wrong": "on 10:00",
+          "correct": "at 10:00",
+          "explanation": "Horas: at 10:00."
+        },
+        {
+          "wrong": "in Tuesday",
+          "correct": "on Tuesday",
+          "explanation": "Días: on Tuesday."
+        },
+        {
+          "wrong": "at Thursday",
+          "correct": "on Thursday",
+          "explanation": "Días: on Thursday."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-11",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Corrige tono de reschedule (sin sonar duro).",
+      "pairs": [
+        {
+          "wrong": "We must reschedule. End of story.",
+          "correct": "Would it be possible to reschedule our call?",
+          "explanation": "Suaviza con pregunta."
+        },
+        {
+          "wrong": "Change it now.",
+          "correct": "Could we move it to Thursday at 10:00?",
+          "explanation": "Petición educada con propuesta."
+        },
+        {
+          "wrong": "This is your problem.",
+          "correct": "Sorry for the change—something came up.",
+          "explanation": "Evita culpar."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-core-err-12",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Mejora frases para proponer una llamada corta (no trivial).",
+      "pairs": [
+        {
+          "wrong": "Do you have time Thursday?",
+          "correct": "Would you be available for a 15-minute call on Thursday?",
+          "explanation": "Añade duración + preposición correcta."
+        },
+        {
+          "wrong": "Give me two times.",
+          "correct": "Could you share two times that work for you?",
+          "explanation": "Petición educada y concreta."
+        },
+        {
+          "wrong": "I have calendar problem.",
+          "correct": "I have a calendar conflict.",
+          "explanation": "Collocation natural: calendar conflict."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-mcq-01",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which option best confirms time zone clearly (neutral + actionable)?",
+      "options": [
+        "What time zone are you in? I’m in CET.",
+        "Your time is weird.",
+        "Time zone???"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pregunta completa + aclaras tu zona sin juzgar."
+    },
+    {
+      "id": "b1-s03-ext-mcq-02",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📘 GRAMMAR (B1+): Which question is best to confirm time zone politely?",
+      "options": [
+        "What time zone are you in?",
+        "Why is your time weird?",
+        "Your time zone is wrong."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pregunta directa y neutral: evita juicios."
+    },
+    {
+      "id": "b1-s03-ext-mcq-03",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "✍️ WRITING (B1+): Choose the clearest line for scheduling across time zones.",
+      "options": [
+        "Let’s meet at 10.",
+        "Would Tuesday at 11:00 CET work for you?",
+        "Meet me later."
+      ],
+      "answerIndex": 1,
+      "explanation": "Añadir el huso horario (CET) evita malentendidos."
+    },
+    {
+      "id": "b1-s03-ext-mcq-04",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which sentence sounds most professional if you have a conflict?",
+      "options": [
+        "I can’t. Bye.",
+        "I have a calendar conflict at that time. Could we move it to Thursday at 10:00?",
+        "That time is stupid."
+      ],
+      "answerIndex": 1,
+      "explanation": "Explica conflicto + ofrece alternativa concreta."
+    },
+    {
+      "id": "b1-s03-ext-mcq-05",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "✍️ WRITING (B1+): Which line best asks the other person to propose alternatives (professional)?",
+      "options": [
+        "Could you share two or three times that work for you?",
+        "Pick a random time.",
+        "Send me your schedule forever."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pide 2–3 opciones concretas sin sonar agresivo."
+    },
+    {
+      "id": "b1-s03-ext-mcq-06",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📘 GRAMMAR (B1+): Which is the best polite reschedule opener?",
+      "options": [
+        "We must reschedule.",
+        "Would it be possible to reschedule our call?",
+        "Reschedule now."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pregunta educada = tono neutro."
+    },
+    {
+      "id": "b1-s03-ext-mcq-07",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "✍️ WRITING (B1+): Which closing is best to finalize scheduling?",
+      "options": [
+        "Ok.",
+        "Great — I’ll send a calendar invite and the meeting link.",
+        "Stop emailing me."
+      ],
+      "answerIndex": 1,
+      "explanation": "Cierre con next step (invite/link) = hilo cerrado."
+    },
+    {
+      "id": "b1-s03-ext-mcq-08",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📘 GRAMMAR (B1+): Which phrase is most polite when proposing a change?",
+      "options": [
+        "Sorry for the change—something came up.",
+        "Change it. End.",
+        "It’s your problem."
+      ],
+      "answerIndex": 0,
+      "explanation": "Disculpa breve sin dramatizar."
+    },
+    {
+      "id": "b1-s03-ext-mcq-09",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): What makes an email easier to scan for scheduling?",
+      "options": [
+        "Many options in one long sentence.",
+        "Times listed clearly (2–3) with day + time + time zone.",
+        "No times, just 'let’s meet'."
+      ],
+      "answerIndex": 1,
+      "explanation": "Listar opciones claras + zona horaria = menos confusión."
+    },
+    {
+      "id": "b1-s03-ext-mcq-10",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which sentence best avoids confusion when your team is global?",
+      "options": [
+        "Let’s meet Tuesday at 11:00 CET.",
+        "Let’s meet Tuesday at 11:00.",
+        "Meet sometime next week."
+      ],
+      "answerIndex": 0,
+      "explanation": "Añadir time zone reduce errores en equipos globales."
+    },
+    {
+      "id": "b1-s03-ext-mcq-11",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📘 GRAMMAR (B1+): Which is correct?",
+      "options": [
+        "Would Tuesday 11:00 works for you?",
+        "Would Tuesday at 11:00 work for you?",
+        "Would Tuesday at 11:00 worked for you?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tras 'Would' va verbo base: work."
+    },
+    {
+      "id": "b1-s03-ext-mcq-12",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "✍️ WRITING (B1+): Best line to confirm details before sending an invite?",
+      "options": [
+        "Just to confirm: Tuesday 11:00 CET, correct?",
+        "You know the time.",
+        "See you someday."
+      ],
+      "answerIndex": 0,
+      "explanation": "Confirmación corta + zona horaria = reduce errores."
+    },
+    {
+      "id": "b1-s03-ext-fill-01",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email global (sin subject). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nI’m writing to clarify the ____ ____ ____.\nCould you please confirm ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "Tuesday",
+        "11:00",
+        "CET",
+        "Thursday",
+        "10:00",
+        "CET",
+        "zone"
+      ],
+      "choices": [
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "11:00",
+          "on 11:00",
+          "at 11:00"
+        ],
+        [
+          "CET",
+          "GMT",
+          "EST"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "GMT",
+          "EST",
+          "CET"
+        ],
+        [
+          "zone",
+          "hour",
+          "area"
+        ]
+      ],
+      "explanation": "B1+: consistencia de time zone + confirmar zona horaria."
+    },
+    {
+      "id": "b1-s03-ext-fill-02",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Confirmar equivalencia de hora entre zonas. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nSorry for the confusion about ____ ____ ____.\nTo move forward, we need ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "GMT",
+        "CET",
+        "GMT",
+        "work",
+        "exactly",
+        "the",
+        "same"
+      ],
+      "choices": [
+        [
+          "GMT",
+          "CET",
+          "EST"
+        ],
+        [
+          "CET",
+          "GMT",
+          "EST"
+        ],
+        [
+          "GMT",
+          "EST",
+          "CET"
+        ],
+        [
+          "works",
+          "work",
+          "worked"
+        ],
+        [
+          "exactly",
+          "exact",
+          "exactlyly"
+        ],
+        [
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "same",
+          "some",
+          "sane"
+        ]
+      ],
+      "explanation": "B1+: confirmas zona y equivalencia para evitar errores."
+    },
+    {
+      "id": "b1-s03-ext-fill-03",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Conflicto + reschedule + propuesta con CET. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCould you review the ____ ____ ____.\nPlease approve ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "conflict",
+        "reschedule",
+        "Thursday",
+        "10:00",
+        "CET",
+        "instead",
+        "then"
+      ],
+      "choices": [
+        [
+          "issue",
+          "problem",
+          "conflict"
+        ],
+        [
+          "rescheduling",
+          "reschedule",
+          "rescheduled"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "GMT",
+          "CET",
+          "EST"
+        ],
+        [
+          "instead",
+          "already",
+          "as well"
+        ],
+        [
+          "then",
+          "than",
+          "that"
+        ]
+      ],
+      "explanation": "B1+: conflicto + reschedule + propuesta con time zone."
+    },
+    {
+      "id": "b1-s03-ext-fill-04",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Pedir alternativas sin sonar duro. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nI’m afraid we need to change the ____ ____ ____.\nCould we move it to ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "times",
+        "Wednesday",
+        "Thursday",
+        "invite",
+        "next",
+        "week",
+        "too"
+      ],
+      "choices": [
+        [
+          "times",
+          "time",
+          "timing"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "invite",
+          "invitation",
+          "inviting"
+        ],
+        [
+          "next",
+          "near",
+          "neXt"
+        ],
+        [
+          "week",
+          "weeks",
+          "weekday"
+        ],
+        [
+          "too",
+          "two",
+          "to"
+        ]
+      ],
+      "explanation": "Entrena pedir alternativas + disponibilidad + next step."
+    },
+    {
+      "id": "b1-s03-ext-fill-05",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Confirmar antes de enviar invite (claridad total). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nI’m contacting you regarding the ____ ____ ____.\nCould you confirm ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "Thursday",
+        "10:00",
+        "CET",
+        "link",
+        "invite",
+        "today",
+        "safely"
+      ],
+      "choices": [
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "on 10:00",
+          "at 10:00"
+        ],
+        [
+          "CET",
+          "GMT",
+          "EST"
+        ],
+        [
+          "link",
+          "links",
+          "linked"
+        ],
+        [
+          "invite",
+          "invitation",
+          "inviting"
+        ],
+        [
+          "today",
+          "in today",
+          "at today"
+        ],
+        [
+          "safely",
+          "safe",
+          "safety"
+        ]
+      ],
+      "explanation": "B1+: confirmación completa + link + confirm receipt."
+    },
+    {
+      "id": "b1-s03-ext-fill-06",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Reschedule con 2 opciones + coherencia CET. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCould you provide a timeline for ____ ____ ____.\nPlease include ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "change",
+        "call",
+        "Thursday",
+        "10:00",
+        "CET",
+        "Friday",
+        "09:30"
+      ],
+      "choices": [
+        [
+          "change",
+          "changed",
+          "changes"
+        ],
+        [
+          "call",
+          "calls",
+          "calling"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "10:00",
+          "at 10:00",
+          "on 10:00"
+        ],
+        [
+          "GMT",
+          "EST",
+          "CET"
+        ],
+        [
+          "Friday",
+          "at Friday",
+          "in Friday"
+        ],
+        [
+          "09:30",
+          "at 09:30",
+          "in 09:30"
+        ]
+      ],
+      "explanation": "B1+: estructura completa + coherencia de time zone."
+    },
+    {
+      "id": "b1-s03-ext-fill-07",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Aclarar time zone antes de proponer. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThanks for your patience with ____ ____ ____.\nWe are ready to proceed with ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "zone",
+        "CET",
+        "Tuesday",
+        "11:00",
+        "CET",
+        "also",
+        "fine"
+      ],
+      "choices": [
+        [
+          "zone",
+          "hour",
+          "area"
+        ],
+        [
+          "CET",
+          "GMT",
+          "EST"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "11:00",
+          "at 11:00",
+          "on 11:00"
+        ],
+        [
+          "GMT",
+          "CET",
+          "EST"
+        ],
+        [
+          "also",
+          "already",
+          "although"
+        ],
+        [
+          "fine",
+          "good",
+          "well"
+        ]
+      ],
+      "explanation": "B1+: confirm your time zone + propuesta coherente."
+    },
+    {
+      "id": "b1-s03-ext-fill-08",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Rechazo neutral + plan B con CET. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nUnfortunately, the delivery for ____ ____ ____.\nWe will share an update on ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "CET",
+        "CET",
+        "you",
+        "tomorrow",
+        "morning",
+        "or",
+        "afternoon"
+      ],
+      "choices": [
+        [
+          "GMT",
+          "EST",
+          "CET"
+        ],
+        [
+          "CET",
+          "GMT",
+          "EST"
+        ],
+        [
+          "you",
+          "your",
+          "yours"
+        ],
+        [
+          "tomorrow",
+          "yesterday",
+          "today"
+        ],
+        [
+          "morning",
+          "evening",
+          "night"
+        ],
+        [
+          "or",
+          "and",
+          "but"
+        ],
+        [
+          "afternoon",
+          "after",
+          "afternoons"
+        ]
+      ],
+      "explanation": "B1+: coherencia time zone + pedir alternativas de forma natural."
+    },
+    {
+      "id": "b1-s03-ext-fill-09",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Claridad antes del invite (duration + attendees). 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nI’d like to introduce ____ ____ ____.\nThey will support you with ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "duration",
+        "attendees",
+        "link",
+        "Thursday",
+        "please",
+        "if",
+        "possible"
+      ],
+      "choices": [
+        [
+          "duration",
+          "deadline",
+          "distance"
+        ],
+        [
+          "attendees",
+          "assistants",
+          "assist"
+        ],
+        [
+          "link",
+          "links",
+          "linked"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "please",
+          "must",
+          "now"
+        ],
+        [
+          "if",
+          "of",
+          "in"
+        ],
+        [
+          "possible",
+          "possibly",
+          "possibility"
+        ]
+      ],
+      "explanation": "B1+: vocab útil (duration/attendees) + deadline suave."
+    },
+    {
+      "id": "b1-s03-ext-fill-10",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Confirmar recepción del invite. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nCan you please sign the ____ ____ ____.\nWe need it to proceed with ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "invite",
+        "received",
+        "resend",
+        "today",
+        "again",
+        "right",
+        "away"
+      ],
+      "choices": [
+        [
+          "invite",
+          "invitation",
+          "inviting"
+        ],
+        [
+          "received",
+          "receive",
+          "receiving"
+        ],
+        [
+          "resend",
+          "resending",
+          "resent"
+        ],
+        [
+          "today",
+          "in today",
+          "at today"
+        ],
+        [
+          "again",
+          "against",
+          "agein"
+        ],
+        [
+          "right",
+          "write",
+          "rite"
+        ],
+        [
+          "away",
+          "a way",
+          "awai"
+        ]
+      ],
+      "explanation": "B1+: lenguaje real: confirm you received it + resend."
+    },
+    {
+      "id": "b1-s03-ext-fill-11",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Flexibilidad + tono formal + next step. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nJust to confirm, we will meet on ____ ____ ____.\nI will send the notes by ____ ____ ____.\n\nBest regards,\nAna",
+      "answers": [
+        "availability",
+        "send",
+        "today",
+        "so",
+        "we",
+        "can",
+        "finalize"
+      ],
+      "choices": [
+        [
+          "available",
+          "availability",
+          "availably"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "today",
+          "in today",
+          "at today"
+        ],
+        [
+          "so",
+          "although",
+          "because"
+        ],
+        [
+          "we",
+          "us",
+          "our"
+        ],
+        [
+          "can",
+          "could",
+          "cans"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ]
+      ],
+      "explanation": "B1+: flexibilidad (adjust) + pedir availability + next step (send)."
+    },
+    {
+      "id": "b1-s03-ext-fill-12",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "📩 WRITING (B1+): Reschedule + motivo + propuesta con CET. 7 huecos. Firma fija.",
+      "text": "Hi ____,\n\nThanks again for your help with ____ ____ ____.\nOnce you confirm ____ ____ ____.\n\nBest,\nAna",
+      "answers": [
+        "change",
+        "reschedule",
+        "CET",
+        "instead",
+        "of",
+        "Tuesday",
+        "morning"
+      ],
+      "choices": [
+        [
+          "change",
+          "changed",
+          "changes"
+        ],
+        [
+          "rescheduling",
+          "reschedule",
+          "rescheduled"
+        ],
+        [
+          "GMT",
+          "CET",
+          "EST"
+        ],
+        [
+          "instead",
+          "already",
+          "as well"
+        ],
+        [
+          "of",
+          "off",
+          "on"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "morning",
+          "evening",
+          "night"
+        ]
+      ],
+      "explanation": "B1+: reschedule educado + time zone + alternativa concreta."
+    },
+    {
+      "id": "b1-s03-ext-reorder-01",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con time zone (CET) y 3 opciones.",
+      "items": [
+        "Best regards,",
+        "Would Tuesday at 11:00 CET work for you?",
+        "If not, I’m available Wednesday at 15:00 CET or Thursday at 10:30 CET.",
+        "Hi Maria,",
+        "Please let me know which option works best.",
+        "Ana"
+      ],
+      "correctOrder": [
+        3,
+        1,
+        2,
+        4,
+        0,
+        5
+      ],
+      "explanation": "Incluye CET en todas las opciones para consistencia."
+    },
+    {
+      "id": "b1-s03-ext-reorder-02",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para confirmar time zone antes del invite.",
+      "items": [
+        "Hi Maria,",
+        "Just to confirm: Tuesday at 11:00 CET, correct?",
+        "Great — I’ll send a calendar invite.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Confirmación → invite → cierre."
+    },
+    {
+      "id": "b1-s03-ext-reorder-03",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email aclarando time zone y proponiendo una llamada corta.",
+      "items": [
+        "Hi Tom,",
+        "What time zone are you in?",
+        "I’m available for a 15-minute call on Thursday at 10:00 CET.",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Primero aclaras time zone; luego propones hora concreta."
+    },
+    {
+      "id": "b1-s03-ext-reorder-04",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un reschedule con conflicto de agenda + nueva hora (CET).",
+      "items": [
+        "Hi Maria,",
+        "I have a calendar conflict at that time.",
+        "Would it be possible to reschedule our call?",
+        "Could we move it to Thursday at 10:00 CET?",
+        "Thanks in advance.",
+        "Kind regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "explanation": "Conflicto → reschedule → nueva propuesta con CET."
+    },
+    {
+      "id": "b1-s03-ext-reorder-05",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email pidiendo 2–3 opciones (no trivial).",
+      "items": [
+        "Hi Maria,",
+        "Could you share two or three times that work for you for a quick call?",
+        "Thanks in advance.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Pedir 2–3 opciones concretas reduce ping‑pong."
+    },
+    {
+      "id": "b1-s03-ext-reorder-06",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con meeting link como siguiente paso (CET).",
+      "items": [
+        "Hi Tom,",
+        "Would Thursday at 10:00 CET work for you?",
+        "Once confirmed, I’ll share the meeting link.",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Propuesta con time zone + next step."
+    },
+    {
+      "id": "b1-s03-ext-reorder-07",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para aclarar time zone y evitar error.",
+      "items": [
+        "Hi Maria,",
+        "Just to clarify, I’m in CET.",
+        "Would Tuesday at 11:00 work for you in your time zone?",
+        "Thanks in advance.",
+        "Kind regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Aclaras CET y preguntas por compatibilidad."
+    },
+    {
+      "id": "b1-s03-ext-reorder-08",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email confirmando details antes del invite.",
+      "items": [
+        "Hi Maria,",
+        "So we’re confirmed for Thursday at 10:00 CET.",
+        "Great — I’ll send the calendar invite now.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Confirmación explícita + acción inmediata."
+    },
+    {
+      "id": "b1-s03-ext-reorder-09",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para mover un meeting y dar 2 opciones.",
+      "items": [
+        "Hi Tom,",
+        "Would it be possible to reschedule?",
+        "Could we move it to Thursday at 10:00 CET or Friday at 09:30 CET?",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Reschedule + dos opciones = rápido."
+    },
+    {
+      "id": "b1-s03-ext-reorder-10",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para pedir time zone antes de proponer horas.",
+      "items": [
+        "Hi Maria,",
+        "What time zone are you in?",
+        "Once I know your time zone, I can suggest a couple of times.",
+        "Thanks in advance.",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Primero aclaras zona; luego propones."
+    },
+    {
+      "id": "b1-s03-ext-reorder-11",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para confirmar que entendiste la zona horaria del otro.",
+      "items": [
+        "Hi Maria,",
+        "Thanks — just to confirm, you’re in GMT, right?",
+        "In that case, Tuesday at 11:00 CET would be 10:00 GMT.",
+        "Would that work for you?",
+        "Best regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Confirmas zona y equivalencia para evitar errores."
+    },
+    {
+      "id": "b1-s03-ext-reorder-12",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email breve proponiendo una llamada corta con time zone (no trivial).",
+      "items": [
+        "Hi Tom,",
+        "Would you be available for a 15-minute call on Thursday at 10:00 CET?",
+        "Thanks!",
+        "Best,",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Petición concreta con duración + time zone."
+    },
+    {
+      "id": "b1-s03-ext-err-01",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR (B1+): Corrige errores sutiles con 'Would … work for you?'",
+      "pairs": [
+        {
+          "wrong": "Would Tuesday at 11:00 works for you?",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Tras Would: verbo base (work)."
+        },
+        {
+          "wrong": "Would Tuesday at 11:00 worked for you?",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "No pasado tras Would."
+        },
+        {
+          "wrong": "Would Tuesday 11:00 work you?",
+          "correct": "Would Tuesday at 11:00 work for you?",
+          "explanation": "Faltan 'at' y 'for'."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-02",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "🧠 VOCAB (B1+): Corrige 'time zone' y pregunta profesional.",
+      "pairs": [
+        {
+          "wrong": "What time are you zone?",
+          "correct": "What time zone are you in?",
+          "explanation": "Pregunta correcta y completa."
+        },
+        {
+          "wrong": "I’m in the CET time.",
+          "correct": "I’m in the CET time zone.",
+          "explanation": "Añade 'time zone'."
+        },
+        {
+          "wrong": "Your time zone is weird.",
+          "correct": "Could you confirm your time zone?",
+          "explanation": "Evita juicio; pide confirmación."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-03",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Convierte frases vagas en claras (con time zone).",
+      "pairs": [
+        {
+          "wrong": "Let’s meet at 10.",
+          "correct": "Would Thursday at 10:00 CET work for you?",
+          "explanation": "Añade día + hora + time zone."
+        },
+        {
+          "wrong": "We can meet sometime.",
+          "correct": "I’m available Thursday at 10:00 CET or Friday at 09:30 CET.",
+          "explanation": "Da 2 opciones concretas."
+        },
+        {
+          "wrong": "Meet later.",
+          "correct": "Could you share two or three times that work for you?",
+          "explanation": "Pide alternativas educadamente."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-04",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR (B1+): Corrige reschedule con estructura completa.",
+      "pairs": [
+        {
+          "wrong": "Would it be possible reschedule our call?",
+          "correct": "Would it be possible to reschedule our call?",
+          "explanation": "Necesita 'to'."
+        },
+        {
+          "wrong": "Could we move it Thursday at 10:00 CET?",
+          "correct": "Could we move it to Thursday at 10:00 CET?",
+          "explanation": "Necesita 'to'."
+        },
+        {
+          "wrong": "Sorry for change, something came.",
+          "correct": "Sorry for the change—something came up.",
+          "explanation": "Frase natural: came up."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-05",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "🧠 VOCAB (B1+): Corrige collocations (calendar invite / calendar conflict).",
+      "pairs": [
+        {
+          "wrong": "send a calendar invitation",
+          "correct": "send a calendar invite",
+          "explanation": "Fórmula típica: calendar invite."
+        },
+        {
+          "wrong": "meeting conflict",
+          "correct": "calendar conflict",
+          "explanation": "Collocation común."
+        },
+        {
+          "wrong": "share the meeting URL link",
+          "correct": "share the meeting link",
+          "explanation": "meeting link es suficiente."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-06",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING (B1+): Corrige subject lines (más específicos, con time zone cuando ayuda).",
+      "pairs": [
+        {
+          "wrong": "Meeting",
+          "correct": "Scheduling options (CET)",
+          "explanation": "Más específico; añade CET si es global."
+        },
+        {
+          "wrong": "IMPORTANT",
+          "correct": "Rescheduling our call (CET)",
+          "explanation": "Evita alarmismo; indica objetivo."
+        },
+        {
+          "wrong": "Hello",
+          "correct": "Scheduling a quick call this week",
+          "explanation": "Asunto funcional y escaneable."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-07",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Mejora escaneabilidad (opciones listadas).",
+      "pairs": [
+        {
+          "wrong": "Hi Maria, Tue 11 CET or Wed 15 CET or Thu 10:30 CET let me know",
+          "correct": "Hi Maria,\n\nWould Tuesday at 11:00 CET work for you?\nIf not, I’m available Wednesday at 15:00 CET or Thursday at 10:30 CET.\n\nPlease let me know which option works best.\n\nBest regards,\nAna",
+          "explanation": "Formato escaneable + opciones consistentes."
+        },
+        {
+          "wrong": "Reschedule Thursday 10 CET.",
+          "correct": "Would it be possible to reschedule our call?\nCould we move it to Thursday at 10:00 CET?",
+          "explanation": "Modal + estructura educada."
+        },
+        {
+          "wrong": "Time zone??",
+          "correct": "What time zone are you in?",
+          "explanation": "Pregunta completa y profesional."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-08",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR (B1+): Corrige preposiciones day/time.",
+      "pairs": [
+        {
+          "wrong": "at Thursday",
+          "correct": "on Thursday",
+          "explanation": "Días: on."
+        },
+        {
+          "wrong": "on 10:00",
+          "correct": "at 10:00",
+          "explanation": "Horas: at."
+        },
+        {
+          "wrong": "to Thursday 10:00",
+          "correct": "to Thursday at 10:00",
+          "explanation": "Añade 'at' antes de la hora."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-09",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "🧠 VOCAB (B1+): availability vs available (mixed).",
+      "pairs": [
+        {
+          "wrong": "I am availability tomorrow.",
+          "correct": "I am available tomorrow.",
+          "explanation": "available = adj."
+        },
+        {
+          "wrong": "Send me your available.",
+          "correct": "Could you share your availability?",
+          "explanation": "availability = noun."
+        },
+        {
+          "wrong": "My availability are Tuesday.",
+          "correct": "My availability is Tuesday.",
+          "explanation": "En esta frase se trata como singular/uncountable."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-10",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING (B1+): Cambia frases duras por neutras.",
+      "pairs": [
+        {
+          "wrong": "Change it now.",
+          "correct": "Would it be possible to reschedule?",
+          "explanation": "Pregunta suave."
+        },
+        {
+          "wrong": "Pick a time.",
+          "correct": "Could you share two or three times that work for you?",
+          "explanation": "Pide opciones educadamente."
+        },
+        {
+          "wrong": "Your calendar is wrong.",
+          "correct": "Could you confirm your time zone?",
+          "explanation": "Evita culpar; confirma info."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-11",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Corrige confirmación final (claridad).",
+      "pairs": [
+        {
+          "wrong": "Confirmed Thursday 10 CET.",
+          "correct": "Just to confirm: Thursday at 10:00 CET, correct?",
+          "explanation": "Forma completa y educada."
+        },
+        {
+          "wrong": "Ok time.",
+          "correct": "Great — I’ll send a calendar invite.",
+          "explanation": "Next step claro."
+        },
+        {
+          "wrong": "See you.",
+          "correct": "Once confirmed, I’ll share the meeting link.",
+          "explanation": "Cierra con acción concreta."
+        }
+      ]
+    },
+    {
+      "id": "b1-s03-ext-err-12",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Corrige frases para pedir alternativas y proponer una llamada corta (no trivial).",
+      "pairs": [
+        {
+          "wrong": "Give me times.",
+          "correct": "Could you share two or three times that work for you?",
+          "explanation": "Petición educada y concreta."
+        },
+        {
+          "wrong": "Meet Thursday 10 CET.",
+          "correct": "Would Thursday at 10:00 CET work for you?",
+          "explanation": "Pregunta educada + estructura correcta."
+        },
+        {
+          "wrong": "I have conflict of calendar.",
+          "correct": "I have a calendar conflict.",
+          "explanation": "Collocation correcta."
+        }
+      ]
+    }
+  ]
+}

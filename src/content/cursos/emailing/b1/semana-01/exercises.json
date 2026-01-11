@@ -1,0 +1,2732 @@
+{
+  "goal": "emailing",
+  "level": "b1",
+  "weekId": "semana-01",
+  "title": "Emailing B1 – Semana 01 (Estructura + tono neutro + petición clara) | Core + Ampliación",
+  "items": [
+    {
+      "id": "b1-s01-core-mcq-01",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best subject line (action + context + soft deadline).\n\nBody:\nHi Maria,\n\nI’m writing to request your approval on the Q1 budget draft (v2).\nIf possible, could you approve it by Friday?\nOnce approved, I’ll share the final version in this thread.\n\nThanks,\nAna",
+      "options": [
+        "Approval needed: Q1 budget draft (v2) — by Fri, if possible",
+        "URGENT!!! READ NOW!!!",
+        "Quick question"
+      ],
+      "answerIndex": 0,
+      "explanation": "Subject accionable = acción + documento/versión + deadline suave. Evita alarmismo o vaguedad."
+    },
+    {
+      "id": "b1-s01-core-mcq-02",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): What’s missing to act on this email?\n\nBody:\nHi Maria,\n\nAttached is the updated draft (v2).\nCould you please approve it?\nOnce approved, I’ll send it to Finance.\n\nThanks,\nAna",
+      "options": [
+        "A deadline (by when?)",
+        "A greeting",
+        "A sign-off"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sin deadline, el receptor no sabe prioridad ni cuándo responder. Eso frena el proceso."
+    },
+    {
+      "id": "b1-s01-core-mcq-03",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "✍️ READING→WRITING (B1): Choose the best first line (purpose + object).\n\nBody:\nHi Tom,\n\n____\nIt’s the latest version (v2) after Monday’s meeting.\nIf possible, could you approve it by Thursday?\n\nThanks,\nAna",
+      "options": [
+        "I’m writing to request your approval on the attached draft (v2).",
+        "Hope you’re well. Just a quick one...",
+        "This email is about many things."
+      ],
+      "answerIndex": 0,
+      "explanation": "Primera línea efectiva = propósito + objeto. Evita relleno o vaguedad."
+    },
+    {
+      "id": "b1-s01-core-mcq-04",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📘 GRAMMAR (B1): Choose the best request line (polite + specific + soft deadline).\n\nBody:\nHi Maria,\n\nWe need approval to send the proposal to the client.\n____\n\nThanks,\nAna",
+      "options": [
+        "Could you please review and approve it by Thursday, if possible?",
+        "Approve this today.",
+        "You must approve it."
+      ],
+      "answerIndex": 0,
+      "explanation": "Cortesía + acción + fecha concreta + softener. Evita imperativos y “must”."
+    },
+    {
+      "id": "b1-s01-core-mcq-05",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best follow-up (neutral + clear next action).\n\nBody:\nHi Maria,\n\nWe need your approval to send the updated quote to the vendor.\n____\nIf possible, could you reply by Thursday?\n\nThanks,\nAna",
+      "options": [
+        "Just checking if you had a chance to review the draft.",
+        "Why didn’t you reply?",
+        "You ignored my email."
+      ],
+      "answerIndex": 0,
+      "explanation": "Follow-up neutro = pregunta por el estado sin culpar + mantiene el hilo avanzando."
+    },
+    {
+      "id": "b1-s01-core-mcq-06",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): What’s missing to act on this request?\n\nBody:\nHi Alex,\n\nCould you please review the attached document?\nThanks in advance.\n\nAna",
+      "options": [
+        "What output is needed (approve / comments / confirm?)",
+        "A greeting",
+        "A sign-off"
+      ],
+      "answerIndex": 0,
+      "explanation": "Falta output: sin decir qué debe devolver el receptor, el “review” no es accionable."
+    },
+    {
+      "id": "b1-s01-core-mcq-07",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): You have 10 seconds to scan this email. Which structure makes it easiest to act on?\n\nBody:\nHi Maria,\n\nI’m writing to request your approval on the attached draft (v2).\nIt includes the changes from Monday’s meeting.\nIf possible, could you approve it by Thursday?\nOnce approved, I’ll share the final version in this thread.\n\nThanks,\nAna",
+      "options": [
+        "Greeting → purpose → short context → request + soft deadline → next step → thanks → sign-off",
+        "One long paragraph mixing context, request, and closing",
+        "No greeting → request only → no closing"
+      ],
+      "answerIndex": 0,
+      "explanation": "La estructura escaneable reduce fricción: propósito rápido, contexto mínimo, ask + deadline, y next step para cerrar el hilo."
+    },
+    {
+      "id": "b1-s01-core-mcq-08",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best 1‑line context to add (version + reference) before asking for approval.\n\nBody:\nHi Tom,\n\n[Context line]\nAttached is the updated draft (v2).\nIf possible, could you approve it by Thursday?\nOnce approved, I’ll send the final PDF.\n\nThanks,\nAna",
+      "options": [
+        "It’s the latest version (v2) after Monday’s meeting, based on your feedback.",
+        "You know what I mean.",
+        "This is complicated."
+      ],
+      "answerIndex": 0,
+      "explanation": "Contexto útil en trabajo = versión + referencia (meeting) + fuente (feedback). Evita suposiciones y vaguedad."
+    },
+    {
+      "id": "b1-s01-core-mcq-09",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best ownership line (who does what + next step).\n\nBody:\nHi Maria,\n\nCould you review it today if possible?\n____\n\nThanks,\nAna",
+      "options": [
+        "I’ll update and share the final version after your feedback.",
+        "You handle it.",
+        "Someone should fix it."
+      ],
+      "answerIndex": 0,
+      "explanation": "Ownership claro = tú revisas + yo actualizo/comparto. Evita vaguedad (“someone”)."
+    },
+    {
+      "id": "b1-s01-core-mcq-10",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the clearest attachment line (what + why + minimal context).\n\nBody:\nHello,\n\nWe need to send the final proposal to the client.\n____\nIf possible, could you approve it by Friday?\nOnce approved, I’ll forward the final version to Sales.\n\nThanks,\nAna",
+      "options": [
+        "Attached is the updated draft (v2) for your review.",
+        "See file.",
+        "I put something somewhere."
+      ],
+      "answerIndex": 0,
+      "explanation": "Adjunto claro = qué es + para qué + mini contexto (v2). Reduce preguntas y acelera la acción."
+    },
+    {
+      "id": "b1-s01-core-mcq-11",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): Choose the best closing line to reduce back-and-forth.\n\nBody:\nHi Maria,\n\nIf possible, could you approve it by Thursday?\n____\n\nKind regards,\nAna",
+      "options": [
+        "Let me know if you have any questions.",
+        "Ok bye.",
+        "Don’t ask questions."
+      ],
+      "answerIndex": 0,
+      "explanation": "Invitar preguntas mantiene tono profesional y reduce fricción."
+    },
+    {
+      "id": "b1-s01-core-mcq-12",
+      "type": "multipleChoice",
+      "track": "core",
+      "prompt": "📩 READING (B1): You’re emailing an external partner. Choose the most neutral-professional sign-off.\n\nBody:\nHello,\n\nThanks for your help with the updated quote.\nIf possible, could you confirm the final price by Friday?\nOnce confirmed, I’ll send the purchase order.\n\n____\nAna",
+      "options": [
+        "Kind regards,",
+        "Love,",
+        "See ya,"
+      ],
+      "answerIndex": 0,
+      "explanation": "Para contexto empresarial (externo): “Kind regards / Best regards” es neutro y estándar. Evita cierres personales o informales."
+    },
+    {
+      "id": "b1-s01-core-fill-01",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa el email (7 huecos). En cada hueco elige 1 de 3 opciones (solo 1 correcta).",
+      "text": "Hi Maria,\nI’m writing to ____ your approval on the attached draft (v2).\n____, could you please ____ it by ____?\nOnce it’s approved, I’ll ____ the final version in this ____.\nThanks in advance. Kind regards,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "request",
+        "If possible",
+        "approve",
+        "Thursday",
+        "share",
+        "thread",
+        "time"
+      ],
+      "choices": [
+        [
+          "request",
+          "requesting",
+          "to request"
+        ],
+        [
+          "If possible",
+          "I need",
+          "Now"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "table",
+          "paper"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Entrena: subject accionable + propósito (request approval) + softener + acción + preposición de deadline + next step + canal."
+    },
+    {
+      "id": "b1-s01-core-fill-02",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa el email (7 huecos): action + output + deadline suave + ownership/next step.",
+      "text": "Hi Alex,\nCould you please ____ the attached draft and ____ any key comments by ____?\nIf you need more time, please let me know what ____ works for you.\nOnce I get your feedback, I’ll ____ the final version and ____ it here.\nThanks,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "review",
+        "share",
+        "Thursday",
+        "timing",
+        "update",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "share",
+          "tell",
+          "says"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "on Thursday by"
+        ],
+        [
+          "timing",
+          "time",
+          "hours"
+        ],
+        [
+          "update",
+          "updates",
+          "updating"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Entrena pedir output (comments) + deadline correcto + alternativa (timing) + next step (update/send)."
+    },
+    {
+      "id": "b1-s01-core-fill-03",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa contexto real (versión + referencia) + objetivo + stakeholder + deadline (7 huecos).",
+      "text": "Hi Tom,\nThis is the ____ version (v2) after Monday’s ____. It’s based on your last ____.\nThe goal is to ____ the structure before we share it with the ____.\nIf possible, could you reply by ____?\nThanks,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "latest",
+        "meeting",
+        "feedback",
+        "finalize",
+        "client",
+        "Tuesday",
+        "time"
+      ],
+      "choices": [
+        [
+          "latest",
+          "last",
+          "later"
+        ],
+        [
+          "meeting",
+          "meet",
+          "metting"
+        ],
+        [
+          "feedback",
+          "advices",
+          "informations"
+        ],
+        [
+          "finalize",
+          "finish up",
+          "closing"
+        ],
+        [
+          "client",
+          "clients",
+          "customering"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Entrena contexto accionable: versión + referencia + objetivo + stakeholder + deadline correcto."
+    },
+    {
+      "id": "b1-s01-core-fill-04",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un reminder suave con plan B y next step (7 huecos).",
+      "text": "Hi Maria,\nJust a quick ____ to check if you had a chance to review the draft. By ____ would be great, if possible.\nIf that doesn’t work, please let me know what ____ suits you.\nOnce it’s approved, I’ll ____ the final version and ____ it today.\nBest, Could you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "follow-up",
+        "Thursday",
+        "timing",
+        "finalize",
+        "send",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "follow-up",
+          "follow",
+          "following"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "on Thursday by"
+        ],
+        [
+          "timing",
+          "clock",
+          "hour"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "to send",
+          "sending"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Entrena follow-up neutro + soft deadline + alternativa (timing) + next steps claros."
+    },
+    {
+      "id": "b1-s01-core-fill-05",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un cierre profesional que invite preguntas + canal + ownership (7 huecos).",
+      "text": "Hello,\nAttached is the updated draft for your ____.\nIf possible, could you ____ any key comments by ____?\nI’ll ____ the final version after your feedback and ____ it in this ____.\nLet me know if you have any ____.\nKind regards,\nAna",
+      "answers": [
+        "review",
+        "share",
+        "Wednesday",
+        "update",
+        "share",
+        "thread",
+        "questions"
+      ],
+      "choices": [
+        [
+          "review",
+          "reviews",
+          "reviewing"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "update",
+          "updates",
+          "updating"
+        ],
+        [
+          "share",
+          "sharing",
+          "shares"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ],
+        [
+          "questions",
+          "question",
+          "doubts"
+        ]
+      ],
+      "explanation": "Entrena: pedir output + día concreto + ownership + canal (thread) + reducción de fricción (questions)."
+    },
+    {
+      "id": "b1-s01-core-fill-06",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa una petición con 2 acciones + softener + deadline + next step (7 huecos).",
+      "text": "Hi John,\nWhen you have a moment, could you please ____ the document and ____ any comments?\nIf possible, by ____ would be great.\nOnce I have your feedback, I’ll ____ the changes and ____ the final version. Thanks in advance,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "review",
+        "share",
+        "Tuesday",
+        "apply",
+        "send",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "apply",
+          "applies",
+          "applying"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Entrena low-effort + output (comments) + deadline suave + next step (apply/send)."
+    },
+    {
+      "id": "b1-s01-core-fill-07",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un email para confirmar recepción (bloqueo típico) + plan B (7 huecos).",
+      "text": "Hi Maria, Could you please ____ you received the ____?\nIf not, I can ____ it right away.\nOnce you ____ it, I’ll ____ with the final version.\nThanks,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "confirm",
+        "attachment",
+        "resend",
+        "review",
+        "proceed",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "attachment",
+          "attached",
+          "attach"
+        ],
+        [
+          "resend",
+          "resending",
+          "to resend"
+        ],
+        [
+          "review",
+          "reviewing",
+          "to review"
+        ],
+        [
+          "proceed",
+          "proceeds",
+          "proceeding"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Entrena: confirmación operativa + plan B (resend) + next step (proceed) para cerrar el flujo."
+    },
+    {
+      "id": "b1-s01-core-fill-08",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa una solicitud de aprobación con tono neutro (sin 'must') + deadline correcto (7 huecos).",
+      "text": "Hi Maria,\nI’m writing to ____ your approval on the attached draft.\nIf possible, could you ____ it by ____?\nAfter that, I’ll ____ the final version and ____ it to the ____.\nKind regards,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "request",
+        "approve",
+        "Friday",
+        "finalize",
+        "send",
+        "client",
+        "time"
+      ],
+      "choices": [
+        [
+          "request",
+          "ask",
+          "to request"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Friday",
+          "in Friday",
+          "at Friday"
+        ],
+        [
+          "finalize",
+          "final",
+          "finishing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "client",
+          "clients",
+          "customer"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Entrena: tono neutro + verbo correcto + preposición de deadline + plan (finalize/send) + stakeholder."
+    },
+    {
+      "id": "b1-s01-core-fill-09",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un email para confirmar next steps (ownership + condición + canal) (7 huecos).",
+      "text": "Hi Tom, I’m writing to ____ the next steps.\nIf you’re happy with this version, I’ll ____ with the final draft and ____ it today.\nIf not, please ____ your feedback in this ____.\nThanks,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "confirm",
+        "proceed",
+        "send",
+        "share",
+        "thread",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "proceed",
+          "proceeds",
+          "proceeding"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Entrena confirm → proceed → send, y alternativa: pedir feedback en el mismo canal."
+    },
+    {
+      "id": "b1-s01-core-fill-10",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un subject accionable + opening + ask + soft deadline (7 huecos).",
+      "text": "Hi Maria,\nI’m writing to ____ your approval on the attached draft (v2).\n____, could you please ____ it by ____? Once approved, I’ll ____ the final version.\nThanks,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "request",
+        "If possible",
+        "approve",
+        "Thursday",
+        "share",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "request",
+          "requesting",
+          "to request"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "on Thursday by"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Entrena subject + purpose + softener + acción + deadline correcto + next step."
+    },
+    {
+      "id": "b1-s01-core-fill-11",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un email para pedir respuesta con alternativa (deadline + plan B) (7 huecos).",
+      "text": "Hello, Could you please reply by ____?\nIf that’s not possible, please let me know what ____ works on your side.\nOnce I have your reply, I’ll ____ the final version and ____ it. Thanks in advance,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nThanks in ____.\nAna",
+      "answers": [
+        "Tuesday",
+        "timing",
+        "finalize",
+        "send",
+        "time",
+        "know",
+        "advance"
+      ],
+      "choices": [
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "timing",
+          "clock",
+          "timepiece"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ],
+        [
+          "advanced",
+          "advance",
+          "advancing"
+        ]
+      ],
+      "explanation": "Entrena pedir respuesta con deadline + alternativa (timing) y next step claro (finalize/send)."
+    },
+    {
+      "id": "b1-s01-core-fill-12",
+      "type": "fillBlanks",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Completa un follow-up neutro con acción + deadline suave + next step + canal (7 huecos).",
+      "text": "Hi Maria,\nJust a quick ____ to check if you had a chance to ____ the draft.\nIf possible, could you ____ it by ____?\nOnce it’s approved, I’ll ____ the final version in this ____.\nBest regards,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "follow-up",
+        "review",
+        "approve",
+        "Thursday",
+        "share",
+        "thread",
+        "time"
+      ],
+      "choices": [
+        [
+          "follow-up",
+          "follow",
+          "following"
+        ],
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Follow-up real: neutral + ask concreto + deadline correcto + next step + canal."
+    },
+    {
+      "id": "b1-s01-core-reorder-01",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena las líneas para un email escaneable (propósito → contexto → ask + deadline suave → next step).",
+      "items": [
+        "Kind regards,",
+        "If possible, could you approve it by Thursday?",
+        "Hi Maria,",
+        "Thanks in advance for your help.",
+        "I’m writing to request your approval on the attached draft (v2).",
+        "Once it’s approved, I’ll share the final version in this thread.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        4,
+        1,
+        5,
+        3,
+        0,
+        6
+      ],
+      "explanation": "Estructura recomendada: saludo → propósito + objeto → petición + deadline suave → next step → thanks → sign-off → firma."
+    },
+    {
+      "id": "b1-s01-core-reorder-02",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email corto pidiendo info (ask claro + mini contexto + deadline suave).",
+      "items": [
+        "Thanks,",
+        "If possible, could you share the latest timeline by Tuesday?",
+        "Hello,",
+        "This is for the draft we discussed yesterday.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        1,
+        0,
+        4
+      ],
+      "explanation": "Email corto pero útil: saludo → 1 línea de contexto → ask + deadline suave → thanks → firma."
+    },
+    {
+      "id": "b1-s01-core-reorder-03",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena para incluir contexto antes del ask (versión + referencia).",
+      "items": [
+        "Best regards,",
+        "Attached is the updated draft (v2) for your review.",
+        "Hi Tom,",
+        "Could you please confirm if the numbers look correct by Thursday?",
+        "It includes the changes from Monday’s meeting.",
+        "Thanks in advance.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        1,
+        4,
+        3,
+        5,
+        0,
+        6
+      ],
+      "explanation": "Muy escaneable: saludo → adjunto + qué es → referencia (meeting) → ask + deadline → thanks → sign-off → firma."
+    },
+    {
+      "id": "b1-s01-core-reorder-04",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un follow-up neutro (sin culpa) + deadline suave + next step.",
+      "items": [
+        "Best,",
+        "If possible, could you approve it by Friday?",
+        "Hi Maria,",
+        "Thanks!",
+        "Just a quick follow-up to check if you had a chance to review the draft.",
+        "Once it’s approved, I’ll send the final version today.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        4,
+        1,
+        5,
+        3,
+        0,
+        6
+      ],
+      "explanation": "Follow-up profesional: saludo → follow-up neutro → ask + soft deadline → next step → thanks → sign-off → firma."
+    },
+    {
+      "id": "b1-s01-core-reorder-05",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con next step claro (reduce back-and-forth).",
+      "items": [
+        "Kind regards,",
+        "Hello John,",
+        "Thanks in advance.",
+        "Could you please review the proposal and share any key comments by Wednesday?",
+        "Once I get your feedback, I’ll update and resend the final version.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        2,
+        0,
+        5
+      ],
+      "explanation": "Incluye ownership: tú comentas; yo actualizo y reenvío. Eso hace el email “de verdad”."
+    },
+    {
+      "id": "b1-s01-core-reorder-06",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email corto con 2 acciones + deadline suave.",
+      "items": [
+        "Hi Alex,",
+        "Thanks in advance.",
+        "Kind regards,",
+        "If possible, could you review the document and share your comments by Thursday?",
+        "Ana"
+      ],
+      "correctOrder": [
+        0,
+        3,
+        1,
+        2,
+        4
+      ],
+      "explanation": "Dos acciones relacionadas (review + share comments) + día concreto. Mantén el formato corto y escaneable."
+    },
+    {
+      "id": "b1-s01-core-reorder-07",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email para confirmar recepción (bloqueo típico en hilos largos).",
+      "items": [
+        "Best regards,",
+        "Thanks!",
+        "Hi Maria,",
+        "Could you please confirm you received the attachment?",
+        "If not, I can resend it.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        4,
+        1,
+        0,
+        5
+      ],
+      "explanation": "Añadir “If not, I can resend it” convierte un reorder obvio en uno funcional (resuelve el bloqueo)."
+    },
+    {
+      "id": "b1-s01-core-reorder-08",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con contexto breve + ask + deadline + next step.",
+      "items": [
+        "Thanks in advance.",
+        "Hi Tom,",
+        "This is the latest version after the client call (v2).",
+        "Once it’s approved, I’ll send the final PDF.",
+        "Attached is the updated draft for your review.",
+        "Could you please approve it by Tuesday, if possible?",
+        "Kind regards,",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        4,
+        2,
+        5,
+        3,
+        0,
+        6,
+        7
+      ],
+      "explanation": "Adjunto → contexto → ask + soft deadline → next step (final PDF) = email real y accionable."
+    },
+    {
+      "id": "b1-s01-core-reorder-09",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email ultra corto cuando el contexto ya está en el hilo (pero añade un deadline).",
+      "items": [
+        "Thanks,",
+        "Hello,",
+        "If possible, could you send me the updated file by Thursday?",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "explanation": "Ultra corto ≠ vago: añade un día (“by Thursday”) para que el hilo avance."
+    },
+    {
+      "id": "b1-s01-core-reorder-10",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena una solicitud con deadline suave + next step.",
+      "items": [
+        "Best,",
+        "Thanks!",
+        "Hi Maria,",
+        "If possible, could you review this by Thursday?",
+        "Once I have your approval, I’ll share the final version.",
+        "Ana"
+      ],
+      "correctOrder": [
+        2,
+        3,
+        4,
+        1,
+        0,
+        5
+      ],
+      "explanation": "Añadir next step (“Once I have your approval…”) reduce preguntas y hace el email más profesional."
+    },
+    {
+      "id": "b1-s01-core-reorder-11",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email pidiendo feedback breve + deadline (low effort).",
+      "items": [
+        "Kind regards,",
+        "Hi John,",
+        "Thanks in advance.",
+        "Any quick feedback by Tuesday would be appreciated.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        2,
+        0,
+        4
+      ],
+      "explanation": "“quick feedback” baja fricción y hace más probable una respuesta. Añadir día concreta el pedido."
+    },
+    {
+      "id": "b1-s01-core-reorder-12",
+      "type": "reorder",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Ordena un email con propósito claro en la primera frase + soft deadline + next step.",
+      "items": [
+        "Best regards,",
+        "Thanks!",
+        "Could you please approve it by Friday, if possible?",
+        "Hi Maria,",
+        "I’m writing to request your approval on the attached draft (v2).",
+        "Once approved, I’ll update and send the final version today.",
+        "Ana"
+      ],
+      "correctOrder": [
+        3,
+        4,
+        2,
+        5,
+        1,
+        0,
+        6
+      ],
+      "explanation": "Propósito en 1ª frase + soft deadline + next step = email real, no ejercicio mecánico."
+    },
+    {
+      "id": "b1-s01-core-err-01",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Elige la opción correcta (petición educada + deadline suave).",
+      "pairs": [
+        {
+          "wrong": "Approve this today and send me an answer.",
+          "correct": "Could you please approve this by Thursday, if possible?",
+          "explanation": "Cambia imperativo + presión (“today”) por petición educada + soft deadline (“if possible”)."
+        },
+        {
+          "wrong": "Send me the file now. I need it.",
+          "correct": "Could you please send me the file when you have a moment?",
+          "explanation": "Evita “now” y reduce presión con una fórmula neutra sin sonar urgente."
+        },
+        {
+          "wrong": "You must approve it before Friday.",
+          "correct": "Could you please review and approve it by Friday?",
+          "explanation": "En email laboral, “must” suena duro; mejor “Could you please…” + acción clara + deadline."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-02",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Elige la gramática correcta (formas típicas de email).",
+      "pairs": [
+        {
+          "wrong": "I writing to confirm the next steps.",
+          "correct": "I’m writing to confirm the next steps.",
+          "explanation": "Falta el auxiliar “I’m” para que suene natural y correcto."
+        },
+        {
+          "wrong": "Could you please to review the attached draft by Tuesday?",
+          "correct": "Could you please review the attached draft by Tuesday?",
+          "explanation": "Después de “please” va verbo base (review), sin “to”."
+        },
+        {
+          "wrong": "Attached are the updated draft for your review.",
+          "correct": "Attached is the updated draft for your review.",
+          "explanation": "“Draft” es singular → “Attached is …”."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-03",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Elige la versión más clara (evitar vaguedad + objetivo concreto).",
+      "pairs": [
+        {
+          "wrong": "I’m emailing about some things we discussed.",
+          "correct": "I’m writing to ask for your approval on the attached draft.",
+          "explanation": "El objetivo debe estar explícito (ask for approval) para evitar interpretaciones."
+        },
+        {
+          "wrong": "Please see the document. It’s important.",
+          "correct": "Attached is the updated draft for your review (v2, after Monday’s meeting).",
+          "explanation": "Añade qué es + para qué + referencia de versión/contexto (v2, meeting)."
+        },
+        {
+          "wrong": "Let me know soon.",
+          "correct": "If possible, could you let me know by Thursday?",
+          "explanation": "“Soon” es vago; un día concreto + softener (“If possible”) es profesional."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-04",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "🧠 VOCAB (B1): Elige collocations naturales para emails (claridad + tono).",
+      "pairs": [
+        {
+          "wrong": "make a decision about it",
+          "correct": "make a decision on it",
+          "explanation": "Collocation natural en contexto de documento/propuesta: decision on (algo concreto)."
+        },
+        {
+          "wrong": "give me a feedback",
+          "correct": "share your feedback",
+          "explanation": "En email suena más natural “share feedback” que “give me a feedback”."
+        },
+        {
+          "wrong": "do a quick check",
+          "correct": "do a quick check of it",
+          "explanation": "“Check” suele ir con objeto (“check of it / check the draft”)."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-05",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Elige el tono profesional (saludos + cierres apropiados).",
+      "pairs": [
+        {
+          "wrong": "Hey Maria!!!",
+          "correct": "Hi Maria,",
+          "explanation": "Evita exceso de exclamaciones; “Hi + nombre” es neutro-profesional."
+        },
+        {
+          "wrong": "Ok bye.",
+          "correct": "Thanks in advance for your help.",
+          "explanation": "Cierra con gratitud y propósito (reduce fricción y mantiene tono profesional)."
+        },
+        {
+          "wrong": "Cheers love,",
+          "correct": "Kind regards,",
+          "explanation": "Evita lenguaje personal; “Kind regards” es estándar laboral."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-06",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Elige la estructura más completa (escaneable + next step).",
+      "pairs": [
+        {
+          "wrong": "Hi Maria, approve it by Friday. Thanks. Ana",
+          "correct": "Hi Maria,\n\nI’m writing to ask for your approval on the attached draft.\nIf possible, could you approve it by Friday?\n\nOnce it’s approved, I’ll share the final version in this thread.\n\nThanks in advance.\nKind regards,\nAna",
+          "explanation": "Añade propósito, soft deadline y next step (qué pasa después) para cerrar el hilo."
+        },
+        {
+          "wrong": "Attached draft. Please approve. Thanks.",
+          "correct": "Hello,\n\nAttached is the updated draft for your review.\nCould you please approve it by Thursday?\n\nThanks,\nAna",
+          "explanation": "Mantén el email escaneable: saludo + adjunto + petición concreta + deadline."
+        },
+        {
+          "wrong": "No greeting.\nSend feedback.",
+          "correct": "Hi John,\n\nCould you please share any quick feedback by Tuesday?\n\nThanks,\nAna",
+          "explanation": "Incluso un email corto debe incluir saludo, petición clara y (si aplica) deadline."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-07",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Elige la preposición correcta (días, fechas y deadlines).",
+      "pairs": [
+        {
+          "wrong": "Please reply until Friday.",
+          "correct": "Please reply by Friday.",
+          "explanation": "Para deadlines en email: “by Friday” (no “until”)."
+        },
+        {
+          "wrong": "Let’s meet in Monday.",
+          "correct": "Let’s meet on Monday.",
+          "explanation": "Días de la semana: on Monday / on Tuesday."
+        },
+        {
+          "wrong": "I’ll send it on tomorrow.",
+          "correct": "I’ll send it tomorrow.",
+          "explanation": "Con “tomorrow/yesterday/today” no se usa “on”."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-08",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "🧠 VOCAB (B1): Elige verbos más precisos para email (acción + ownership).",
+      "pairs": [
+        {
+          "wrong": "Could you please see the draft and say yes?",
+          "correct": "Could you please review the draft and approve it?",
+          "explanation": "“Review/approve” es específico y profesional; “see/say yes” suena informal."
+        },
+        {
+          "wrong": "Could you please give me your comments?",
+          "correct": "Could you please share your comments?",
+          "explanation": "“Share comments” es más natural en contexto laboral."
+        },
+        {
+          "wrong": "I will do the final version after you.",
+          "correct": "I’ll update the final version after your feedback.",
+          "explanation": "Ownership claro: acción (update) + condición (after feedback)."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-09",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Elige el follow-up neutro (sin culpa + next step claro).",
+      "pairs": [
+        {
+          "wrong": "Why didn’t you reply? This is urgent.",
+          "correct": "Just a quick follow-up to check if you had a chance to review it.",
+          "explanation": "Evita acusaciones; usa un follow-up que mantenga el hilo vivo sin escalar tensión."
+        },
+        {
+          "wrong": "You ignored my email. Please answer.",
+          "correct": "Just checking if you had a chance to look at this. If possible, could you reply by Thursday?",
+          "explanation": "Añade soft deadline y elimina el reproche (“ignored”)."
+        },
+        {
+          "wrong": "This is unacceptable. I need an update.",
+          "correct": "Could you please let me know the status when you can?",
+          "explanation": "Pide estado con tono neutro (status) y sin lenguaje conflictivo."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-10",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "✍️ WRITING (B1): Elige la mejor línea de ownership (quién hace qué + next step).",
+      "pairs": [
+        {
+          "wrong": "You handle it and send me the final version.",
+          "correct": "Could you review it? I’ll update the final version after your feedback.",
+          "explanation": "Define roles: tú revisas; yo actualizo (reduce ambigüedad)."
+        },
+        {
+          "wrong": "Someone should fix the draft today.",
+          "correct": "Could you review the draft? I can make the updates today.",
+          "explanation": "Evita “someone”; concreta quién hace qué y cuándo."
+        },
+        {
+          "wrong": "Fix it ASAP and let me know.",
+          "correct": "If possible, could you review it today? I’ll finalize it once it’s approved.",
+          "explanation": "Reemplaza “ASAP” por soft deadline + next step (finalize once approved)."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-11",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📘 GRAMMAR (B1): Elige la forma correcta tras 'Could you please…' (verbo base + concordancia).",
+      "pairs": [
+        {
+          "wrong": "Could you please reviewing the draft today?",
+          "correct": "Could you please review the draft today?",
+          "explanation": "Después de “please” va verbo base: review (no reviewing)."
+        },
+        {
+          "wrong": "Could you please to send me the file?",
+          "correct": "Could you please send me the file?",
+          "explanation": "Sin “to”: please + verbo base."
+        },
+        {
+          "wrong": "Could you please shares your feedback?",
+          "correct": "Could you please share your feedback?",
+          "explanation": "Verbo base sin -s: share (no shares)."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-core-err-12",
+      "type": "errorCorrection",
+      "track": "core",
+      "instructions": "📩 READING (B1): Elige el cierre correcto según tono (neutral + soft deadline + next step).",
+      "pairs": [
+        {
+          "wrong": "Do it ASAP.",
+          "correct": "Thanks in advance for your help.",
+          "explanation": "Evita presión en el cierre; la gratitud mantiene tono profesional."
+        },
+        {
+          "wrong": "Ok bye!!!",
+          "correct": "Thanks — by Thursday would be great if possible.",
+          "explanation": "Soft deadline (“would be great if possible”) + tono neutro."
+        },
+        {
+          "wrong": "Later,",
+          "correct": "Best regards,",
+          "explanation": "“Later” es informal; “Best regards” es estándar laboral."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-mcq-01",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Choose the best subject line (sets expectation + context + soft deadline).\n\nBody:\nHi Maria,\n\nCould you please take a quick look at the updated proposal (v2) and share any key comments?\nBy Wednesday would be great, if possible.\nOnce I have your feedback, I’ll send the final PDF to the client.\n\nThanks,\nAna",
+      "options": [
+        "2‑min check: proposal v2 comments (by Wed, if possible)",
+        "PLEASE READ NOW!!!!",
+        "Question"
+      ],
+      "answerIndex": 0,
+      "explanation": "Subject real = esfuerzo estimado + objeto (proposal v2) + output (comments) + deadline suave. Evita alarmismo o vaguedad."
+    },
+    {
+      "id": "b1-s01-ext-mcq-02",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): What information is missing to act on this email?\n\nBody:\nHi Alex,\n\nAttached is the updated quote (v2).\nCould you please approve it?\nOnce approved, I’ll send the PO to Procurement.\n\nThanks,\nAna",
+      "options": [
+        "A deadline (by when?)",
+        "A greeting",
+        "A sign-off"
+      ],
+      "answerIndex": 0,
+      "explanation": "Falta deadline: sin “by when” el receptor no sabe prioridad y el hilo se puede bloquear."
+    },
+    {
+      "id": "b1-s01-ext-mcq-03",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which line is too strong for a colleague (tone risk)?\n\nBody:\nHi Maria,\n\nWe need approval to send the updated quote to the vendor today.\n____\n\nThanks,\nAna",
+      "options": [
+        "When you have a moment, could you please take a look?",
+        "You must approve this today.",
+        "Thanks in advance for your help."
+      ],
+      "answerIndex": 1,
+      "explanation": "“Must” + “today” suena mandón y suele generar resistencia. Mejor petición + softener."
+    },
+    {
+      "id": "b1-s01-ext-mcq-04",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): What is the clearest next step (ownership) after this email is approved?\n\nBody:\nHi Tom,\n\nIf possible, could you approve the Q1 budget draft (v2) by Friday?\nOnce approved, I’ll handle the final version.\n\nThanks,\nAna",
+      "options": [
+        "Ana will share the final version in the same thread.",
+        "Tom should rewrite the draft.",
+        "No next step is stated."
+      ],
+      "answerIndex": 0,
+      "explanation": "El email ya define ownership: Tom aprueba y Ana se encarga del siguiente paso (final version + compartirla)."
+    },
+    {
+      "id": "b1-s01-ext-mcq-05",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): You want a reply you can act on. Which request is best (action + output + deadline + softener)?\n\nBody:\nHi Alex,\n\n____\n\nThanks,\nAna",
+      "options": [
+        "Could you please help?",
+        "If possible, could you review the draft and share comments by Wednesday?",
+        "Fix it."
+      ],
+      "answerIndex": 1,
+      "explanation": "Define acción + output + fecha concreta + tono suave. Las otras opciones son vagas o duras."
+    },
+    {
+      "id": "b1-s01-ext-mcq-06",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): What information is missing to act?\n\nBody:\nHi Sarah,\n\nCould you please confirm the interview schedule for next week?\nOnce confirmed, I’ll send the invites.\n\nThanks,\nAna",
+      "options": [
+        "Which time slots / which days (specific details)",
+        "A sign-off",
+        "A subject line"
+      ],
+      "answerIndex": 0,
+      "explanation": "Para actuar hace falta el detalle operativo (slots/días). Sin eso, el receptor no sabe qué confirmar."
+    },
+    {
+      "id": "b1-s01-ext-mcq-07",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which follow-up is best (neutral + clear next action + soft deadline)?\n\nBody:\nHi Maria,\n\nWe need your approval to send the NDA to the client.\n____\n\nThanks,\nAna",
+      "options": [
+        "Why no reply?",
+        "Just checking if you had a chance to review this — if possible, could you reply by Thursday?",
+        "Answer me."
+      ],
+      "answerIndex": 1,
+      "explanation": "Follow-up profesional: neutral + acción clara + deadline suave. Evita culpa o imperativos."
+    },
+    {
+      "id": "b1-s01-ext-mcq-08",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): What is missing to act on this request?\n\nBody:\nHi Maria,\n\nPlease approve the updated campaign copy (v2).\nThanks in advance.\n\nAna",
+      "options": [
+        "What exactly should Maria check (tone? key messages?)",
+        "A greeting",
+        "A sign-off"
+      ],
+      "answerIndex": 0,
+      "explanation": "El receptor necesita criterios (qué revisar) para dar una aprobación útil y evitar idas y vueltas."
+    },
+    {
+      "id": "b1-s01-ext-mcq-09",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING/TONO (B1+): Choose the soft deadline that keeps urgency LOW but clarity HIGH.\n\nBody:\nHi Maria,\n\nCould you approve the updated PO? ____\n\nThanks,\nAna",
+      "options": [
+        "Do it now.",
+        "By Thursday would be great, if possible.",
+        "You are late."
+      ],
+      "answerIndex": 1,
+      "explanation": "“Would be great” + “if possible” mantiene claridad sin presión. Las otras opciones son agresivas/culpabilizadoras."
+    },
+    {
+      "id": "b1-s01-ext-mcq-10",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Choose the best neutral reminder that still includes a deadline.\n\nBody:\nHi Alex,\n\nWe’re waiting for approval to send the final quote to the vendor.\n____\n\nThanks,\nAna",
+      "options": [
+        "Friendly reminder: approval by Friday would be great if possible.",
+        "You forgot to approve.",
+        "This is unacceptable."
+      ],
+      "answerIndex": 0,
+      "explanation": "Reminder neutral = sin culpa + deadline suave. Las otras opciones escalan conflicto."
+    },
+    {
+      "id": "b1-s01-ext-mcq-11",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Which ask is the clearest and most actionable?\n\nBody:\nHi Maria,\n\nWe need to send the final proposal to the client tomorrow.\n____\n\nThanks,\nAna",
+      "options": [
+        "Please look.",
+        "Could you please approve the attached proposal (v2) by Thursday if possible?",
+        "This needs attention."
+      ],
+      "answerIndex": 1,
+      "explanation": "Ask accionable = verbo + objeto + versión + deadline suave. Evita vaguedad."
+    },
+    {
+      "id": "b1-s01-ext-mcq-12",
+      "type": "multipleChoice",
+      "track": "extension",
+      "prompt": "📩 READING (B1+): Choose the best opening when you need a quick decision (clear but not aggressive).\n\nBody:\nHi Maria,\n\n____\nThe updated draft is attached (v2).\nBy Thursday would be great if possible.\nOnce approved, I’ll send the final version to the client.\n\nThanks,\nAna",
+      "options": [
+        "I’m writing to ask for a quick decision on the attached draft (v2).",
+        "Hello. Many things.",
+        "This is urgent!!!"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pide decisión rápida sin sonar agresivo: objetivo claro + contexto (v2) + deadline suave + next step."
+    },
+    {
+      "id": "b1-s01-ext-fill-01",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (Finance). 7 huecos. Elige 1 de 3 opciones por hueco (solo 1 correcta).",
+      "text": "Hi Maria,\nI’m writing to ____ your approval on the Q1 budget draft (v2).\n____, could you please ____ it by ____?\nOnce approved, I’ll ____ the final version in this ____.\nThanks in advance,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "request",
+        "If possible",
+        "approve",
+        "Thursday",
+        "share",
+        "thread",
+        "time"
+      ],
+      "choices": [
+        [
+          "request",
+          "requesting",
+          "to request"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Finance): aprobación + deadline suave + next step + canal."
+    },
+    {
+      "id": "b1-s01-ext-fill-02",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email a un proveedor (Procurement). 7 huecos.",
+      "text": "Hello,\nCould you please ____ the updated quote attached and ____ the final price by ____?\n____, could you also confirm the delivery timeline?\nOnce confirmed, I’ll ____ internally and ____ the PO in the same ____.\nKind regards,\nAna",
+      "answers": [
+        "review",
+        "confirm",
+        "Friday",
+        "If possible",
+        "proceed",
+        "send",
+        "thread"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "Friday",
+          "in Friday",
+          "at Friday"
+        ],
+        [
+          "If possible",
+          "Now",
+          "Immediately"
+        ],
+        [
+          "proceed",
+          "proceeds",
+          "proceeding"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "thread",
+          "table",
+          "paper"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Procurement): quote + confirm price + timeline + next step (PO)."
+    },
+    {
+      "id": "b1-s01-ext-fill-03",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email a cliente (Sales). 7 huecos.",
+      "text": "Hi James, Please find the updated proposal (v2) ____.\nI’m writing to ____ your approval.\n____, could you please ____ it by ____?\nOnce approved, I’ll ____ the final PDF.\nBest regards,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "attached",
+        "request",
+        "If possible",
+        "approve",
+        "Tuesday",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "attached",
+          "attach",
+          "attaching"
+        ],
+        [
+          "request",
+          "requesting",
+          "to request"
+        ],
+        [
+          "If possible",
+          "ASAP",
+          "Now"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Sales): propuesta + aprobación + deadline suave + siguiente paso (PDF final)."
+    },
+    {
+      "id": "b1-s01-ext-fill-04",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (Project ops). 7 huecos.",
+      "text": "Hi team,\nJust to ____ the next steps after yesterday’s meeting:\nCould you please ____ the updated timeline by ____?\n____, include any blockers.\nI’ll ____ the master plan and ____ it in this ____.\nThanks,\nAna",
+      "answers": [
+        "confirm",
+        "share",
+        "Wednesday",
+        "If possible",
+        "update",
+        "share",
+        "thread"
+      ],
+      "choices": [
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "update",
+          "updates",
+          "updating"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Ops): timeline + blockers + ownership (I’ll update) + canal."
+    },
+    {
+      "id": "b1-s01-ext-fill-05",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Follow-up a Legal/Compliance (tono neutro). 7 huecos.",
+      "text": "Hi Laura,\nJust a quick ____ to check the status of the NDA review.\n____, could you ____ it by ____?\nOnce it’s approved, I’ll ____ the signed copy in this ____.\nThanks in advance,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "follow-up",
+        "If possible",
+        "approve",
+        "Thursday",
+        "share",
+        "thread",
+        "time"
+      ],
+      "choices": [
+        [
+          "follow-up",
+          "follow",
+          "following"
+        ],
+        [
+          "If possible",
+          "Now",
+          "Immediately"
+        ],
+        [
+          "approve",
+          "approval",
+          "approving"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "thread",
+          "tread",
+          "threat"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Legal): follow-up sin culpa + soft deadline + next step (share signed copy)."
+    },
+    {
+      "id": "b1-s01-ext-fill-06",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (Marketing). 7 huecos.",
+      "text": "Hi Maria,\nCould you please ____ the campaign copy (v2) and ____ any changes by ____?\n____, focus on tone and key messages.\nI’ll ____ the final version and ____ it to the designer.\nThanks,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "review",
+        "share",
+        "Tuesday",
+        "If possible",
+        "finalize",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Marketing): revisión de copy + output + deadline + next step (designer)."
+    },
+    {
+      "id": "b1-s01-ext-fill-07",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email de confirmación de recepción (Finance/invoice). 7 huecos.",
+      "text": "Hi Tom,\nCould you please ____ you received invoice #1042?\nIf not, I can ____ it right away. ____, could you confirm the payment date?\nOnce confirmed, I’ll ____ our records and ____ you.\nKind regards, Could you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "confirm",
+        "resend",
+        "If possible",
+        "update",
+        "notify",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "resend",
+          "resending",
+          "to resend"
+        ],
+        [
+          "If possible",
+          "Now",
+          "Immediately"
+        ],
+        [
+          "update",
+          "updates",
+          "updating"
+        ],
+        [
+          "notify",
+          "notifies",
+          "notifying"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Finance): confirm receipt + plan B + pedir fecha de pago + actualizar registros."
+    },
+    {
+      "id": "b1-s01-ext-fill-08",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (HR scheduling). 7 huecos.",
+      "text": "Hi Sarah,\nI’m writing to ____ the interview schedule for next week.\n____, could you ____ the final time slots by ____?\nOnce confirmed, I’ll ____ the invites and ____ them today.\nThanks,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "confirm",
+        "If possible",
+        "share",
+        "Wednesday",
+        "prepare",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "confirm",
+          "confirmation",
+          "confirming"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "prepare",
+          "prepares",
+          "preparing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (HR): confirmar slots + next steps (invites)."
+    },
+    {
+      "id": "b1-s01-ext-fill-09",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (Product). 7 huecos.",
+      "text": "Hi team,\nPlease ____ the release notes (v2) and ____ any key issues by ____.\n____, focus on customer impact.\nI’ll ____ the final notes and ____ them to Support.\nBest,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "review",
+        "share",
+        "Tuesday",
+        "If possible",
+        "finalize",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Tuesday",
+          "in Tuesday",
+          "at Tuesday"
+        ],
+        [
+          "If possible",
+          "Now",
+          "Immediately"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (Product): release notes + issues + stakeholder (Support)."
+    },
+    {
+      "id": "b1-s01-ext-fill-10",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email interno (IT / access). 7 huecos.",
+      "text": "Hello,\nCould you please ____ access to the shared folder for the new joiner?\n____, could you do it by ____?\nOnce done, I’ll ____ the team and ____ the onboarding checklist. Thanks in advance,\nCould you please confirm the ____?\nIf you have any questions, please let me ____.\nAna",
+      "answers": [
+        "grant",
+        "If possible",
+        "Thursday",
+        "notify",
+        "update",
+        "time",
+        "know"
+      ],
+      "choices": [
+        [
+          "grant",
+          "grants",
+          "granting"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "Thursday",
+          "in Thursday",
+          "at Thursday"
+        ],
+        [
+          "notify",
+          "notifies",
+          "notifying"
+        ],
+        [
+          "update",
+          "updates",
+          "updating"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ],
+        [
+          "known",
+          "know",
+          "knowing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (IT): petición clara (grant access) + deadline suave + next steps (notify/update)."
+    },
+    {
+      "id": "b1-s01-ext-fill-11",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Email de seguimiento (Customer Success). 7 huecos.",
+      "text": "Hi Maria,\nJust checking if you had a chance to ____ the QBR deck (v2).\n____, could you ____ any comments by ____?\nOnce I have your feedback, I’ll ____ the final deck and ____ it to the client.\nThanks,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "review",
+        "If possible",
+        "share",
+        "Wednesday",
+        "finalize",
+        "send",
+        "time"
+      ],
+      "choices": [
+        [
+          "review",
+          "to review",
+          "reviewing"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "share",
+          "shares",
+          "sharing"
+        ],
+        [
+          "Wednesday",
+          "in Wednesday",
+          "at Wednesday"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial (CS): QBR deck + comments + deadline suave + next step (client)."
+    },
+    {
+      "id": "b1-s01-ext-fill-12",
+      "type": "fillBlanks",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Clarificación (deadline + next steps) sin sonar duro. 7 huecos.",
+      "text": "Hi Maria,\nJust to ____, the deadline is ____.\nAfter that, I’ll ____ the final version and ____ it to the ____.\n____, let me know if anything needs to change.\nKind regards,\nCould you please confirm the ____?\nAna",
+      "answers": [
+        "clarify",
+        "Friday",
+        "finalize",
+        "send",
+        "client",
+        "If possible",
+        "time"
+      ],
+      "choices": [
+        [
+          "clarify",
+          "clarification",
+          "clarifying"
+        ],
+        [
+          "Friday",
+          "in Friday",
+          "at Friday"
+        ],
+        [
+          "finalize",
+          "final",
+          "finalizing"
+        ],
+        [
+          "send",
+          "sending",
+          "sent"
+        ],
+        [
+          "client",
+          "clients",
+          "customer"
+        ],
+        [
+          "If possible",
+          "Now",
+          "ASAP"
+        ],
+        [
+          "time",
+          "times",
+          "timing"
+        ]
+      ],
+      "explanation": "Contexto empresarial: clarifica deadline + plan (finalize/send) + softener final para mantener tono neutro."
+    },
+    {
+      "id": "b1-s01-ext-reorder-01",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email escaneable con ownership (tú comentas, yo actualizo) + deadline suave.",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "Thanks in advance.",
+        "Could you please share any key comments by Wednesday, if possible?",
+        "Attached is the updated draft (v2) for your review.",
+        "Once I get your feedback, I’ll update and send the final version in this thread.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        4,
+        3,
+        5,
+        2,
+        0,
+        6
+      ],
+      "explanation": "Ampliación: añade ownership y next step para cerrar el hilo (menos back-and-forth)."
+    },
+    {
+      "id": "b1-s01-ext-reorder-02",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un follow-up neutro con deadline suave + next step.",
+      "items": [
+        "Best,",
+        "Hi Tom,",
+        "Thanks!",
+        "Just checking if you had a chance to review the draft.",
+        "By Thursday would be great if possible.",
+        "Once it’s approved, I’ll send the final version today.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        5,
+        2,
+        0,
+        6
+      ],
+      "explanation": "Follow-up real: neutral → deadline suave → next step (qué harás después) → thanks → sign-off."
+    },
+    {
+      "id": "b1-s01-ext-reorder-03",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con contexto del hilo (last email) + ask + deadline suave.",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "It includes the changes requested in your last email.",
+        "Thanks in advance.",
+        "Please find the updated draft (v2) attached for your review.",
+        "If possible, could you approve it by Friday?",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        4,
+        2,
+        5,
+        3,
+        0,
+        6
+      ],
+      "explanation": "Adjunto → contexto (last email) → ask + soft deadline → cierre. Muy escaneable."
+    },
+    {
+      "id": "b1-s01-ext-reorder-04",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email pidiendo una decisión rápida sin sonar agresivo (quick decision + soft deadline).",
+      "items": [
+        "Best regards,",
+        "Hi Alex,",
+        "I’m writing to request your approval on the attached draft (v2).",
+        "If possible, could you approve it by Thursday?",
+        "That would be great — thanks in advance.",
+        "Once approved, I’ll update and send the final version today.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        2,
+        3,
+        5,
+        4,
+        0,
+        6
+      ],
+      "explanation": "Ampliación: quick decision + deadline suave + next step. Evita presión y mantiene claridad."
+    },
+    {
+      "id": "b1-s01-ext-reorder-05",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email ultra corto con output claro + deadline suave.",
+      "items": [
+        "Thanks,",
+        "Hello,",
+        "If possible, could you review and send me your feedback by Thursday?",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "explanation": "Ultra corto pero accionable: acción + output (feedback) + día concreto + softener."
+    },
+    {
+      "id": "b1-s01-ext-reorder-06",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email para confirmar recepción del adjunto (plan B incluido).",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "Thanks in advance.",
+        "If not, I can resend it right away.",
+        "Could you please confirm you received the attachment?",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        4,
+        3,
+        2,
+        0,
+        5
+      ],
+      "explanation": "Añadir plan B (resend) convierte el ejercicio en un caso real de bloqueo en email."
+    },
+    {
+      "id": "b1-s01-ext-reorder-07",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con low effort (take a quick look) + output + deadline suave.",
+      "items": [
+        "Best,",
+        "Hi Tom,",
+        "Thanks!",
+        "Attached is the updated draft (v2).",
+        "Could you please take a quick look and share any key comments by Wednesday, if possible?",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        2,
+        0,
+        5
+      ],
+      "explanation": "“Quick look” baja fricción; pedir comments + día concreto hace el pedido útil."
+    },
+    {
+      "id": "b1-s01-ext-reorder-08",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con clarificación final (deadline) + next step.",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "Thanks in advance.",
+        "Could you please approve the draft by Friday if possible?",
+        "Just to clarify, the deadline is Friday.",
+        "Once approved, I’ll finalize and send the final version to the client.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        5,
+        2,
+        0,
+        6
+      ],
+      "explanation": "Clarify solo si aporta valor (evitar malentendidos). Luego next step para cerrar el proceso."
+    },
+    {
+      "id": "b1-s01-ext-reorder-09",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email muy directo (purpose first) + adjunto + ask + soft deadline.",
+      "items": [
+        "Best regards,",
+        "Hi John,",
+        "Could you please approve it by Thursday, if possible?",
+        "I’m writing to request your approval on the attached draft (v2).",
+        "Please find the draft attached.",
+        "Thanks!",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        2,
+        5,
+        0,
+        6
+      ],
+      "explanation": "Purpose first → attach → ask + soft deadline → thanks → sign-off. Muy escaneable."
+    },
+    {
+      "id": "b1-s01-ext-reorder-10",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con 2 acciones + output + deadline (más denso).",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "Thanks in advance.",
+        "If possible, could you review the draft and share comments by Wednesday?",
+        "I’ll update the final version after your feedback and send it here.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        2,
+        0,
+        5
+      ],
+      "explanation": "Ampliación: dos acciones + deadline + ownership (yo actualizo) para un flujo completo."
+    },
+    {
+      "id": "b1-s01-ext-reorder-11",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un reminder friendly + soft deadline + next step.",
+      "items": [
+        "Best,",
+        "Hi Alex,",
+        "Thanks!",
+        "Just a friendly reminder about the draft approval.",
+        "If possible, could you approve it today?",
+        "Once it’s approved, I’ll send the final version today.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        5,
+        2,
+        0,
+        6
+      ],
+      "explanation": "Friendly reminder evita culpa; soft deadline mantiene objetivo; next step cierra el proceso."
+    },
+    {
+      "id": "b1-s01-ext-reorder-12",
+      "type": "reorder",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Ordena un email con “when you have a moment” + output + deadline suave.",
+      "items": [
+        "Kind regards,",
+        "Hi Maria,",
+        "Thanks in advance.",
+        "When you have a moment, could you please review the draft (v2)?",
+        "If possible, any quick feedback by Tuesday would be appreciated.",
+        "Ana"
+      ],
+      "correctOrder": [
+        1,
+        3,
+        4,
+        2,
+        0,
+        5
+      ],
+      "explanation": "Muy natural: moment (suaviza) + feedback (output) + Tuesday (deadline) sin sonar mandón."
+    },
+    {
+      "id": "b1-s01-ext-err-01",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING/TONO (B1+): Elige la opción más diplomática (mismo objetivo, menos presión + deadline suave).",
+      "pairs": [
+        {
+          "wrong": "You must approve this today.",
+          "correct": "If possible, could you approve this today?",
+          "explanation": "Mantiene el objetivo (hoy) pero elimina “must” y añade softener (“If possible”)."
+        },
+        {
+          "wrong": "Why no reply?",
+          "correct": "Just checking if you had a chance to look at this.",
+          "explanation": "Follow-up neutro: evita culpa y suena colaborativo."
+        },
+        {
+          "wrong": "This is urgent!!!",
+          "correct": "This is time-sensitive — could you please review it today if possible?",
+          "explanation": "Evita dramatismo; usa “time-sensitive” + petición educada + deadline suave."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-02",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Elige la versión más escaneable (saltos de línea + objetivo + next step).",
+      "pairs": [
+        {
+          "wrong": "Hi Maria, attached draft. approve by Thu. thanks. Ana",
+          "correct": "Hi Maria,\n\nPlease find the updated draft (v2) attached.\nIf possible, could you approve it by Thursday?\n\nOnce it’s approved, I’ll send the final version in this thread.\n\nThanks in advance.\nKind regards,\nAna",
+          "explanation": "Ampliación: estructura escaneable + soft deadline + next step (qué harás después)."
+        },
+        {
+          "wrong": "Hello. This is about stuff.",
+          "correct": "Hello,\n\nI’m writing to request your approval on the attached draft.\n\nThanks,\nAna",
+          "explanation": "Evita “stuff”; usa propósito concreto (request approval)."
+        },
+        {
+          "wrong": "Review it.",
+          "correct": "Could you please review the draft and share any key comments?",
+          "explanation": "Añade cortesía + output (comments) para que el feedback sea accionable."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-03",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR (B1+): Elige la versión correcta (estructura típica de email + verbos base).",
+      "pairs": [
+        {
+          "wrong": "Please find attached the draft.",
+          "correct": "Please find the draft attached.",
+          "explanation": "Orden más natural en email: “find the draft attached”."
+        },
+        {
+          "wrong": "Could you please review it and shares comments?",
+          "correct": "Could you please review it and share comments?",
+          "explanation": "Tras “and” va verbo base: share (sin -s)."
+        },
+        {
+          "wrong": "I’m writing for ask your approval.",
+          "correct": "I’m writing to ask for your approval.",
+          "explanation": "Estructura correcta: writing to + verb / ask for + noun."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-04",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR/TONO (B1+): Elige el deadline suave más natural (matiz) y corrige formas duras.",
+      "pairs": [
+        {
+          "wrong": "Approve by Friday.",
+          "correct": "By Friday would be great if possible.",
+          "explanation": "Soft deadline: “would be great” + “if possible” suena colaborativo."
+        },
+        {
+          "wrong": "I need this now.",
+          "correct": "When you have a moment, could you please take a look?",
+          "explanation": "Reduce presión con “when you have a moment”."
+        },
+        {
+          "wrong": "Do it today.",
+          "correct": "If possible, could you review it today?",
+          "explanation": "Mantiene el objetivo (hoy) con tono educado y no imperativo."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-05",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "🧠 VOCAB/WRITING (B1+): Elige collocations naturales de email (output claro).",
+      "pairs": [
+        {
+          "wrong": "make me your feedback",
+          "correct": "share your feedback",
+          "explanation": "Collocation natural: share feedback."
+        },
+        {
+          "wrong": "give a look",
+          "correct": "take a look",
+          "explanation": "Collocation natural: take a look."
+        },
+        {
+          "wrong": "send me your doubts",
+          "correct": "let me know if you have any questions",
+          "explanation": "Fórmula estándar y profesional para invitar preguntas."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-06",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING/TONO (B1+): Elige el subject, saludo y cierre más profesionales (sin alarmismo).",
+      "pairs": [
+        {
+          "wrong": "IMPORTANT MESSAGE (READ NOW)",
+          "correct": "Approval needed: updated draft (v2) attached",
+          "explanation": "Asunto profesional = acción + contexto; evita alarmismo."
+        },
+        {
+          "wrong": "See ya,",
+          "correct": "Best regards,",
+          "explanation": "“Best regards” es neutro profesional; “See ya” es informal."
+        },
+        {
+          "wrong": "Yo John,",
+          "correct": "Hi John,",
+          "explanation": "“Yo” es demasiado informal para un email de trabajo."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-07",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Elige la mejor frase para ownership + next step (flujo completo).",
+      "pairs": [
+        {
+          "wrong": "Review it. I will do the rest.",
+          "correct": "Could you review it? I’ll update the final version after your feedback.",
+          "explanation": "Ownership claro: tú revisas; yo actualizo tras feedback."
+        },
+        {
+          "wrong": "You handle it.",
+          "correct": "Could you take a quick look? I’ll finalize it once it’s approved.",
+          "explanation": "Más colaborativo + next step (finalize once approved)."
+        },
+        {
+          "wrong": "Fix this ASAP.",
+          "correct": "If possible, could you share any key comments today? I can apply the changes this afternoon.",
+          "explanation": "Reemplaza ASAP por acción concreta + soft deadline + quién hace qué."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-08",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING/TONO (B1+): Elige el reminder más neutral (sin culpa) + pregunta útil.",
+      "pairs": [
+        {
+          "wrong": "You forgot to approve.",
+          "correct": "Just a friendly reminder about the draft approval.",
+          "explanation": "Friendly reminder evita acusación directa."
+        },
+        {
+          "wrong": "Why is this not done?",
+          "correct": "Just checking on the status when you have a moment.",
+          "explanation": "Pide estado sin presión ni culpa."
+        },
+        {
+          "wrong": "This is unacceptable.",
+          "correct": "Could you please let me know if Friday still works for you?",
+          "explanation": "Reenfoca en el deadline y pide confirmación con tono neutro."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-09",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📘 GRAMMAR (B1+): Elige la forma correcta con 'Just to clarify…' (claro y natural).",
+      "pairs": [
+        {
+          "wrong": "Just to clarify, the deadline are Friday.",
+          "correct": "Just to clarify, the deadline is Friday.",
+          "explanation": "deadline singular → is."
+        },
+        {
+          "wrong": "Just to clarify, deadline is on Friday by.",
+          "correct": "Just to clarify, the deadline is Friday.",
+          "explanation": "Mantén simple: “the deadline is Friday” (o “by Friday”)."
+        },
+        {
+          "wrong": "Just to clarify, is Friday the deadline?",
+          "correct": "Just to clarify, the deadline is Friday.",
+          "explanation": "Si estás confirmando una información ya acordada, la afirmación suele ser más directa."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-10",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "🧠 VOCAB/GRAMMAR (B1+): Elige el verbo más preciso (review / approve / confirm) + formas típicas.",
+      "pairs": [
+        {
+          "wrong": "Could you please see the draft?",
+          "correct": "Could you please review the draft?",
+          "explanation": "review = más preciso en trabajo que see."
+        },
+        {
+          "wrong": "Could you please verify you got it?",
+          "correct": "Could you please confirm you received it?",
+          "explanation": "confirm + received = fórmula típica y natural."
+        },
+        {
+          "wrong": "Could you please accept the draft?",
+          "correct": "Could you please approve the draft?",
+          "explanation": "approve es el verbo estándar para aprobación."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-11",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "✍️ WRITING (B1+): Elige la mejor frase para reducir carga (low effort) y pedir output claro.",
+      "pairs": [
+        {
+          "wrong": "Please review the full document and rewrite it.",
+          "correct": "Could you please take a quick look and share any key comments?",
+          "explanation": "Quick look reduce carga; key comments define output."
+        },
+        {
+          "wrong": "I need a lot of feedback.",
+          "correct": "Any quick feedback would be appreciated.",
+          "explanation": "“quick feedback” + appreciated = tono suave y realista."
+        },
+        {
+          "wrong": "Send me everything.",
+          "correct": "Could you please share the key points?",
+          "explanation": "Define output (key points) para respuestas útiles."
+        }
+      ]
+    },
+    {
+      "id": "b1-s01-ext-err-12",
+      "type": "errorCorrection",
+      "track": "extension",
+      "instructions": "📩 READING/TONO (B1+): Elige el mejor cierre (cortesía + deadline suave + next step).",
+      "pairs": [
+        {
+          "wrong": "Do it ASAP.",
+          "correct": "Thanks in advance — by Thursday would be great if possible.",
+          "explanation": "Cierre profesional: thanks + soft deadline; evita ASAP."
+        },
+        {
+          "wrong": "Ok bye.",
+          "correct": "Thanks — let me know if you have any questions.",
+          "explanation": "Cierra con cortesía y un next step (preguntas) para reducir fricción."
+        },
+        {
+          "wrong": "Later,",
+          "correct": "Kind regards,",
+          "explanation": "“Kind regards” es neutro laboral; “Later” es informal."
+        }
+      ]
+    }
+  ]
+}
